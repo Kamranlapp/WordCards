@@ -1,0 +1,9011 @@
+[
+  {
+    "id": "set-04-0001",
+    "setId": "set-04",
+    "translations": {
+      "en": "ABNORMAL",
+      "ru": "АНОМАЛЬНЫЙ",
+      "es": "ANORMAL"
+    }
+  },
+  {
+    "id": "set-04-0002",
+    "setId": "set-04",
+    "translations": {
+      "en": "ABOARD",
+      "ru": "НА БОРТУ",
+      "es": "A BORDO"
+    }
+  },
+  {
+    "id": "set-04-0003",
+    "setId": "set-04",
+    "translations": {
+      "en": "ABRUPT",
+      "ru": "АБРУПТ",
+      "es": "ABRUPTO"
+    }
+  },
+  {
+    "id": "set-04-0004",
+    "setId": "set-04",
+    "translations": {
+      "en": "ABSENT",
+      "ru": "ОТСУТСТВУЮЩИЙ",
+      "es": "AUSENTE"
+    }
+  },
+  {
+    "id": "set-04-0005",
+    "setId": "set-04",
+    "translations": {
+      "en": "ABSURD",
+      "ru": "АБСУРД",
+      "es": "ABSURDO"
+    }
+  },
+  {
+    "id": "set-04-0006",
+    "setId": "set-04",
+    "translations": {
+      "en": "ABUNDANT",
+      "ru": "ОБИЛЬНЫЙ",
+      "es": "ABUNDANTE"
+    }
+  },
+  {
+    "id": "set-04-0007",
+    "setId": "set-04",
+    "translations": {
+      "en": "ACID",
+      "ru": "КИСЛОТА",
+      "es": "ÁCIDO"
+    }
+  },
+  {
+    "id": "set-04-0008",
+    "setId": "set-04",
+    "translations": {
+      "en": "ACCOUNTANT",
+      "ru": "БУХГАЛТЕР",
+      "es": "CONTADOR"
+    }
+  },
+  {
+    "id": "set-04-0009",
+    "setId": "set-04",
+    "translations": {
+      "en": "ACCUSTOM",
+      "ru": "ТАМОЖНЯ",
+      "es": "ACOSTUMBRAR"
+    }
+  },
+  {
+    "id": "set-04-0010",
+    "setId": "set-04",
+    "translations": {
+      "en": "ACQUAINT",
+      "ru": "ЗНАКОМСТВО",
+      "es": "FAMILIARIZAR"
+    }
+  },
+  {
+    "id": "set-04-0011",
+    "setId": "set-04",
+    "translations": {
+      "en": "ACTIVATE",
+      "ru": "АКТИВИРОВАТЬ",
+      "es": "ACTIVAR"
+    }
+  },
+  {
+    "id": "set-04-0012",
+    "setId": "set-04",
+    "translations": {
+      "en": "ACUTE",
+      "ru": "ОСТРЫЙ",
+      "es": "AGUDO"
+    }
+  },
+  {
+    "id": "set-04-0013",
+    "setId": "set-04",
+    "translations": {
+      "en": "ADHERE",
+      "ru": "ПРИДЕРЖИВАЙТЕСЬ",
+      "es": "ADHERIRSE"
+    }
+  },
+  {
+    "id": "set-04-0014",
+    "setId": "set-04",
+    "translations": {
+      "en": "ADJACENT",
+      "ru": "СОСЕДНИЙ",
+      "es": "ADYACENTE"
+    }
+  },
+  {
+    "id": "set-04-0015",
+    "setId": "set-04",
+    "translations": {
+      "en": "ADMINISTER",
+      "ru": "АДМИНИСТРАТОР",
+      "es": "ADMINISTRAR"
+    }
+  },
+  {
+    "id": "set-04-0016",
+    "setId": "set-04",
+    "translations": {
+      "en": "ADVERSE",
+      "ru": "НЕГАТИВНЫЙ",
+      "es": "ADVERSO"
+    }
+  },
+  {
+    "id": "set-04-0017",
+    "setId": "set-04",
+    "translations": {
+      "en": "AESTHETIC",
+      "ru": "ЭСТЕТИКА",
+      "es": "ESTÉTICO"
+    }
+  },
+  {
+    "id": "set-04-0018",
+    "setId": "set-04",
+    "translations": {
+      "en": "AFFILIATE",
+      "ru": "ПАРТНЕРСКАЯ ПРОГРАММА",
+      "es": "FILIAL"
+    }
+  },
+  {
+    "id": "set-04-0019",
+    "setId": "set-04",
+    "translations": {
+      "en": "AGGRESSION",
+      "ru": "АГРЕССИЯ",
+      "es": "AGRESIÓN"
+    }
+  },
+  {
+    "id": "set-04-0020",
+    "setId": "set-04",
+    "translations": {
+      "en": "AGONY",
+      "ru": "АГОНИЯ",
+      "es": "AGONÍA"
+    }
+  },
+  {
+    "id": "set-04-0021",
+    "setId": "set-04",
+    "translations": {
+      "en": "ALIGN",
+      "ru": "ВЫРОВНЯТЬ",
+      "es": "ALINEAR"
+    }
+  },
+  {
+    "id": "set-04-0022",
+    "setId": "set-04",
+    "translations": {
+      "en": "ALIKE",
+      "ru": "ПОХОЖИЕ",
+      "es": "SIMILAR"
+    }
+  },
+  {
+    "id": "set-04-0023",
+    "setId": "set-04",
+    "translations": {
+      "en": "ALLEY",
+      "ru": "ПЕРЕУЛОК",
+      "es": "CALLEJÓN"
+    }
+  },
+  {
+    "id": "set-04-0024",
+    "setId": "set-04",
+    "translations": {
+      "en": "ALPHA",
+      "ru": "АЛЬФА",
+      "es": "ALFA"
+    }
+  },
+  {
+    "id": "set-04-0025",
+    "setId": "set-04",
+    "translations": {
+      "en": "ALTERNATE",
+      "ru": "АЛЬТЕРНАТИВНЫЙ",
+      "es": "ALTERNAR"
+    }
+  },
+  {
+    "id": "set-04-0026",
+    "setId": "set-04",
+    "translations": {
+      "en": "ALUMINIUM",
+      "ru": "АЛЮМИНИЙ",
+      "es": "ALUMINIO"
+    }
+  },
+  {
+    "id": "set-04-0027",
+    "setId": "set-04",
+    "translations": {
+      "en": "AMATEUR",
+      "ru": "ЛЮБИТЕЛЬ",
+      "es": "AFICIONADO"
+    }
+  },
+  {
+    "id": "set-04-0028",
+    "setId": "set-04",
+    "translations": {
+      "en": "AMBASSADOR",
+      "ru": "ПОСОЛ",
+      "es": "EMBAJADOR"
+    }
+  },
+  {
+    "id": "set-04-0029",
+    "setId": "set-04",
+    "translations": {
+      "en": "AMBIGUOUS",
+      "ru": "ДВУСМЫСЛЕННЫЙ",
+      "es": "AMBIGUO"
+    }
+  },
+  {
+    "id": "set-04-0030",
+    "setId": "set-04",
+    "translations": {
+      "en": "AMBITION",
+      "ru": "АМБИЦИЯ",
+      "es": "AMBICIÓN"
+    }
+  },
+  {
+    "id": "set-04-0031",
+    "setId": "set-04",
+    "translations": {
+      "en": "AMBITIOUS",
+      "ru": "АМБИЦИОЗНЫЙ",
+      "es": "AMBICIOSO"
+    }
+  },
+  {
+    "id": "set-04-0032",
+    "setId": "set-04",
+    "translations": {
+      "en": "AMBULANCE",
+      "ru": "СКОРАЯ ПОМОЩЬ",
+      "es": "AMBULANCIA"
+    }
+  },
+  {
+    "id": "set-04-0033",
+    "setId": "set-04",
+    "translations": {
+      "en": "AMID",
+      "ru": "СРЕДИ",
+      "es": "EN MEDIO DE"
+    }
+  },
+  {
+    "id": "set-04-0034",
+    "setId": "set-04",
+    "translations": {
+      "en": "ANCESTOR",
+      "ru": "ПРЕДОК",
+      "es": "ANTEPASADO"
+    }
+  },
+  {
+    "id": "set-04-0035",
+    "setId": "set-04",
+    "translations": {
+      "en": "ANCHOR",
+      "ru": "ЯКОРЬ",
+      "es": "ANCLA"
+    }
+  },
+  {
+    "id": "set-04-0036",
+    "setId": "set-04",
+    "translations": {
+      "en": "ANIMATE",
+      "ru": "ЖИВОЙ",
+      "es": "ANIMAR"
+    }
+  },
+  {
+    "id": "set-04-0037",
+    "setId": "set-04",
+    "translations": {
+      "en": "ANKLE",
+      "ru": "ЛОДЫЖКА",
+      "es": "TOBILLO"
+    }
+  },
+  {
+    "id": "set-04-0038",
+    "setId": "set-04",
+    "translations": {
+      "en": "ANNIVERSARY",
+      "ru": "ГОДОВЩИНА",
+      "es": "ANIVERSARIO"
+    }
+  },
+  {
+    "id": "set-04-0039",
+    "setId": "set-04",
+    "translations": {
+      "en": "ANONYMOUS",
+      "ru": "АНОНИМ",
+      "es": "ANÓNIMO"
+    }
+  },
+  {
+    "id": "set-04-0040",
+    "setId": "set-04",
+    "translations": {
+      "en": "ANTHROPOLOGY",
+      "ru": "АНТРОПОЛОГИЯ",
+      "es": "ANTROPOLOGÍA"
+    }
+  },
+  {
+    "id": "set-04-0041",
+    "setId": "set-04",
+    "translations": {
+      "en": "ANTIQUE",
+      "ru": "АНТИЧНЫЙ",
+      "es": "ANTIGÜEDAD"
+    }
+  },
+  {
+    "id": "set-04-0042",
+    "setId": "set-04",
+    "translations": {
+      "en": "APPAL",
+      "ru": "АППАЛА",
+      "es": "ESPANTAR"
+    }
+  },
+  {
+    "id": "set-04-0043",
+    "setId": "set-04",
+    "translations": {
+      "en": "APPLICABLE",
+      "ru": "ПРИМЕНИМЫЙ",
+      "es": "APLICABLE"
+    }
+  },
+  {
+    "id": "set-04-0044",
+    "setId": "set-04",
+    "translations": {
+      "en": "APPLICANT",
+      "ru": "ЗАЯВИТЕЛЬ",
+      "es": "SOLICITANTE"
+    }
+  },
+  {
+    "id": "set-04-0045",
+    "setId": "set-04",
+    "translations": {
+      "en": "APPRAISE",
+      "ru": "ОЦЕНКА",
+      "es": "EVALUAR"
+    }
+  },
+  {
+    "id": "set-04-0046",
+    "setId": "set-04",
+    "translations": {
+      "en": "ARCH",
+      "ru": "АРХ",
+      "es": "ARCO"
+    }
+  },
+  {
+    "id": "set-04-0047",
+    "setId": "set-04",
+    "translations": {
+      "en": "ARCHIVE",
+      "ru": "АРХИВ",
+      "es": "ARCHIVO"
+    }
+  },
+  {
+    "id": "set-04-0048",
+    "setId": "set-04",
+    "translations": {
+      "en": "ARENA",
+      "ru": "АРЕНА",
+      "es": "ARENA"
+    }
+  },
+  {
+    "id": "set-04-0049",
+    "setId": "set-04",
+    "translations": {
+      "en": "ARMOUR",
+      "ru": "ДОСПЕХИ",
+      "es": "ARMADURA"
+    }
+  },
+  {
+    "id": "set-04-0050",
+    "setId": "set-04",
+    "translations": {
+      "en": "AROUSE",
+      "ru": "ВОЗБУЖДЕНИЕ",
+      "es": "DESPERTAR"
+    }
+  },
+  {
+    "id": "set-04-0051",
+    "setId": "set-04",
+    "translations": {
+      "en": "ARRAY",
+      "ru": "МНОЖЕСТВО",
+      "es": "FORMACIÓN"
+    }
+  },
+  {
+    "id": "set-04-0052",
+    "setId": "set-04",
+    "translations": {
+      "en": "ARROGANT",
+      "ru": "ВЫСОКОМЕРНЫЙ",
+      "es": "ARROGANTE"
+    }
+  },
+  {
+    "id": "set-04-0053",
+    "setId": "set-04",
+    "translations": {
+      "en": "ARROW",
+      "ru": "СТРЕЛКА",
+      "es": "FLECHA"
+    }
+  },
+  {
+    "id": "set-04-0054",
+    "setId": "set-04",
+    "translations": {
+      "en": "ARTICULATE",
+      "ru": "СМЫСЛИТЬ",
+      "es": "ARTICULAR"
+    }
+  },
+  {
+    "id": "set-04-0055",
+    "setId": "set-04",
+    "translations": {
+      "en": "ARTIFICIAL",
+      "ru": "ИСКУССТВЕННЫЙ",
+      "es": "ARTIFICIAL"
+    }
+  },
+  {
+    "id": "set-04-0056",
+    "setId": "set-04",
+    "translations": {
+      "en": "ASH",
+      "ru": "ПЕПЕЛ",
+      "es": "CENIZA"
+    }
+  },
+  {
+    "id": "set-04-0057",
+    "setId": "set-04",
+    "translations": {
+      "en": "ASPIRE",
+      "ru": "СТРЕМИТЬСЯ",
+      "es": "ASPIRAR"
+    }
+  },
+  {
+    "id": "set-04-0058",
+    "setId": "set-04",
+    "translations": {
+      "en": "ASSASSIN",
+      "ru": "УБИЙЦА",
+      "es": "ASESINO"
+    }
+  },
+  {
+    "id": "set-04-0059",
+    "setId": "set-04",
+    "translations": {
+      "en": "ASTONISH",
+      "ru": "УДИВИТЕЛЬНЫЙ",
+      "es": "ASOMBRAR"
+    }
+  },
+  {
+    "id": "set-04-0060",
+    "setId": "set-04",
+    "translations": {
+      "en": "ASTRONOMY",
+      "ru": "АСТРОНОМИЯ",
+      "es": "ASTRONOMÍA"
+    }
+  },
+  {
+    "id": "set-04-0061",
+    "setId": "set-04",
+    "translations": {
+      "en": "ATTAIN",
+      "ru": "ДОСТИГНУТЬ",
+      "es": "ALCANZAR"
+    }
+  },
+  {
+    "id": "set-04-0062",
+    "setId": "set-04",
+    "translations": {
+      "en": "ATTORNEY",
+      "ru": "АДВОКАТ",
+      "es": "ABOGADO"
+    }
+  },
+  {
+    "id": "set-04-0063",
+    "setId": "set-04",
+    "translations": {
+      "en": "AUCTION",
+      "ru": "АУКЦИОН",
+      "es": "SUBASTA"
+    }
+  },
+  {
+    "id": "set-04-0064",
+    "setId": "set-04",
+    "translations": {
+      "en": "AUDIO",
+      "ru": "АУДИО",
+      "es": "AUDIO"
+    }
+  },
+  {
+    "id": "set-04-0065",
+    "setId": "set-04",
+    "translations": {
+      "en": "AUTHENTIC",
+      "ru": "АУТЕНТИЧНЫЙ",
+      "es": "AUTÉNTICO"
+    }
+  },
+  {
+    "id": "set-04-0066",
+    "setId": "set-04",
+    "translations": {
+      "en": "AUTOMOBILE",
+      "ru": "АВТОМОБИЛЬ",
+      "es": "AUTOMÓVIL"
+    }
+  },
+  {
+    "id": "set-04-0067",
+    "setId": "set-04",
+    "translations": {
+      "en": "AUTONOMY",
+      "ru": "АВТОНОМИЯ",
+      "es": "AUTONOMÍA"
+    }
+  },
+  {
+    "id": "set-04-0068",
+    "setId": "set-04",
+    "translations": {
+      "en": "AVENUE",
+      "ru": "АВЕНЮ",
+      "es": "AVENIDA"
+    }
+  },
+  {
+    "id": "set-04-0069",
+    "setId": "set-04",
+    "translations": {
+      "en": "AWAIT",
+      "ru": "ЖДИТЕ",
+      "es": "ESPERAR"
+    }
+  },
+  {
+    "id": "set-04-0070",
+    "setId": "set-04",
+    "translations": {
+      "en": "AXE",
+      "ru": "ТОПОР",
+      "es": "HACHA"
+    }
+  },
+  {
+    "id": "set-04-0071",
+    "setId": "set-04",
+    "translations": {
+      "en": "AYE",
+      "ru": "ДА",
+      "es": "SÍ"
+    }
+  },
+  {
+    "id": "set-04-0072",
+    "setId": "set-04",
+    "translations": {
+      "en": "BALLET",
+      "ru": "БАЛЕТ",
+      "es": "BALLET"
+    }
+  },
+  {
+    "id": "set-04-0073",
+    "setId": "set-04",
+    "translations": {
+      "en": "BALLOON",
+      "ru": "Воздушный шар",
+      "es": "GLOBO"
+    }
+  },
+  {
+    "id": "set-04-0074",
+    "setId": "set-04",
+    "translations": {
+      "en": "BALLOT",
+      "ru": "БЮЛЛЕТЕНЬ",
+      "es": "VOTACIÓN"
+    }
+  },
+  {
+    "id": "set-04-0075",
+    "setId": "set-04",
+    "translations": {
+      "en": "BANKRUPT",
+      "ru": "БАНКРОТСТВО",
+      "es": "ARRUINADO"
+    }
+  },
+  {
+    "id": "set-04-0076",
+    "setId": "set-04",
+    "translations": {
+      "en": "BARN",
+      "ru": "АМБАР",
+      "es": "GRANERO"
+    }
+  },
+  {
+    "id": "set-04-0077",
+    "setId": "set-04",
+    "translations": {
+      "en": "BARREL",
+      "ru": "СТВОЛ",
+      "es": "BARRIL"
+    }
+  },
+  {
+    "id": "set-04-0078",
+    "setId": "set-04",
+    "translations": {
+      "en": "BASEBALL",
+      "ru": "БЕЙСБОЛ",
+      "es": "BÉISBOL"
+    }
+  },
+  {
+    "id": "set-04-0079",
+    "setId": "set-04",
+    "translations": {
+      "en": "BASEMENT",
+      "ru": "ПОДВАЛ",
+      "es": "SÓTANO"
+    }
+  },
+  {
+    "id": "set-04-0080",
+    "setId": "set-04",
+    "translations": {
+      "en": "BASIN",
+      "ru": "БАССЕЙН",
+      "es": "CUENCA"
+    }
+  },
+  {
+    "id": "set-04-0081",
+    "setId": "set-04",
+    "translations": {
+      "en": "BASS",
+      "ru": "БАС",
+      "es": "BAJO"
+    }
+  },
+  {
+    "id": "set-04-0082",
+    "setId": "set-04",
+    "translations": {
+      "en": "BASTARD",
+      "ru": "СВОЛОЧЬ",
+      "es": "BASTARDO"
+    }
+  },
+  {
+    "id": "set-04-0083",
+    "setId": "set-04",
+    "translations": {
+      "en": "BATHE",
+      "ru": "КУПАТЬ",
+      "es": "BAÑARSE"
+    }
+  },
+  {
+    "id": "set-04-0084",
+    "setId": "set-04",
+    "translations": {
+      "en": "BATTERED",
+      "ru": "ИЗБИТЫЙ",
+      "es": "ABOLLADO"
+    }
+  },
+  {
+    "id": "set-04-0085",
+    "setId": "set-04",
+    "translations": {
+      "en": "BEAD",
+      "ru": "ШАРИК",
+      "es": "TALÓN"
+    }
+  },
+  {
+    "id": "set-04-0086",
+    "setId": "set-04",
+    "translations": {
+      "en": "BEARD",
+      "ru": "БОРОДА",
+      "es": "BARBA"
+    }
+  },
+  {
+    "id": "set-04-0087",
+    "setId": "set-04",
+    "translations": {
+      "en": "BEAST",
+      "ru": "ЗВЕРЬ",
+      "es": "BESTIA"
+    }
+  },
+  {
+    "id": "set-04-0088",
+    "setId": "set-04",
+    "translations": {
+      "en": "BEHALF",
+      "ru": "ОТ ИМЕНИ",
+      "es": "BENEFICIO"
+    }
+  },
+  {
+    "id": "set-04-0089",
+    "setId": "set-04",
+    "translations": {
+      "en": "BELLY",
+      "ru": "ЖИВОТ",
+      "es": "BARRIGA"
+    }
+  },
+  {
+    "id": "set-04-0090",
+    "setId": "set-04",
+    "translations": {
+      "en": "BENEFICIAL",
+      "ru": "ВЫГОДНЫЙ",
+      "es": "BENEFICIOSO"
+    }
+  },
+  {
+    "id": "set-04-0091",
+    "setId": "set-04",
+    "translations": {
+      "en": "BETRAY",
+      "ru": "ПРЕДАВАТЬ",
+      "es": "TRAICIONAR"
+    }
+  },
+  {
+    "id": "set-04-0092",
+    "setId": "set-04",
+    "translations": {
+      "en": "BICYCLE",
+      "ru": "ВЕЛОСИПЕД",
+      "es": "BICICLETA"
+    }
+  },
+  {
+    "id": "set-04-0093",
+    "setId": "set-04",
+    "translations": {
+      "en": "BIOGRAPHY",
+      "ru": "БИОГРАФИЯ",
+      "es": "BIOGRAFÍA"
+    }
+  },
+  {
+    "id": "set-04-0094",
+    "setId": "set-04",
+    "translations": {
+      "en": "BIOLOGY",
+      "ru": "БИОЛОГИЯ",
+      "es": "BIOLOGÍA"
+    }
+  },
+  {
+    "id": "set-04-0095",
+    "setId": "set-04",
+    "translations": {
+      "en": "BIZARRE",
+      "ru": "СТРАННЫЙ",
+      "es": "EXTRAÑO"
+    }
+  },
+  {
+    "id": "set-04-0096",
+    "setId": "set-04",
+    "translations": {
+      "en": "BLADE",
+      "ru": "ЛЕЗВИЕ",
+      "es": "CUCHILLA"
+    }
+  },
+  {
+    "id": "set-04-0097",
+    "setId": "set-04",
+    "translations": {
+      "en": "BLAZE",
+      "ru": "БЛЕЙЗ",
+      "es": "RESPLANDOR"
+    }
+  },
+  {
+    "id": "set-04-0098",
+    "setId": "set-04",
+    "translations": {
+      "en": "BLINK",
+      "ru": "МОРГАТЬ",
+      "es": "PARPADEAR"
+    }
+  },
+  {
+    "id": "set-04-0099",
+    "setId": "set-04",
+    "translations": {
+      "en": "BLUR",
+      "ru": "РАЗМЫТИЕ",
+      "es": "DIFUMINAR"
+    }
+  },
+  {
+    "id": "set-04-0100",
+    "setId": "set-04",
+    "translations": {
+      "en": "BOARDER",
+      "ru": "БОРДЕР",
+      "es": "HUÉSPED"
+    }
+  },
+  {
+    "id": "set-04-0101",
+    "setId": "set-04",
+    "translations": {
+      "en": "BOAST",
+      "ru": "ХВАСТАТЬСЯ",
+      "es": "ALARDE"
+    }
+  },
+  {
+    "id": "set-04-0102",
+    "setId": "set-04",
+    "translations": {
+      "en": "BOLD",
+      "ru": "СМЕЛЫЙ",
+      "es": "ATREVIDO"
+    }
+  },
+  {
+    "id": "set-04-0103",
+    "setId": "set-04",
+    "translations": {
+      "en": "BOLT",
+      "ru": "БОЛТ",
+      "es": "TORNILLO"
+    }
+  },
+  {
+    "id": "set-04-0104",
+    "setId": "set-04",
+    "translations": {
+      "en": "BONUS",
+      "ru": "БОНУС",
+      "es": "PRIMA"
+    }
+  },
+  {
+    "id": "set-04-0105",
+    "setId": "set-04",
+    "translations": {
+      "en": "BOOKING",
+      "ru": "БРОНИРОВАНИЕ",
+      "es": "RESERVA"
+    }
+  },
+  {
+    "id": "set-04-0106",
+    "setId": "set-04",
+    "translations": {
+      "en": "BOUNDS",
+      "ru": "Границы",
+      "es": "LÍMITES"
+    }
+  },
+  {
+    "id": "set-04-0107",
+    "setId": "set-04",
+    "translations": {
+      "en": "BOXED",
+      "ru": "В КОРОБКЕ",
+      "es": "EN CAJA"
+    }
+  },
+  {
+    "id": "set-04-0108",
+    "setId": "set-04",
+    "translations": {
+      "en": "BRASS",
+      "ru": "ЛАТУНЬ",
+      "es": "LATÓN"
+    }
+  },
+  {
+    "id": "set-04-0109",
+    "setId": "set-04",
+    "translations": {
+      "en": "BREACH",
+      "ru": "НАРУШЕНИЕ",
+      "es": "INCUMPLIMIENTO"
+    }
+  },
+  {
+    "id": "set-04-0110",
+    "setId": "set-04",
+    "translations": {
+      "en": "BREEZE",
+      "ru": "ВЕТЕР",
+      "es": "BRISA"
+    }
+  },
+  {
+    "id": "set-04-0111",
+    "setId": "set-04",
+    "translations": {
+      "en": "BREW",
+      "ru": "ПИВО",
+      "es": "ELABORAR CERVEZA"
+    }
+  },
+  {
+    "id": "set-04-0112",
+    "setId": "set-04",
+    "translations": {
+      "en": "BRIDE",
+      "ru": "НЕВЕСТА",
+      "es": "NOVIA"
+    }
+  },
+  {
+    "id": "set-04-0113",
+    "setId": "set-04",
+    "translations": {
+      "en": "BRIEFED",
+      "ru": "КРАТКИЙ ОБЗОР",
+      "es": "INFORMADO"
+    }
+  },
+  {
+    "id": "set-04-0114",
+    "setId": "set-04",
+    "translations": {
+      "en": "BROKER",
+      "ru": "МАКЛЕР",
+      "es": "CORREDOR"
+    }
+  },
+  {
+    "id": "set-04-0115",
+    "setId": "set-04",
+    "translations": {
+      "en": "BRONZE",
+      "ru": "БРОНЗА",
+      "es": "BRONCE"
+    }
+  },
+  {
+    "id": "set-04-0116",
+    "setId": "set-04",
+    "translations": {
+      "en": "BRUISE",
+      "ru": "СИНЯК",
+      "es": "MORETÓN"
+    }
+  },
+  {
+    "id": "set-04-0117",
+    "setId": "set-04",
+    "translations": {
+      "en": "BRUTE",
+      "ru": "ЖЕСТОКИЙ",
+      "es": "BRUTO"
+    }
+  },
+  {
+    "id": "set-04-0118",
+    "setId": "set-04",
+    "translations": {
+      "en": "BUBBLE",
+      "ru": "ПУЗЫРЬ",
+      "es": "BURBUJA"
+    }
+  },
+  {
+    "id": "set-04-0119",
+    "setId": "set-04",
+    "translations": {
+      "en": "BULB",
+      "ru": "ЛАМПОЧКА",
+      "es": "BULBO"
+    }
+  },
+  {
+    "id": "set-04-0120",
+    "setId": "set-04",
+    "translations": {
+      "en": "BULK",
+      "ru": "МАССА",
+      "es": "A GRANEL"
+    }
+  },
+  {
+    "id": "set-04-0121",
+    "setId": "set-04",
+    "translations": {
+      "en": "BULL",
+      "ru": "БЫК",
+      "es": "TORO"
+    }
+  },
+  {
+    "id": "set-04-0122",
+    "setId": "set-04",
+    "translations": {
+      "en": "BULLET",
+      "ru": "ПУЛЯ",
+      "es": "BALA"
+    }
+  },
+  {
+    "id": "set-04-0123",
+    "setId": "set-04",
+    "translations": {
+      "en": "BULLY",
+      "ru": "ТЕРРОРИЗИРОВАТЬ",
+      "es": "MATÓN"
+    }
+  },
+  {
+    "id": "set-04-0124",
+    "setId": "set-04",
+    "translations": {
+      "en": "BUNDLE",
+      "ru": "ПУЧОК",
+      "es": "MANOJO"
+    }
+  },
+  {
+    "id": "set-04-0125",
+    "setId": "set-04",
+    "translations": {
+      "en": "BUREAUCRACY",
+      "ru": "БЮРОКРАТИЯ",
+      "es": "BUROCRACIA"
+    }
+  },
+  {
+    "id": "set-04-0126",
+    "setId": "set-04",
+    "translations": {
+      "en": "BUREAUCRAT",
+      "ru": "БЮРОКРАТ",
+      "es": "BURÓCRATA"
+    }
+  },
+  {
+    "id": "set-04-0127",
+    "setId": "set-04",
+    "translations": {
+      "en": "BUTTERFLY",
+      "ru": "БАБОЧКА",
+      "es": "MARIPOSA"
+    }
+  },
+  {
+    "id": "set-04-0128",
+    "setId": "set-04",
+    "translations": {
+      "en": "BUZZ",
+      "ru": "ГУЛ",
+      "es": "ZUMBIDO"
+    }
+  },
+  {
+    "id": "set-04-0129",
+    "setId": "set-04",
+    "translations": {
+      "en": "CAB",
+      "ru": "ТАКСИ",
+      "es": "TAXI"
+    }
+  },
+  {
+    "id": "set-04-0130",
+    "setId": "set-04",
+    "translations": {
+      "en": "CABIN",
+      "ru": "КАБИНА",
+      "es": "CABINA"
+    }
+  },
+  {
+    "id": "set-04-0131",
+    "setId": "set-04",
+    "translations": {
+      "en": "CAFE",
+      "ru": "КАФЕ",
+      "es": "CAFETERÍA"
+    }
+  },
+  {
+    "id": "set-04-0132",
+    "setId": "set-04",
+    "translations": {
+      "en": "CALENDAR",
+      "ru": "КАЛЕНДАРЬ",
+      "es": "CALENDARIO"
+    }
+  },
+  {
+    "id": "set-04-0133",
+    "setId": "set-04",
+    "translations": {
+      "en": "CALORIE",
+      "ru": "КАЛОРИИ",
+      "es": "CALORÍA"
+    }
+  },
+  {
+    "id": "set-04-0134",
+    "setId": "set-04",
+    "translations": {
+      "en": "CAMPUS",
+      "ru": "КАМПУС",
+      "es": "CAMPUS"
+    }
+  },
+  {
+    "id": "set-04-0135",
+    "setId": "set-04",
+    "translations": {
+      "en": "CANAL",
+      "ru": "КАНАЛ",
+      "es": "CANAL"
+    }
+  },
+  {
+    "id": "set-04-0136",
+    "setId": "set-04",
+    "translations": {
+      "en": "CANDLE",
+      "ru": "СВЕЧА",
+      "es": "VELA"
+    }
+  },
+  {
+    "id": "set-04-0137",
+    "setId": "set-04",
+    "translations": {
+      "en": "CANVAS",
+      "ru": "ХОЛСТ",
+      "es": "LIENZO"
+    }
+  },
+  {
+    "id": "set-04-0138",
+    "setId": "set-04",
+    "translations": {
+      "en": "CAPITALISM",
+      "ru": "КАПИТАЛИЗМ",
+      "es": "CAPITALISMO"
+    }
+  },
+  {
+    "id": "set-04-0139",
+    "setId": "set-04",
+    "translations": {
+      "en": "CAPITALIST",
+      "ru": "КАПИТАЛИСТИЧЕСКИЙ",
+      "es": "CAPITALISTA"
+    }
+  },
+  {
+    "id": "set-04-0140",
+    "setId": "set-04",
+    "translations": {
+      "en": "CARGO",
+      "ru": "ГРУЗ",
+      "es": "CARGA"
+    }
+  },
+  {
+    "id": "set-04-0141",
+    "setId": "set-04",
+    "translations": {
+      "en": "CARRIAGE",
+      "ru": "ПЕРЕВОЗКА",
+      "es": "CARRO"
+    }
+  },
+  {
+    "id": "set-04-0142",
+    "setId": "set-04",
+    "translations": {
+      "en": "CARTOON",
+      "ru": "МУЛЬТФИЛЬМ",
+      "es": "DIBUJOS ANIMADOS"
+    }
+  },
+  {
+    "id": "set-04-0143",
+    "setId": "set-04",
+    "translations": {
+      "en": "CASUALTY",
+      "ru": "ПОСТРАДАВШИЙ",
+      "es": "VÍCTIMA"
+    }
+  },
+  {
+    "id": "set-04-0144",
+    "setId": "set-04",
+    "translations": {
+      "en": "CATER",
+      "ru": "КЕЙТЕР",
+      "es": "ABASTECER"
+    }
+  },
+  {
+    "id": "set-04-0145",
+    "setId": "set-04",
+    "translations": {
+      "en": "CATHEDRAL",
+      "ru": "СОБОР",
+      "es": "CATEDRAL"
+    }
+  },
+  {
+    "id": "set-04-0146",
+    "setId": "set-04",
+    "translations": {
+      "en": "CAUTION",
+      "ru": "ОСТОРОЖНОСТЬ",
+      "es": "PRECAUCIÓN"
+    }
+  },
+  {
+    "id": "set-04-0147",
+    "setId": "set-04",
+    "translations": {
+      "en": "CAUTIOUS",
+      "ru": "ОСТОРОЖНЫЙ",
+      "es": "PRECAVIDO"
+    }
+  },
+  {
+    "id": "set-04-0148",
+    "setId": "set-04",
+    "translations": {
+      "en": "CAVE",
+      "ru": "ПЕЩЕРА",
+      "es": "CUEVA"
+    }
+  },
+  {
+    "id": "set-04-0149",
+    "setId": "set-04",
+    "translations": {
+      "en": "CELEBRITY",
+      "ru": "ЗНАМЕНИТОСТЬ",
+      "es": "CELEBRIDAD"
+    }
+  },
+  {
+    "id": "set-04-0150",
+    "setId": "set-04",
+    "translations": {
+      "en": "CEMETERY",
+      "ru": "КЛАДБИЩЕ",
+      "es": "CEMENTERIO"
+    }
+  },
+  {
+    "id": "set-04-0151",
+    "setId": "set-04",
+    "translations": {
+      "en": "CENSOR",
+      "ru": "ЦЕНЗУР",
+      "es": "CENSURAR"
+    }
+  },
+  {
+    "id": "set-04-0152",
+    "setId": "set-04",
+    "translations": {
+      "en": "CENSUS",
+      "ru": "ПЕРЕПИСЬ",
+      "es": "CENSO"
+    }
+  },
+  {
+    "id": "set-04-0153",
+    "setId": "set-04",
+    "translations": {
+      "en": "CERTIFICATE",
+      "ru": "СЕРТИФИКАТ",
+      "es": "CERTIFICADO"
+    }
+  },
+  {
+    "id": "set-04-0154",
+    "setId": "set-04",
+    "translations": {
+      "en": "CERTIFY",
+      "ru": "ПОДТВЕРДИТЬ",
+      "es": "CERTIFICAR"
+    }
+  },
+  {
+    "id": "set-04-0155",
+    "setId": "set-04",
+    "translations": {
+      "en": "CHAMPAGNE",
+      "ru": "ШАМПАНСКОЕ",
+      "es": "CHAMPÁN"
+    }
+  },
+  {
+    "id": "set-04-0156",
+    "setId": "set-04",
+    "translations": {
+      "en": "CHANCELLOR",
+      "ru": "КАНЦЛЕР",
+      "es": "CANCILLER"
+    }
+  },
+  {
+    "id": "set-04-0157",
+    "setId": "set-04",
+    "translations": {
+      "en": "CHAOS",
+      "ru": "ХАОС",
+      "es": "CAOS"
+    }
+  },
+  {
+    "id": "set-04-0158",
+    "setId": "set-04",
+    "translations": {
+      "en": "CHAPEL",
+      "ru": "ЧАПЕЛЬ",
+      "es": "CAPILLA"
+    }
+  },
+  {
+    "id": "set-04-0159",
+    "setId": "set-04",
+    "translations": {
+      "en": "CHEF",
+      "ru": "ШЕФ-ПОВАР",
+      "es": "COCINERO"
+    }
+  },
+  {
+    "id": "set-04-0160",
+    "setId": "set-04",
+    "translations": {
+      "en": "CHEMISTRY",
+      "ru": "ХИМИЯ",
+      "es": "QUÍMICA"
+    }
+  },
+  {
+    "id": "set-04-0161",
+    "setId": "set-04",
+    "translations": {
+      "en": "CHIN",
+      "ru": "ПОДБОРОДОК",
+      "es": "MENTÓN"
+    }
+  },
+  {
+    "id": "set-04-0162",
+    "setId": "set-04",
+    "translations": {
+      "en": "CHOIR",
+      "ru": "ХОР",
+      "es": "CORO"
+    }
+  },
+  {
+    "id": "set-04-0163",
+    "setId": "set-04",
+    "translations": {
+      "en": "CHOKE",
+      "ru": "ДУШИТЬ",
+      "es": "AHOGO"
+    }
+  },
+  {
+    "id": "set-04-0164",
+    "setId": "set-04",
+    "translations": {
+      "en": "CHOLESTEROL",
+      "ru": "ХОЛЕСТЕРИН",
+      "es": "COLESTEROL"
+    }
+  },
+  {
+    "id": "set-04-0165",
+    "setId": "set-04",
+    "translations": {
+      "en": "CHRONIC",
+      "ru": "ХРОНИЧЕСКИЙ",
+      "es": "CRÓNICO"
+    }
+  },
+  {
+    "id": "set-04-0166",
+    "setId": "set-04",
+    "translations": {
+      "en": "CHRONICLE",
+      "ru": "ХРОНИКА",
+      "es": "CRÓNICA"
+    }
+  },
+  {
+    "id": "set-04-0167",
+    "setId": "set-04",
+    "translations": {
+      "en": "CHUNK",
+      "ru": "ЧАНК",
+      "es": "PEDAZO"
+    }
+  },
+  {
+    "id": "set-04-0168",
+    "setId": "set-04",
+    "translations": {
+      "en": "CINEMA",
+      "ru": "КИНО",
+      "es": "CINE"
+    }
+  },
+  {
+    "id": "set-04-0169",
+    "setId": "set-04",
+    "translations": {
+      "en": "CIVIC",
+      "ru": "ГРАЖДАНСКИЙ",
+      "es": "CÍVICO"
+    }
+  },
+  {
+    "id": "set-04-0170",
+    "setId": "set-04",
+    "translations": {
+      "en": "CLASH",
+      "ru": "СТОЛКНОВЕНИЕ",
+      "es": "CHOQUE"
+    }
+  },
+  {
+    "id": "set-04-0171",
+    "setId": "set-04",
+    "translations": {
+      "en": "CLASSIFICATION",
+      "ru": "КЛАССИФИКАЦИЯ",
+      "es": "CLASIFICACIÓN"
+    }
+  },
+  {
+    "id": "set-04-0172",
+    "setId": "set-04",
+    "translations": {
+      "en": "CLASSIFY",
+      "ru": "КЛАССИФИКАЦИЯ",
+      "es": "CLASIFICAR"
+    }
+  },
+  {
+    "id": "set-04-0173",
+    "setId": "set-04",
+    "translations": {
+      "en": "CLAY",
+      "ru": "ГЛИНА",
+      "es": "ARCILLA"
+    }
+  },
+  {
+    "id": "set-04-0174",
+    "setId": "set-04",
+    "translations": {
+      "en": "CLERK",
+      "ru": "КЛЕРК",
+      "es": "OFICINISTA"
+    }
+  },
+  {
+    "id": "set-04-0175",
+    "setId": "set-04",
+    "translations": {
+      "en": "CLICK",
+      "ru": "КЛИК",
+      "es": "HACER CLIC"
+    }
+  },
+  {
+    "id": "set-04-0176",
+    "setId": "set-04",
+    "translations": {
+      "en": "CLING",
+      "ru": "ЦЕПЛЯТЬСЯ",
+      "es": "ADHERIRSE"
+    }
+  },
+  {
+    "id": "set-04-0177",
+    "setId": "set-04",
+    "translations": {
+      "en": "CLONE",
+      "ru": "КЛОН",
+      "es": "CLON"
+    }
+  },
+  {
+    "id": "set-04-0178",
+    "setId": "set-04",
+    "translations": {
+      "en": "CLOSURE",
+      "ru": "ЗАКРЫТИЕ",
+      "es": "CIERRE"
+    }
+  },
+  {
+    "id": "set-04-0179",
+    "setId": "set-04",
+    "translations": {
+      "en": "CLUTCH",
+      "ru": "СХВАТИТЬ",
+      "es": "EMBRAGUE"
+    }
+  },
+  {
+    "id": "set-04-0180",
+    "setId": "set-04",
+    "translations": {
+      "en": "COFFIN",
+      "ru": "ГРОБ",
+      "es": "ATAÚD"
+    }
+  },
+  {
+    "id": "set-04-0181",
+    "setId": "set-04",
+    "translations": {
+      "en": "COGNITIVE",
+      "ru": "КОГНИТИВНЫЙ",
+      "es": "COGNITIVO"
+    }
+  },
+  {
+    "id": "set-04-0182",
+    "setId": "set-04",
+    "translations": {
+      "en": "COHERENT",
+      "ru": "КОГЕРЕНТНЫЙ",
+      "es": "COHERENTE"
+    }
+  },
+  {
+    "id": "set-04-0183",
+    "setId": "set-04",
+    "translations": {
+      "en": "COLLAR",
+      "ru": "ВОРОТНИК",
+      "es": "CUELLO"
+    }
+  },
+  {
+    "id": "set-04-0184",
+    "setId": "set-04",
+    "translations": {
+      "en": "COLONEL",
+      "ru": "ПОЛКОВНИК",
+      "es": "CORONEL"
+    }
+  },
+  {
+    "id": "set-04-0185",
+    "setId": "set-04",
+    "translations": {
+      "en": "COMIC",
+      "ru": "КОМИКС",
+      "es": "CÓMIC"
+    }
+  },
+  {
+    "id": "set-04-0186",
+    "setId": "set-04",
+    "translations": {
+      "en": "COMMENTATOR",
+      "ru": "КОММЕНТАТОР",
+      "es": "COMENTARISTA"
+    }
+  },
+  {
+    "id": "set-04-0187",
+    "setId": "set-04",
+    "translations": {
+      "en": "COMMODITY",
+      "ru": "ТОВАР",
+      "es": "PRODUCTO"
+    }
+  },
+  {
+    "id": "set-04-0188",
+    "setId": "set-04",
+    "translations": {
+      "en": "COMMUTE",
+      "ru": "ДОБИРАТЬСЯ",
+      "es": "DESPLAZARSE"
+    }
+  },
+  {
+    "id": "set-04-0189",
+    "setId": "set-04",
+    "translations": {
+      "en": "COMPACT",
+      "ru": "КОМПАКТНЫЙ",
+      "es": "COMPACTO"
+    }
+  },
+  {
+    "id": "set-04-0190",
+    "setId": "set-04",
+    "translations": {
+      "en": "COMPARATIVE",
+      "ru": "СРАВНИТЕЛЬНЫЙ",
+      "es": "COMPARATIVO"
+    }
+  },
+  {
+    "id": "set-04-0191",
+    "setId": "set-04",
+    "translations": {
+      "en": "COMPATIBLE",
+      "ru": "СОВМЕСТИМЫЙ",
+      "es": "COMPATIBLE"
+    }
+  },
+  {
+    "id": "set-04-0192",
+    "setId": "set-04",
+    "translations": {
+      "en": "COMPEL",
+      "ru": "ПРИНУЖДЕНИЕ",
+      "es": "OBLIGAR"
+    }
+  },
+  {
+    "id": "set-04-0193",
+    "setId": "set-04",
+    "translations": {
+      "en": "COMPETENCE",
+      "ru": "КОМПЕТЕНЦИЯ",
+      "es": "COMPETENCIA"
+    }
+  },
+  {
+    "id": "set-04-0194",
+    "setId": "set-04",
+    "translations": {
+      "en": "COMPILE",
+      "ru": "КОМПИЛЯЦИЯ",
+      "es": "COMPILAR"
+    }
+  },
+  {
+    "id": "set-04-0195",
+    "setId": "set-04",
+    "translations": {
+      "en": "COMPLEMENT",
+      "ru": "ДОПОЛНЕНИЕ",
+      "es": "COMPLEMENTAR"
+    }
+  },
+  {
+    "id": "set-04-0196",
+    "setId": "set-04",
+    "translations": {
+      "en": "COMPLIANCE",
+      "ru": "СОГЛАСИЕ",
+      "es": "CUMPLIMIENTO"
+    }
+  },
+  {
+    "id": "set-04-0197",
+    "setId": "set-04",
+    "translations": {
+      "en": "COMPLY",
+      "ru": "ИСПОЛНЯТЬ",
+      "es": "CUMPLIR"
+    }
+  },
+  {
+    "id": "set-04-0198",
+    "setId": "set-04",
+    "translations": {
+      "en": "COMPREHEND",
+      "ru": "ПОСТИГАТЬ",
+      "es": "COMPRENDER"
+    }
+  },
+  {
+    "id": "set-04-0199",
+    "setId": "set-04",
+    "translations": {
+      "en": "COMPRESS",
+      "ru": "КОМПРЕСС",
+      "es": "COMPRIMIR"
+    }
+  },
+  {
+    "id": "set-04-0200",
+    "setId": "set-04",
+    "translations": {
+      "en": "CON",
+      "ru": "КОН",
+      "es": "ESTAFA"
+    }
+  },
+  {
+    "id": "set-04-0201",
+    "setId": "set-04",
+    "translations": {
+      "en": "CONCEAL",
+      "ru": "СКРЫТЬ",
+      "es": "OCULTAR"
+    }
+  },
+  {
+    "id": "set-04-0202",
+    "setId": "set-04",
+    "translations": {
+      "en": "CONCEDE",
+      "ru": "УСТУПИТЬ",
+      "es": "CONCEDER"
+    }
+  },
+  {
+    "id": "set-04-0203",
+    "setId": "set-04",
+    "translations": {
+      "en": "CONCESSION",
+      "ru": "УСТУПКА",
+      "es": "CONCESIÓN"
+    }
+  },
+  {
+    "id": "set-04-0204",
+    "setId": "set-04",
+    "translations": {
+      "en": "CONFIDENTIAL",
+      "ru": "КОНФИДЕНЦИАЛЬНО",
+      "es": "CONFIDENCIAL"
+    }
+  },
+  {
+    "id": "set-04-0205",
+    "setId": "set-04",
+    "translations": {
+      "en": "CONFIGURE",
+      "ru": "НАСТРОЙКА",
+      "es": "CONFIGURAR"
+    }
+  },
+  {
+    "id": "set-04-0206",
+    "setId": "set-04",
+    "translations": {
+      "en": "CONFORM",
+      "ru": "СООТВЕТСТВУЕТ",
+      "es": "AJUSTARSE"
+    }
+  },
+  {
+    "id": "set-04-0207",
+    "setId": "set-04",
+    "translations": {
+      "en": "CONGRATULATE",
+      "ru": "ПОЗДРАВЛЯЕМ!",
+      "es": "FELICITAR"
+    }
+  },
+  {
+    "id": "set-04-0208",
+    "setId": "set-04",
+    "translations": {
+      "en": "CONGREGATE",
+      "ru": "КОНГРЕЙТ",
+      "es": "CONGREGARSE"
+    }
+  },
+  {
+    "id": "set-04-0209",
+    "setId": "set-04",
+    "translations": {
+      "en": "CONSCIENCE",
+      "ru": "СОВЕСТЬ",
+      "es": "CONCIENCIA"
+    }
+  },
+  {
+    "id": "set-04-0210",
+    "setId": "set-04",
+    "translations": {
+      "en": "CONSENSUS",
+      "ru": "КОНСЕНСУС",
+      "es": "CONSENSO"
+    }
+  },
+  {
+    "id": "set-04-0211",
+    "setId": "set-04",
+    "translations": {
+      "en": "CONSISTENCY",
+      "ru": "ПОСЛЕДОВАТЕЛЬНОСТЬ",
+      "es": "CONSISTENCIA"
+    }
+  },
+  {
+    "id": "set-04-0212",
+    "setId": "set-04",
+    "translations": {
+      "en": "CONSOLE",
+      "ru": "КОНСОЛЬ",
+      "es": "CONSOLA"
+    }
+  },
+  {
+    "id": "set-04-0213",
+    "setId": "set-04",
+    "translations": {
+      "en": "CONSOLIDATE",
+      "ru": "КОНСОЛИДАЦИЯ",
+      "es": "CONSOLIDAR"
+    }
+  },
+  {
+    "id": "set-04-0214",
+    "setId": "set-04",
+    "translations": {
+      "en": "CONSPIRACY",
+      "ru": "ЗАГОВОР",
+      "es": "CONSPIRACIÓN"
+    }
+  },
+  {
+    "id": "set-04-0215",
+    "setId": "set-04",
+    "translations": {
+      "en": "CONSTITUENCY",
+      "ru": "ИЗБИРАТЕЛЬНЫЙ ОКРУГ",
+      "es": "DISTRITO ELECTORAL"
+    }
+  },
+  {
+    "id": "set-04-0216",
+    "setId": "set-04",
+    "translations": {
+      "en": "CONTAMINATE",
+      "ru": "ЗАГРЯЗНЕНИЕ",
+      "es": "CONTAMINAR"
+    }
+  },
+  {
+    "id": "set-04-0217",
+    "setId": "set-04",
+    "translations": {
+      "en": "CONTEMPLATE",
+      "ru": "СОЗЕРЦАТЬ",
+      "es": "CONTEMPLAR"
+    }
+  },
+  {
+    "id": "set-04-0218",
+    "setId": "set-04",
+    "translations": {
+      "en": "CONTEMPT",
+      "ru": "ПРЕЗРЕНИЕ",
+      "es": "DESPRECIO"
+    }
+  },
+  {
+    "id": "set-04-0219",
+    "setId": "set-04",
+    "translations": {
+      "en": "CONTINGENT",
+      "ru": "УСЛОВНЫЙ",
+      "es": "CONTINGENTE"
+    }
+  },
+  {
+    "id": "set-04-0220",
+    "setId": "set-04",
+    "translations": {
+      "en": "CONTRARY",
+      "ru": "ПРОТИВОПОЛОЖНЫЙ",
+      "es": "CONTRARIO"
+    }
+  },
+  {
+    "id": "set-04-0221",
+    "setId": "set-04",
+    "translations": {
+      "en": "CONVENIENCE",
+      "ru": "УДОБСТВО",
+      "es": "CONVENIENCIA"
+    }
+  },
+  {
+    "id": "set-04-0222",
+    "setId": "set-04",
+    "translations": {
+      "en": "CONVENIENT",
+      "ru": "УДОБНЫЙ",
+      "es": "CONVENIENTE"
+    }
+  },
+  {
+    "id": "set-04-0223",
+    "setId": "set-04",
+    "translations": {
+      "en": "CONVERSION",
+      "ru": "ПРЕОБРАЗОВАНИЕ",
+      "es": "CONVERSIÓN"
+    }
+  },
+  {
+    "id": "set-04-0224",
+    "setId": "set-04",
+    "translations": {
+      "en": "COPPER",
+      "ru": "МЕДЬ",
+      "es": "COBRE"
+    }
+  },
+  {
+    "id": "set-04-0225",
+    "setId": "set-04",
+    "translations": {
+      "en": "COPYRIGHT",
+      "ru": "АВТОРСКОЕ ПРАВО",
+      "es": "DERECHOS DE AUTOR"
+    }
+  },
+  {
+    "id": "set-04-0226",
+    "setId": "set-04",
+    "translations": {
+      "en": "CORD",
+      "ru": "ШНУР",
+      "es": "CABLE"
+    }
+  },
+  {
+    "id": "set-04-0227",
+    "setId": "set-04",
+    "translations": {
+      "en": "CORN",
+      "ru": "КУКУРУЗА",
+      "es": "MAÍZ"
+    }
+  },
+  {
+    "id": "set-04-0228",
+    "setId": "set-04",
+    "translations": {
+      "en": "CORPS",
+      "ru": "КОРПУС",
+      "es": "CUERPO"
+    }
+  },
+  {
+    "id": "set-04-0229",
+    "setId": "set-04",
+    "translations": {
+      "en": "COSTUME",
+      "ru": "КОСТЮМ",
+      "es": "TRAJE"
+    }
+  },
+  {
+    "id": "set-04-0230",
+    "setId": "set-04",
+    "translations": {
+      "en": "COUCH",
+      "ru": "ДИВАН",
+      "es": "SOFÁ"
+    }
+  },
+  {
+    "id": "set-04-0231",
+    "setId": "set-04",
+    "translations": {
+      "en": "COUNTERPART",
+      "ru": "АНАЛОГ",
+      "es": "CONTRAPARTIDA"
+    }
+  },
+  {
+    "id": "set-04-0232",
+    "setId": "set-04",
+    "translations": {
+      "en": "COUP",
+      "ru": "ПЕРЕВОРОТ",
+      "es": "GOLPE"
+    }
+  },
+  {
+    "id": "set-04-0233",
+    "setId": "set-04",
+    "translations": {
+      "en": "COURTESY",
+      "ru": "УЧТИВОСТЬ",
+      "es": "CORTESÍA"
+    }
+  },
+  {
+    "id": "set-04-0234",
+    "setId": "set-04",
+    "translations": {
+      "en": "CREDIBLE",
+      "ru": "ДОСТОВЕРНЫЙ",
+      "es": "CREÍBLE"
+    }
+  },
+  {
+    "id": "set-04-0235",
+    "setId": "set-04",
+    "translations": {
+      "en": "CRITIQUE",
+      "ru": "КРИТИКА",
+      "es": "CRÍTICA"
+    }
+  },
+  {
+    "id": "set-04-0236",
+    "setId": "set-04",
+    "translations": {
+      "en": "CRUDE",
+      "ru": "ГРУДА",
+      "es": "CRUDO"
+    }
+  },
+  {
+    "id": "set-04-0237",
+    "setId": "set-04",
+    "translations": {
+      "en": "CRUMBLE",
+      "ru": "КРОМБЛ",
+      "es": "DESMORONARSE"
+    }
+  },
+  {
+    "id": "set-04-0238",
+    "setId": "set-04",
+    "translations": {
+      "en": "CRUST",
+      "ru": "КОРА",
+      "es": "CORTEZA"
+    }
+  },
+  {
+    "id": "set-04-0239",
+    "setId": "set-04",
+    "translations": {
+      "en": "CUBE",
+      "ru": "КУБ",
+      "es": "CUBO"
+    }
+  },
+  {
+    "id": "set-04-0240",
+    "setId": "set-04",
+    "translations": {
+      "en": "CULT",
+      "ru": "КУЛЬТ",
+      "es": "CULTO"
+    }
+  },
+  {
+    "id": "set-04-0241",
+    "setId": "set-04",
+    "translations": {
+      "en": "CULTIVATE",
+      "ru": "КУЛЬТИВИРОВАТЬ",
+      "es": "CULTIVAR"
+    }
+  },
+  {
+    "id": "set-04-0242",
+    "setId": "set-04",
+    "translations": {
+      "en": "CURSE",
+      "ru": "ПРОКЛИНАТЬ",
+      "es": "MALDICIÓN"
+    }
+  },
+  {
+    "id": "set-04-0243",
+    "setId": "set-04",
+    "translations": {
+      "en": "CUSTODY",
+      "ru": "ПОПЕЧЕНИЕ",
+      "es": "CUSTODIA"
+    }
+  },
+  {
+    "id": "set-04-0244",
+    "setId": "set-04",
+    "translations": {
+      "en": "CYNICAL",
+      "ru": "ЦИНИЧНЫЙ",
+      "es": "CÍNICO"
+    }
+  },
+  {
+    "id": "set-04-0245",
+    "setId": "set-04",
+    "translations": {
+      "en": "DAM",
+      "ru": "ПЛОТИНА",
+      "es": "PRESA"
+    }
+  },
+  {
+    "id": "set-04-0246",
+    "setId": "set-04",
+    "translations": {
+      "en": "DASH",
+      "ru": "БРОСАТЬСЯ",
+      "es": "ESTRELLARSE"
+    }
+  },
+  {
+    "id": "set-04-0247",
+    "setId": "set-04",
+    "translations": {
+      "en": "DEADLINE",
+      "ru": "КРАЙНИЙ СРОК",
+      "es": "FECHA LÍMITE"
+    }
+  },
+  {
+    "id": "set-04-0248",
+    "setId": "set-04",
+    "translations": {
+      "en": "DEAF",
+      "ru": "ГЛУХОЙ",
+      "es": "SORDO"
+    }
+  },
+  {
+    "id": "set-04-0249",
+    "setId": "set-04",
+    "translations": {
+      "en": "DEBUT",
+      "ru": "ДЕБЮТ",
+      "es": "DEBUT"
+    }
+  },
+  {
+    "id": "set-04-0250",
+    "setId": "set-04",
+    "translations": {
+      "en": "DECAY",
+      "ru": "РАЗЛАГАТЬСЯ",
+      "es": "DECADENCIA"
+    }
+  },
+  {
+    "id": "set-04-0251",
+    "setId": "set-04",
+    "translations": {
+      "en": "DECISIVE",
+      "ru": "РЕШИТЕЛЬНЫЙ",
+      "es": "DECISIVO"
+    }
+  },
+  {
+    "id": "set-04-0252",
+    "setId": "set-04",
+    "translations": {
+      "en": "DEDUCT",
+      "ru": "ВЫЧЕТ",
+      "es": "DEDUCIR"
+    }
+  },
+  {
+    "id": "set-04-0253",
+    "setId": "set-04",
+    "translations": {
+      "en": "DEEM",
+      "ru": "ДИМ",
+      "es": "CONSIDERAR"
+    }
+  },
+  {
+    "id": "set-04-0254",
+    "setId": "set-04",
+    "translations": {
+      "en": "DEER",
+      "ru": "ОЛЕНЬ",
+      "es": "CIERVO"
+    }
+  },
+  {
+    "id": "set-04-0255",
+    "setId": "set-04",
+    "translations": {
+      "en": "DEFECT",
+      "ru": "ДЕФЕКТ",
+      "es": "DEFECTO"
+    }
+  },
+  {
+    "id": "set-04-0256",
+    "setId": "set-04",
+    "translations": {
+      "en": "DEFER",
+      "ru": "ОТЛОЖИТЬ",
+      "es": "APLAZAR"
+    }
+  },
+  {
+    "id": "set-04-0257",
+    "setId": "set-04",
+    "translations": {
+      "en": "DEFICIENCY",
+      "ru": "НЕДОСТАТОК",
+      "es": "DEFICIENCIA"
+    }
+  },
+  {
+    "id": "set-04-0258",
+    "setId": "set-04",
+    "translations": {
+      "en": "DEFY",
+      "ru": "БРОСЬ ВЫЗОВ",
+      "es": "DESAFIAR"
+    }
+  },
+  {
+    "id": "set-04-0259",
+    "setId": "set-04",
+    "translations": {
+      "en": "DELICATE",
+      "ru": "ДЕЛИКАТ",
+      "es": "DELICADO"
+    }
+  },
+  {
+    "id": "set-04-0260",
+    "setId": "set-04",
+    "translations": {
+      "en": "DEMOGRAPHY",
+      "ru": "ДЕМОГРАФИЯ",
+      "es": "DEMOGRAFÍA"
+    }
+  },
+  {
+    "id": "set-04-0261",
+    "setId": "set-04",
+    "translations": {
+      "en": "DEPART",
+      "ru": "ОТЪЕЗД",
+      "es": "SALIR"
+    }
+  },
+  {
+    "id": "set-04-0262",
+    "setId": "set-04",
+    "translations": {
+      "en": "DEPARTURE",
+      "ru": "ОТПРАВЛЕНИЕ",
+      "es": "PARTIDA"
+    }
+  },
+  {
+    "id": "set-04-0263",
+    "setId": "set-04",
+    "translations": {
+      "en": "DEPENDENCE",
+      "ru": "ЗАВИСИМОСТЬ",
+      "es": "DEPENDENCIA"
+    }
+  },
+  {
+    "id": "set-04-0264",
+    "setId": "set-04",
+    "translations": {
+      "en": "DEPLOY",
+      "ru": "РАЗВЕРТЫВАТЬ",
+      "es": "DESPLEGAR"
+    }
+  },
+  {
+    "id": "set-04-0265",
+    "setId": "set-04",
+    "translations": {
+      "en": "DEPRIVE",
+      "ru": "ЛИШИТЬ",
+      "es": "PRIVAR"
+    }
+  },
+  {
+    "id": "set-04-0266",
+    "setId": "set-04",
+    "translations": {
+      "en": "DESPAIR",
+      "ru": "ОТЧАЯНИЕ",
+      "es": "DESESPERACIÓN"
+    }
+  },
+  {
+    "id": "set-04-0267",
+    "setId": "set-04",
+    "translations": {
+      "en": "DESPATCH",
+      "ru": "ОТПРАВИТЬ",
+      "es": "ENVÍO"
+    }
+  },
+  {
+    "id": "set-04-0268",
+    "setId": "set-04",
+    "translations": {
+      "en": "DESTINATION",
+      "ru": "МЕСТО НАЗНАЧЕНИЯ",
+      "es": "DESTINO"
+    }
+  },
+  {
+    "id": "set-04-0269",
+    "setId": "set-04",
+    "translations": {
+      "en": "DESTINY",
+      "ru": "СУДЬБА",
+      "es": "DESTINO"
+    }
+  },
+  {
+    "id": "set-04-0270",
+    "setId": "set-04",
+    "translations": {
+      "en": "DETACH",
+      "ru": "ОТСОЕДИНИТЬ",
+      "es": "DESPEGAR"
+    }
+  },
+  {
+    "id": "set-04-0271",
+    "setId": "set-04",
+    "translations": {
+      "en": "DETAIN",
+      "ru": "ЗАДЕРЖАТЬ",
+      "es": "DETENER"
+    }
+  },
+  {
+    "id": "set-04-0272",
+    "setId": "set-04",
+    "translations": {
+      "en": "DETER",
+      "ru": "УДАЛЕНИЕ",
+      "es": "DESALENTAR"
+    }
+  },
+  {
+    "id": "set-04-0273",
+    "setId": "set-04",
+    "translations": {
+      "en": "DETERIORATE",
+      "ru": "УХУДШАТЬСЯ",
+      "es": "DETERIORARSE"
+    }
+  },
+  {
+    "id": "set-04-0274",
+    "setId": "set-04",
+    "translations": {
+      "en": "DEVIL",
+      "ru": "ДЬЯВОЛ",
+      "es": "DEMONIO"
+    }
+  },
+  {
+    "id": "set-04-0275",
+    "setId": "set-04",
+    "translations": {
+      "en": "DEVISE",
+      "ru": "УСТРОЙСТВО",
+      "es": "IDEAR"
+    }
+  },
+  {
+    "id": "set-04-0276",
+    "setId": "set-04",
+    "translations": {
+      "en": "DIABETES",
+      "ru": "ДИАБЕТ",
+      "es": "DIABETES"
+    }
+  },
+  {
+    "id": "set-04-0277",
+    "setId": "set-04",
+    "translations": {
+      "en": "DIAGNOSE",
+      "ru": "ДИАГНОСТИКА",
+      "es": "DIAGNOSTICAR"
+    }
+  },
+  {
+    "id": "set-04-0278",
+    "setId": "set-04",
+    "translations": {
+      "en": "DIAGNOSIS",
+      "ru": "ДИАГНОЗ",
+      "es": "DIAGNÓSTICO"
+    }
+  },
+  {
+    "id": "set-04-0279",
+    "setId": "set-04",
+    "translations": {
+      "en": "DIAGRAM",
+      "ru": "ДИАГРАММА",
+      "es": "DIAGRAMA"
+    }
+  },
+  {
+    "id": "set-04-0280",
+    "setId": "set-04",
+    "translations": {
+      "en": "DIAL",
+      "ru": "НАБОР",
+      "es": "MARCAR"
+    }
+  },
+  {
+    "id": "set-04-0281",
+    "setId": "set-04",
+    "translations": {
+      "en": "DIAMETER",
+      "ru": "ДИАМЕТР",
+      "es": "DIÁMETRO"
+    }
+  },
+  {
+    "id": "set-04-0282",
+    "setId": "set-04",
+    "translations": {
+      "en": "DIAMOND",
+      "ru": "АЛМАЗ",
+      "es": "DIAMANTE"
+    }
+  },
+  {
+    "id": "set-04-0283",
+    "setId": "set-04",
+    "translations": {
+      "en": "DIARY",
+      "ru": "ДНЕВНИК",
+      "es": "DIARIO"
+    }
+  },
+  {
+    "id": "set-04-0284",
+    "setId": "set-04",
+    "translations": {
+      "en": "DICTIONARY",
+      "ru": "СЛОВАРЬ",
+      "es": "DICCIONARIO"
+    }
+  },
+  {
+    "id": "set-04-0285",
+    "setId": "set-04",
+    "translations": {
+      "en": "DIFFERENTIATE",
+      "ru": "РАЗЛИЧИТЬ",
+      "es": "DIFERENCIAR"
+    }
+  },
+  {
+    "id": "set-04-0286",
+    "setId": "set-04",
+    "translations": {
+      "en": "DIGEST",
+      "ru": "ДЖАЙСТ",
+      "es": "DIGERIR"
+    }
+  },
+  {
+    "id": "set-04-0287",
+    "setId": "set-04",
+    "translations": {
+      "en": "DIGNITY",
+      "ru": "ДОСТОИНСТВО",
+      "es": "DIGNIDAD"
+    }
+  },
+  {
+    "id": "set-04-0288",
+    "setId": "set-04",
+    "translations": {
+      "en": "DILEMMA",
+      "ru": "ДИЛЕММА",
+      "es": "DILEMA"
+    }
+  },
+  {
+    "id": "set-04-0289",
+    "setId": "set-04",
+    "translations": {
+      "en": "DIM",
+      "ru": "ТУМ",
+      "es": "OSCURO"
+    }
+  },
+  {
+    "id": "set-04-0290",
+    "setId": "set-04",
+    "translations": {
+      "en": "DIMINISH",
+      "ru": "УМЕНЬШАТЬ",
+      "es": "DISMINUIR"
+    }
+  },
+  {
+    "id": "set-04-0291",
+    "setId": "set-04",
+    "translations": {
+      "en": "DIOXIDE",
+      "ru": "ДИОКСИДА",
+      "es": "DIÓXIDO"
+    }
+  },
+  {
+    "id": "set-04-0292",
+    "setId": "set-04",
+    "translations": {
+      "en": "DIP",
+      "ru": "ОКУНАТЬ",
+      "es": "ADEREZO"
+    }
+  },
+  {
+    "id": "set-04-0293",
+    "setId": "set-04",
+    "translations": {
+      "en": "DISADVANTAGE",
+      "ru": "НЕДОСТАТОК",
+      "es": "DESVENTAJA"
+    }
+  },
+  {
+    "id": "set-04-0294",
+    "setId": "set-04",
+    "translations": {
+      "en": "DISCARD",
+      "ru": "ОТКАЗАТЬСЯ",
+      "es": "DESECHAR"
+    }
+  },
+  {
+    "id": "set-04-0295",
+    "setId": "set-04",
+    "translations": {
+      "en": "DISCLOSE",
+      "ru": "РАСКРЫТИЕ",
+      "es": "REVELAR"
+    }
+  },
+  {
+    "id": "set-04-0296",
+    "setId": "set-04",
+    "translations": {
+      "en": "DISCLOSURE",
+      "ru": "РАСКРЫТИЕ ИНФОРМАЦИИ",
+      "es": "DIVULGACIÓN"
+    }
+  },
+  {
+    "id": "set-04-0297",
+    "setId": "set-04",
+    "translations": {
+      "en": "DISCOURAGE",
+      "ru": "ОТБРАСЫВАТЬ",
+      "es": "DESALENTAR"
+    }
+  },
+  {
+    "id": "set-04-0298",
+    "setId": "set-04",
+    "translations": {
+      "en": "DISGUISE",
+      "ru": "МАСКИРОВКА",
+      "es": "OCULTAR"
+    }
+  },
+  {
+    "id": "set-04-0299",
+    "setId": "set-04",
+    "translations": {
+      "en": "DISPERSE",
+      "ru": "ДИСПЕРС",
+      "es": "DISPERSAR"
+    }
+  },
+  {
+    "id": "set-04-0300",
+    "setId": "set-04",
+    "translations": {
+      "en": "DISPLACE",
+      "ru": "СМЕЩЕНИЕ",
+      "es": "DESPLAZAR"
+    }
+  },
+  {
+    "id": "set-04-0301",
+    "setId": "set-04",
+    "translations": {
+      "en": "DISSOLVE",
+      "ru": "РАСТВОРИТЬ",
+      "es": "DISOLVER"
+    }
+  },
+  {
+    "id": "set-04-0302",
+    "setId": "set-04",
+    "translations": {
+      "en": "DISTORT",
+      "ru": "ИСКАЖАТЬ",
+      "es": "DISTORSIONAR"
+    }
+  },
+  {
+    "id": "set-04-0303",
+    "setId": "set-04",
+    "translations": {
+      "en": "DISTRACT",
+      "ru": "ОТВЛЕКАТЬ",
+      "es": "DISTRAER"
+    }
+  },
+  {
+    "id": "set-04-0304",
+    "setId": "set-04",
+    "translations": {
+      "en": "DISTRESS",
+      "ru": "БЕДСТВИЕ",
+      "es": "ANGUSTIA"
+    }
+  },
+  {
+    "id": "set-04-0305",
+    "setId": "set-04",
+    "translations": {
+      "en": "DIVIDEND",
+      "ru": "ДИВИДЕНД",
+      "es": "DIVIDENDO"
+    }
+  },
+  {
+    "id": "set-04-0306",
+    "setId": "set-04",
+    "translations": {
+      "en": "DIVINE",
+      "ru": "БОЖЕСТВЕННЫЙ",
+      "es": "DIVINO"
+    }
+  },
+  {
+    "id": "set-04-0307",
+    "setId": "set-04",
+    "translations": {
+      "en": "DOCK",
+      "ru": "ДОК",
+      "es": "MUELLE"
+    }
+  },
+  {
+    "id": "set-04-0308",
+    "setId": "set-04",
+    "translations": {
+      "en": "DOCUMENTARY",
+      "ru": "ДОКУМЕНТАЛЬНЫЙ ФИЛЬМ",
+      "es": "DOCUMENTAL"
+    }
+  },
+  {
+    "id": "set-04-0309",
+    "setId": "set-04",
+    "translations": {
+      "en": "DOLPHIN",
+      "ru": "ДЕЛЬФИН",
+      "es": "DELFÍN"
+    }
+  },
+  {
+    "id": "set-04-0310",
+    "setId": "set-04",
+    "translations": {
+      "en": "DOMAIN",
+      "ru": "ДОМЕН",
+      "es": "DOMINIO"
+    }
+  },
+  {
+    "id": "set-04-0311",
+    "setId": "set-04",
+    "translations": {
+      "en": "DOME",
+      "ru": "КУПОЛ",
+      "es": "CÚPULA"
+    }
+  },
+  {
+    "id": "set-04-0312",
+    "setId": "set-04",
+    "translations": {
+      "en": "DONOR",
+      "ru": "ДОНОР",
+      "es": "DONANTE"
+    }
+  },
+  {
+    "id": "set-04-0313",
+    "setId": "set-04",
+    "translations": {
+      "en": "DOT",
+      "ru": "ТОЧКА",
+      "es": "PUNTO"
+    }
+  },
+  {
+    "id": "set-04-0314",
+    "setId": "set-04",
+    "translations": {
+      "en": "DRIP",
+      "ru": "КАПАТЬ",
+      "es": "GOTEO"
+    }
+  },
+  {
+    "id": "set-04-0315",
+    "setId": "set-04",
+    "translations": {
+      "en": "DROWN",
+      "ru": "ТОНУТЬ",
+      "es": "AHOGAR"
+    }
+  },
+  {
+    "id": "set-04-0316",
+    "setId": "set-04",
+    "translations": {
+      "en": "DUAL",
+      "ru": "ДВОЙНОЙ",
+      "es": "DUAL"
+    }
+  },
+  {
+    "id": "set-04-0317",
+    "setId": "set-04",
+    "translations": {
+      "en": "DULL",
+      "ru": "ТУПОЙ",
+      "es": "ABURRIDO"
+    }
+  },
+  {
+    "id": "set-04-0318",
+    "setId": "set-04",
+    "translations": {
+      "en": "DURATION",
+      "ru": "ПРОДОЛЖИТЕЛЬНОСТЬ",
+      "es": "DURACIÓN"
+    }
+  },
+  {
+    "id": "set-04-0319",
+    "setId": "set-04",
+    "translations": {
+      "en": "DWELL",
+      "ru": "ЖИТЬ",
+      "es": "HABITAR"
+    }
+  },
+  {
+    "id": "set-04-0320",
+    "setId": "set-04",
+    "translations": {
+      "en": "DYNAMIC",
+      "ru": "ДИНАМИЧЕСКИЙ",
+      "es": "DINÁMICA"
+    }
+  },
+  {
+    "id": "set-04-0321",
+    "setId": "set-04",
+    "translations": {
+      "en": "EAGLE",
+      "ru": "ОРЁЛ",
+      "es": "ÁGUILA"
+    }
+  },
+  {
+    "id": "set-04-0322",
+    "setId": "set-04",
+    "translations": {
+      "en": "EARL",
+      "ru": "ЭРЛ",
+      "es": "CONDE"
+    }
+  },
+  {
+    "id": "set-04-0323",
+    "setId": "set-04",
+    "translations": {
+      "en": "ECOLOGICAL",
+      "ru": "ЭКОЛОГИЧЕСКИЙ",
+      "es": "ECOLÓGICO"
+    }
+  },
+  {
+    "id": "set-04-0324",
+    "setId": "set-04",
+    "translations": {
+      "en": "EGO",
+      "ru": "ЭГО",
+      "es": "EGO"
+    }
+  },
+  {
+    "id": "set-04-0325",
+    "setId": "set-04",
+    "translations": {
+      "en": "ELBOW",
+      "ru": "ЛОКОТЬ",
+      "es": "CODO"
+    }
+  },
+  {
+    "id": "set-04-0326",
+    "setId": "set-04",
+    "translations": {
+      "en": "ELECTRON",
+      "ru": "ЭЛЕКТРОН",
+      "es": "ELECTRÓN"
+    }
+  },
+  {
+    "id": "set-04-0327",
+    "setId": "set-04",
+    "translations": {
+      "en": "ELEGANT",
+      "ru": "ЭЛЕГАНТНЫЙ",
+      "es": "ELEGANTE"
+    }
+  },
+  {
+    "id": "set-04-0328",
+    "setId": "set-04",
+    "translations": {
+      "en": "ELEMENTARY",
+      "ru": "НАЧАЛЬНАЯ ШКОЛА",
+      "es": "ELEMENTAL"
+    }
+  },
+  {
+    "id": "set-04-0329",
+    "setId": "set-04",
+    "translations": {
+      "en": "ELIGIBLE",
+      "ru": "ИМЕЮЩИЙ ПРАВО",
+      "es": "ELEGIBLE"
+    }
+  },
+  {
+    "id": "set-04-0330",
+    "setId": "set-04",
+    "translations": {
+      "en": "EMBASSY",
+      "ru": "ПОСОЛЬСТВО",
+      "es": "EMBAJADA"
+    }
+  },
+  {
+    "id": "set-04-0331",
+    "setId": "set-04",
+    "translations": {
+      "en": "EMBODY",
+      "ru": "ВОПЛОЩЕНИЕ",
+      "es": "ENCARNAR"
+    }
+  },
+  {
+    "id": "set-04-0332",
+    "setId": "set-04",
+    "translations": {
+      "en": "EMPEROR",
+      "ru": "ИМПЕРАТОР",
+      "es": "EMPERADOR"
+    }
+  },
+  {
+    "id": "set-04-0333",
+    "setId": "set-04",
+    "translations": {
+      "en": "EMPIRICAL",
+      "ru": "ЭМПИРИЧЕСКИЙ",
+      "es": "EMPÍRICO"
+    }
+  },
+  {
+    "id": "set-04-0334",
+    "setId": "set-04",
+    "translations": {
+      "en": "ENACT",
+      "ru": "ДЕЙСТВОВАТЬ",
+      "es": "PROMULGAR"
+    }
+  },
+  {
+    "id": "set-04-0335",
+    "setId": "set-04",
+    "translations": {
+      "en": "ENCLOSE",
+      "ru": "ЗАКРЫТЬ",
+      "es": "ENCERRAR"
+    }
+  },
+  {
+    "id": "set-04-0336",
+    "setId": "set-04",
+    "translations": {
+      "en": "ENDEAVOUR",
+      "ru": "СТАРАТЬСЯ",
+      "es": "EMPEÑO"
+    }
+  },
+  {
+    "id": "set-04-0337",
+    "setId": "set-04",
+    "translations": {
+      "en": "ENDOW",
+      "ru": "ЭНДОВ",
+      "es": "DOTAR"
+    }
+  },
+  {
+    "id": "set-04-0338",
+    "setId": "set-04",
+    "translations": {
+      "en": "ENLARGE",
+      "ru": "УВЕЛИЧИТЬ",
+      "es": "AGRANDAR"
+    }
+  },
+  {
+    "id": "set-04-0339",
+    "setId": "set-04",
+    "translations": {
+      "en": "ENLIGHTEN",
+      "ru": "ПРОСВЕЩЕНИЕ",
+      "es": "ILUMINAR"
+    }
+  },
+  {
+    "id": "set-04-0340",
+    "setId": "set-04",
+    "translations": {
+      "en": "ENRICH",
+      "ru": "ЭНРИХ",
+      "es": "ENRIQUECER"
+    }
+  },
+  {
+    "id": "set-04-0341",
+    "setId": "set-04",
+    "translations": {
+      "en": "ENROL",
+      "ru": "ЗАРЕГИСТРИРОВАТЬСЯ",
+      "es": "INSCRIBIRSE"
+    }
+  },
+  {
+    "id": "set-04-0342",
+    "setId": "set-04",
+    "translations": {
+      "en": "ENTITY",
+      "ru": "СУЩНОСТЬ",
+      "es": "ENTIDAD"
+    }
+  },
+  {
+    "id": "set-04-0343",
+    "setId": "set-04",
+    "translations": {
+      "en": "ENTREPRENEUR",
+      "ru": "ПРЕДПРИНИМАТЕЛЬ",
+      "es": "EMPRENDEDOR"
+    }
+  },
+  {
+    "id": "set-04-0344",
+    "setId": "set-04",
+    "translations": {
+      "en": "ENVY",
+      "ru": "ЗАВИДОВАТЬ",
+      "es": "ENVIDIAR"
+    }
+  },
+  {
+    "id": "set-04-0345",
+    "setId": "set-04",
+    "translations": {
+      "en": "EQUITY",
+      "ru": "КАПИТАЛ",
+      "es": "EQUIDAD"
+    }
+  },
+  {
+    "id": "set-04-0346",
+    "setId": "set-04",
+    "translations": {
+      "en": "ERECT",
+      "ru": "ЭРЕКТ",
+      "es": "ERGUIDO"
+    }
+  },
+  {
+    "id": "set-04-0347",
+    "setId": "set-04",
+    "translations": {
+      "en": "ERUPT",
+      "ru": "ЭРУПТ",
+      "es": "ESTALLAR"
+    }
+  },
+  {
+    "id": "set-04-0348",
+    "setId": "set-04",
+    "translations": {
+      "en": "ESCORT",
+      "ru": "ЭСКОРТ",
+      "es": "ESCOLTA"
+    }
+  },
+  {
+    "id": "set-04-0349",
+    "setId": "set-04",
+    "translations": {
+      "en": "ESSENCE",
+      "ru": "СУЩНОСТЬ",
+      "es": "ESENCIA"
+    }
+  },
+  {
+    "id": "set-04-0350",
+    "setId": "set-04",
+    "translations": {
+      "en": "ET",
+      "ru": "ЭТ",
+      "es": "ET"
+    }
+  },
+  {
+    "id": "set-04-0351",
+    "setId": "set-04",
+    "translations": {
+      "en": "ETHICAL",
+      "ru": "ЭТИЧЕСКИЙ",
+      "es": "ÉTICO"
+    }
+  },
+  {
+    "id": "set-04-0352",
+    "setId": "set-04",
+    "translations": {
+      "en": "ETHICS",
+      "ru": "ЭТИКА",
+      "es": "ÉTICA"
+    }
+  },
+  {
+    "id": "set-04-0353",
+    "setId": "set-04",
+    "translations": {
+      "en": "EVACUATE",
+      "ru": "ЭВАКУИРУЮСЬ",
+      "es": "EVACUAR"
+    }
+  },
+  {
+    "id": "set-04-0354",
+    "setId": "set-04",
+    "translations": {
+      "en": "EVE",
+      "ru": "КАНУН",
+      "es": "VÍSPERA"
+    }
+  },
+  {
+    "id": "set-04-0355",
+    "setId": "set-04",
+    "translations": {
+      "en": "EVENLY",
+      "ru": "РАВНОМЕРНО",
+      "es": "IGUALMENTE"
+    }
+  },
+  {
+    "id": "set-04-0356",
+    "setId": "set-04",
+    "translations": {
+      "en": "EVOKE",
+      "ru": "ЭВОКУ",
+      "es": "EVOCAR"
+    }
+  },
+  {
+    "id": "set-04-0357",
+    "setId": "set-04",
+    "translations": {
+      "en": "EXAGGERATE",
+      "ru": "ПРЕУВЕЛИЧИТЬ",
+      "es": "EXAGERAR"
+    }
+  },
+  {
+    "id": "set-04-0358",
+    "setId": "set-04",
+    "translations": {
+      "en": "EXCAVATE",
+      "ru": "РАСКОПАТЬ",
+      "es": "EXCAVAR"
+    }
+  },
+  {
+    "id": "set-04-0359",
+    "setId": "set-04",
+    "translations": {
+      "en": "EXCLAIM",
+      "ru": "ВОСКЛИЦАНИЕ",
+      "es": "EXCLAMAR"
+    }
+  },
+  {
+    "id": "set-04-0360",
+    "setId": "set-04",
+    "translations": {
+      "en": "EXCLUSION",
+      "ru": "ИСКЛЮЧЕНИЕ",
+      "es": "EXCLUSIÓN"
+    }
+  },
+  {
+    "id": "set-04-0361",
+    "setId": "set-04",
+    "translations": {
+      "en": "EXEMPT",
+      "ru": "ОСВОБОЖДАТЬ",
+      "es": "EXIMIR"
+    }
+  },
+  {
+    "id": "set-04-0362",
+    "setId": "set-04",
+    "translations": {
+      "en": "EXERT",
+      "ru": "ЭКСТ",
+      "es": "EJERCER"
+    }
+  },
+  {
+    "id": "set-04-0363",
+    "setId": "set-04",
+    "translations": {
+      "en": "EXILE",
+      "ru": "ИЗГНАНИЕ",
+      "es": "EXILIO"
+    }
+  },
+  {
+    "id": "set-04-0364",
+    "setId": "set-04",
+    "translations": {
+      "en": "EXIT",
+      "ru": "ВЫХОД",
+      "es": "SALIDA"
+    }
+  },
+  {
+    "id": "set-04-0365",
+    "setId": "set-04",
+    "translations": {
+      "en": "EXOTIC",
+      "ru": "ЭКЗОТИЧЕСКИЙ",
+      "es": "EXÓTICO"
+    }
+  },
+  {
+    "id": "set-04-0366",
+    "setId": "set-04",
+    "translations": {
+      "en": "EXPEDITION",
+      "ru": "ЭКСПЕДИЦИЯ",
+      "es": "EXPEDICIÓN"
+    }
+  },
+  {
+    "id": "set-04-0367",
+    "setId": "set-04",
+    "translations": {
+      "en": "EXPERTISE",
+      "ru": "ЭКСПЕРТИЗА",
+      "es": "PERICIA"
+    }
+  },
+  {
+    "id": "set-04-0368",
+    "setId": "set-04",
+    "translations": {
+      "en": "EXPLODE",
+      "ru": "ВЗОРВАТЬСЯ",
+      "es": "EXPLOTAR"
+    }
+  },
+  {
+    "id": "set-04-0369",
+    "setId": "set-04",
+    "translations": {
+      "en": "EYEBROW",
+      "ru": "БРОВЬ",
+      "es": "CEJA"
+    }
+  },
+  {
+    "id": "set-04-0370",
+    "setId": "set-04",
+    "translations": {
+      "en": "FACTION",
+      "ru": "ФРАКЦИЯ",
+      "es": "FACCIÓN"
+    }
+  },
+  {
+    "id": "set-04-0371",
+    "setId": "set-04",
+    "translations": {
+      "en": "FAKE",
+      "ru": "ФАЛЬШИВЫЙ",
+      "es": "FALSO"
+    }
+  },
+  {
+    "id": "set-04-0372",
+    "setId": "set-04",
+    "translations": {
+      "en": "FAME",
+      "ru": "СЛАВА",
+      "es": "FAMA"
+    }
+  },
+  {
+    "id": "set-04-0373",
+    "setId": "set-04",
+    "translations": {
+      "en": "FARE",
+      "ru": "СТОИМОСТЬ ТАРИФОВ",
+      "es": "TARIFA"
+    }
+  },
+  {
+    "id": "set-04-0374",
+    "setId": "set-04",
+    "translations": {
+      "en": "FATAL",
+      "ru": "СМЕРТЕЛЬНЫЙ",
+      "es": "FATAL"
+    }
+  },
+  {
+    "id": "set-04-0375",
+    "setId": "set-04",
+    "translations": {
+      "en": "FAX",
+      "ru": "ФАКС",
+      "es": "FAX"
+    }
+  },
+  {
+    "id": "set-04-0376",
+    "setId": "set-04",
+    "translations": {
+      "en": "FEDERATE",
+      "ru": "ФЕДЕРАЦИЯ",
+      "es": "FEDERATIVO"
+    }
+  },
+  {
+    "id": "set-04-0377",
+    "setId": "set-04",
+    "translations": {
+      "en": "FEMININE",
+      "ru": "ЖЕНСТВЕННЫЙ",
+      "es": "FEMENINO"
+    }
+  },
+  {
+    "id": "set-04-0378",
+    "setId": "set-04",
+    "translations": {
+      "en": "FERRY",
+      "ru": "ПЕРЕВОЗИТЬ",
+      "es": "TRANSPORTAR"
+    }
+  },
+  {
+    "id": "set-04-0379",
+    "setId": "set-04",
+    "translations": {
+      "en": "FEVER",
+      "ru": "ВЫСОКАЯ ТЕМПЕРАТУРА",
+      "es": "FIEBRE"
+    }
+  },
+  {
+    "id": "set-04-0380",
+    "setId": "set-04",
+    "translations": {
+      "en": "FINED",
+      "ru": "Оштрафован",
+      "es": "MULTADO"
+    }
+  },
+  {
+    "id": "set-04-0381",
+    "setId": "set-04",
+    "translations": {
+      "en": "FISCAL",
+      "ru": "ФИСКАЛЬНЫЙ",
+      "es": "FISCAL"
+    }
+  },
+  {
+    "id": "set-04-0382",
+    "setId": "set-04",
+    "translations": {
+      "en": "FIST",
+      "ru": "КУЛАК",
+      "es": "PUÑO"
+    }
+  },
+  {
+    "id": "set-04-0383",
+    "setId": "set-04",
+    "translations": {
+      "en": "FLANK",
+      "ru": "Фланг",
+      "es": "FLANCO"
+    }
+  },
+  {
+    "id": "set-04-0384",
+    "setId": "set-04",
+    "translations": {
+      "en": "FLAP",
+      "ru": "КЛАПАН",
+      "es": "SOLAPA"
+    }
+  },
+  {
+    "id": "set-04-0385",
+    "setId": "set-04",
+    "translations": {
+      "en": "FLAW",
+      "ru": "НЕДОСТАТОК",
+      "es": "DEFECTO"
+    }
+  },
+  {
+    "id": "set-04-0386",
+    "setId": "set-04",
+    "translations": {
+      "en": "FLEET",
+      "ru": "ФЛОТ",
+      "es": "FLOTA"
+    }
+  },
+  {
+    "id": "set-04-0387",
+    "setId": "set-04",
+    "translations": {
+      "en": "FLICK",
+      "ru": "ЩЕЛЧОК",
+      "es": "PELÍCULA"
+    }
+  },
+  {
+    "id": "set-04-0388",
+    "setId": "set-04",
+    "translations": {
+      "en": "FLICKER",
+      "ru": "МЕРЦАНИЕ",
+      "es": "PARPADEO"
+    }
+  },
+  {
+    "id": "set-04-0389",
+    "setId": "set-04",
+    "translations": {
+      "en": "FLING",
+      "ru": "БРОСАТЬ",
+      "es": "ARROJAR"
+    }
+  },
+  {
+    "id": "set-04-0390",
+    "setId": "set-04",
+    "translations": {
+      "en": "FLOCK",
+      "ru": "СТАДО",
+      "es": "REBAÑO"
+    }
+  },
+  {
+    "id": "set-04-0391",
+    "setId": "set-04",
+    "translations": {
+      "en": "FLOUR",
+      "ru": "МУКА",
+      "es": "HARINA"
+    }
+  },
+  {
+    "id": "set-04-0392",
+    "setId": "set-04",
+    "translations": {
+      "en": "FLOURISH",
+      "ru": "ПРОЦВЕТАТЬ",
+      "es": "FLORECER"
+    }
+  },
+  {
+    "id": "set-04-0393",
+    "setId": "set-04",
+    "translations": {
+      "en": "FLUID",
+      "ru": "ЖИДКОСТЬ",
+      "es": "LÍQUIDO"
+    }
+  },
+  {
+    "id": "set-04-0394",
+    "setId": "set-04",
+    "translations": {
+      "en": "FLUSH",
+      "ru": "РУМЯНЕЦ",
+      "es": "ENJUAGAR"
+    }
+  },
+  {
+    "id": "set-04-0395",
+    "setId": "set-04",
+    "translations": {
+      "en": "FOG",
+      "ru": "ТУМАН",
+      "es": "NIEBLA"
+    }
+  },
+  {
+    "id": "set-04-0396",
+    "setId": "set-04",
+    "translations": {
+      "en": "FOND",
+      "ru": "ФОНД",
+      "es": "AFICIONADO"
+    }
+  },
+  {
+    "id": "set-04-0397",
+    "setId": "set-04",
+    "translations": {
+      "en": "FORBID",
+      "ru": "ЗАПРЕТИТЬ",
+      "es": "PROHIBIR"
+    }
+  },
+  {
+    "id": "set-04-0398",
+    "setId": "set-04",
+    "translations": {
+      "en": "FORE",
+      "ru": "ВПЕРЕД",
+      "es": "DELANTERO"
+    }
+  },
+  {
+    "id": "set-04-0399",
+    "setId": "set-04",
+    "translations": {
+      "en": "FOREHEAD",
+      "ru": "ЛОБ",
+      "es": "FRENTE"
+    }
+  },
+  {
+    "id": "set-04-0400",
+    "setId": "set-04",
+    "translations": {
+      "en": "FORESEE",
+      "ru": "ПРЕДВИДЕТЬ",
+      "es": "PREVER"
+    }
+  },
+  {
+    "id": "set-04-0401",
+    "setId": "set-04",
+    "translations": {
+      "en": "FORGE",
+      "ru": "КУВШИНА",
+      "es": "FRAGUA"
+    }
+  },
+  {
+    "id": "set-04-0402",
+    "setId": "set-04",
+    "translations": {
+      "en": "FORK",
+      "ru": "ВИЛКА",
+      "es": "TENEDOR"
+    }
+  },
+  {
+    "id": "set-04-0403",
+    "setId": "set-04",
+    "translations": {
+      "en": "FORT",
+      "ru": "ФОРТ",
+      "es": "FUERTE"
+    }
+  },
+  {
+    "id": "set-04-0404",
+    "setId": "set-04",
+    "translations": {
+      "en": "FORUM",
+      "ru": "ФОРУМ",
+      "es": "FORO"
+    }
+  },
+  {
+    "id": "set-04-0405",
+    "setId": "set-04",
+    "translations": {
+      "en": "FOSSIL",
+      "ru": "ИСКОПАЕМОЕ",
+      "es": "FÓSIL"
+    }
+  },
+  {
+    "id": "set-04-0406",
+    "setId": "set-04",
+    "translations": {
+      "en": "FOUL",
+      "ru": "ГРЯЗНЫЙ",
+      "es": "FALTA"
+    }
+  },
+  {
+    "id": "set-04-0407",
+    "setId": "set-04",
+    "translations": {
+      "en": "FRACTION",
+      "ru": "ДРОБЬ",
+      "es": "FRACCIÓN"
+    }
+  },
+  {
+    "id": "set-04-0408",
+    "setId": "set-04",
+    "translations": {
+      "en": "FRACTURE",
+      "ru": "ПЕРЕЛОМ",
+      "es": "FRACTURA"
+    }
+  },
+  {
+    "id": "set-04-0409",
+    "setId": "set-04",
+    "translations": {
+      "en": "FRAGILE",
+      "ru": "ХРУПКИЙ",
+      "es": "FRÁGIL"
+    }
+  },
+  {
+    "id": "set-04-0410",
+    "setId": "set-04",
+    "translations": {
+      "en": "FRANCHISE",
+      "ru": "ФРАНШИЗА",
+      "es": "FRANQUICIA"
+    }
+  },
+  {
+    "id": "set-04-0411",
+    "setId": "set-04",
+    "translations": {
+      "en": "FRAUD",
+      "ru": "МОШЕННИЧЕСТВО",
+      "es": "FRAUDE"
+    }
+  },
+  {
+    "id": "set-04-0412",
+    "setId": "set-04",
+    "translations": {
+      "en": "FRINGE",
+      "ru": "БАХРОМА",
+      "es": "FRANJA"
+    }
+  },
+  {
+    "id": "set-04-0413",
+    "setId": "set-04",
+    "translations": {
+      "en": "FRONTIER",
+      "ru": "ГРАНИЦА",
+      "es": "FRONTERA"
+    }
+  },
+  {
+    "id": "set-04-0414",
+    "setId": "set-04",
+    "translations": {
+      "en": "FROWN",
+      "ru": "ХМУРИТЬСЯ",
+      "es": "FRUNCIR EL CEÑO"
+    }
+  },
+  {
+    "id": "set-04-0415",
+    "setId": "set-04",
+    "translations": {
+      "en": "FURIOUS",
+      "ru": "ЯРОСТНЫЙ",
+      "es": "FURIOSO"
+    }
+  },
+  {
+    "id": "set-04-0416",
+    "setId": "set-04",
+    "translations": {
+      "en": "FURNISH",
+      "ru": "МЕБЛИРОВАННЫЙ",
+      "es": "PROPORCIONAR"
+    }
+  },
+  {
+    "id": "set-04-0417",
+    "setId": "set-04",
+    "translations": {
+      "en": "FUSE",
+      "ru": "ПРЕДОХРАНИТЕЛЬ",
+      "es": "FUSIBLE"
+    }
+  },
+  {
+    "id": "set-04-0418",
+    "setId": "set-04",
+    "translations": {
+      "en": "GALAXY",
+      "ru": "ГАЛАКТИКА",
+      "es": "GALAXIA"
+    }
+  },
+  {
+    "id": "set-04-0419",
+    "setId": "set-04",
+    "translations": {
+      "en": "GALLON",
+      "ru": "ГАЛЛОН",
+      "es": "GALÓN"
+    }
+  },
+  {
+    "id": "set-04-0420",
+    "setId": "set-04",
+    "translations": {
+      "en": "GAMBLE",
+      "ru": "АЗАРТНЫЙ ИГРОК",
+      "es": "JUGAR"
+    }
+  },
+  {
+    "id": "set-04-0421",
+    "setId": "set-04",
+    "translations": {
+      "en": "GARLIC",
+      "ru": "ЧЕСНОК",
+      "es": "AJO"
+    }
+  },
+  {
+    "id": "set-04-0422",
+    "setId": "set-04",
+    "translations": {
+      "en": "GASP",
+      "ru": "УЖАС",
+      "es": "JADEAR"
+    }
+  },
+  {
+    "id": "set-04-0423",
+    "setId": "set-04",
+    "translations": {
+      "en": "GAUGE",
+      "ru": "ИЗМЕРЯТЬ",
+      "es": "INDICADOR"
+    }
+  },
+  {
+    "id": "set-04-0424",
+    "setId": "set-04",
+    "translations": {
+      "en": "GENIUS",
+      "ru": "ГЕНИЙ",
+      "es": "GENIO"
+    }
+  },
+  {
+    "id": "set-04-0425",
+    "setId": "set-04",
+    "translations": {
+      "en": "GENRE",
+      "ru": "ЖАНР",
+      "es": "GÉNERO"
+    }
+  },
+  {
+    "id": "set-04-0426",
+    "setId": "set-04",
+    "translations": {
+      "en": "GEOLOGY",
+      "ru": "ГЕОЛОГИЯ",
+      "es": "GEOLOGÍA"
+    }
+  },
+  {
+    "id": "set-04-0427",
+    "setId": "set-04",
+    "translations": {
+      "en": "GEOMETRY",
+      "ru": "ГЕОМЕТРИЯ",
+      "es": "GEOMETRÍA"
+    }
+  },
+  {
+    "id": "set-04-0428",
+    "setId": "set-04",
+    "translations": {
+      "en": "GLAMOUR",
+      "ru": "ГЛАМУР",
+      "es": "GLAMOUR"
+    }
+  },
+  {
+    "id": "set-04-0429",
+    "setId": "set-04",
+    "translations": {
+      "en": "GLARE",
+      "ru": "БЛЕЙ",
+      "es": "DESLUMBRAMIENTO"
+    }
+  },
+  {
+    "id": "set-04-0430",
+    "setId": "set-04",
+    "translations": {
+      "en": "GLEAM",
+      "ru": "БЛЕСК",
+      "es": "DESTELLO"
+    }
+  },
+  {
+    "id": "set-04-0431",
+    "setId": "set-04",
+    "translations": {
+      "en": "GLIDE",
+      "ru": "СКОЛЬЖЕНИЕ",
+      "es": "PLANEO"
+    }
+  },
+  {
+    "id": "set-04-0432",
+    "setId": "set-04",
+    "translations": {
+      "en": "GLIMPSE",
+      "ru": "СЛУЧАЙНО ЗАМЕТИТЬ",
+      "es": "VISTAZO"
+    }
+  },
+  {
+    "id": "set-04-0433",
+    "setId": "set-04",
+    "translations": {
+      "en": "GLOOM",
+      "ru": "МРАЧ",
+      "es": "OSCURIDAD"
+    }
+  },
+  {
+    "id": "set-04-0434",
+    "setId": "set-04",
+    "translations": {
+      "en": "GLOVE",
+      "ru": "ПЕРЧАТКА",
+      "es": "GUANTE"
+    }
+  },
+  {
+    "id": "set-04-0435",
+    "setId": "set-04",
+    "translations": {
+      "en": "GLUE",
+      "ru": "КЛЕЙ",
+      "es": "PEGAMENTO"
+    }
+  },
+  {
+    "id": "set-04-0436",
+    "setId": "set-04",
+    "translations": {
+      "en": "GOAT",
+      "ru": "КОЗЕЛ",
+      "es": "CABRA"
+    }
+  },
+  {
+    "id": "set-04-0437",
+    "setId": "set-04",
+    "translations": {
+      "en": "GOSPEL",
+      "ru": "ЕВАНГЕЛИЕ",
+      "es": "EVANGELIO"
+    }
+  },
+  {
+    "id": "set-04-0438",
+    "setId": "set-04",
+    "translations": {
+      "en": "GOSSIP",
+      "ru": "СЛУХ",
+      "es": "CHISME"
+    }
+  },
+  {
+    "id": "set-04-0439",
+    "setId": "set-04",
+    "translations": {
+      "en": "GRAPH",
+      "ru": "ГРАФИК",
+      "es": "GRÁFICO"
+    }
+  },
+  {
+    "id": "set-04-0440",
+    "setId": "set-04",
+    "translations": {
+      "en": "GRAVEL",
+      "ru": "ГРАВИЙ",
+      "es": "GRAVA"
+    }
+  },
+  {
+    "id": "set-04-0441",
+    "setId": "set-04",
+    "translations": {
+      "en": "GRAZE",
+      "ru": "ПАСАТЬ",
+      "es": "PACER"
+    }
+  },
+  {
+    "id": "set-04-0442",
+    "setId": "set-04",
+    "translations": {
+      "en": "GREASE",
+      "ru": "СМАЗКА",
+      "es": "GRASA"
+    }
+  },
+  {
+    "id": "set-04-0443",
+    "setId": "set-04",
+    "translations": {
+      "en": "GREED",
+      "ru": "ЖАДНОСТЬ",
+      "es": "CODICIA"
+    }
+  },
+  {
+    "id": "set-04-0444",
+    "setId": "set-04",
+    "translations": {
+      "en": "GREENHOUSE",
+      "ru": "ТЕПЛИЦА",
+      "es": "INVERNADERO"
+    }
+  },
+  {
+    "id": "set-04-0445",
+    "setId": "set-04",
+    "translations": {
+      "en": "GRID",
+      "ru": "СЕТКА",
+      "es": "CUADRÍCULA"
+    }
+  },
+  {
+    "id": "set-04-0446",
+    "setId": "set-04",
+    "translations": {
+      "en": "GRIEF",
+      "ru": "ГОРЕ",
+      "es": "DOLOR"
+    }
+  },
+  {
+    "id": "set-04-0447",
+    "setId": "set-04",
+    "translations": {
+      "en": "GRILL",
+      "ru": "ГРИЛЬ",
+      "es": "PARRILLA"
+    }
+  },
+  {
+    "id": "set-04-0448",
+    "setId": "set-04",
+    "translations": {
+      "en": "GRIM",
+      "ru": "МРАЧНЫЙ",
+      "es": "SEVERO"
+    }
+  },
+  {
+    "id": "set-04-0449",
+    "setId": "set-04",
+    "translations": {
+      "en": "GRIND",
+      "ru": "МОЛОТЬ",
+      "es": "MOLER"
+    }
+  },
+  {
+    "id": "set-04-0450",
+    "setId": "set-04",
+    "translations": {
+      "en": "GUARDIAN",
+      "ru": "ОПЕКУН",
+      "es": "GUARDIÁN"
+    }
+  },
+  {
+    "id": "set-04-0451",
+    "setId": "set-04",
+    "translations": {
+      "en": "GUERILLA",
+      "ru": "ПАРТИЗАН",
+      "es": "GUERRILLA"
+    }
+  },
+  {
+    "id": "set-04-0452",
+    "setId": "set-04",
+    "translations": {
+      "en": "GULF",
+      "ru": "ЗАЛИВ",
+      "es": "GOLFO"
+    }
+  },
+  {
+    "id": "set-04-0453",
+    "setId": "set-04",
+    "translations": {
+      "en": "GUT",
+      "ru": "КИШЕЧНИК",
+      "es": "INTESTINO"
+    }
+  },
+  {
+    "id": "set-04-0454",
+    "setId": "set-04",
+    "translations": {
+      "en": "HABITAT",
+      "ru": "СРЕДА ОБИТАНИЯ",
+      "es": "HÁBITAT"
+    }
+  },
+  {
+    "id": "set-04-0455",
+    "setId": "set-04",
+    "translations": {
+      "en": "HAMMER",
+      "ru": "МОЛОТОК",
+      "es": "MARTILLO"
+    }
+  },
+  {
+    "id": "set-04-0456",
+    "setId": "set-04",
+    "translations": {
+      "en": "HANDICAP",
+      "ru": "ГАНДИП",
+      "es": "HANDICAP"
+    }
+  },
+  {
+    "id": "set-04-0457",
+    "setId": "set-04",
+    "translations": {
+      "en": "HANDSOME",
+      "ru": "КРАСИВЫЙ",
+      "es": "ELEGANTE"
+    }
+  },
+  {
+    "id": "set-04-0458",
+    "setId": "set-04",
+    "translations": {
+      "en": "HARASS",
+      "ru": "ХАРАСС",
+      "es": "ACOSAR"
+    }
+  },
+  {
+    "id": "set-04-0459",
+    "setId": "set-04",
+    "translations": {
+      "en": "HARDWARE",
+      "ru": "АППАРАТНОЕ ОБЕСПЕЧЕНИЕ",
+      "es": "HARDWARE"
+    }
+  },
+  {
+    "id": "set-04-0460",
+    "setId": "set-04",
+    "translations": {
+      "en": "HARMONY",
+      "ru": "ГАРМОНИЯ",
+      "es": "ARMONÍA"
+    }
+  },
+  {
+    "id": "set-04-0461",
+    "setId": "set-04",
+    "translations": {
+      "en": "HARVEST",
+      "ru": "УРОЖАЙ",
+      "es": "COSECHA"
+    }
+  },
+  {
+    "id": "set-04-0462",
+    "setId": "set-04",
+    "translations": {
+      "en": "HASTE",
+      "ru": "СПЕШИТЬ",
+      "es": "PRISA"
+    }
+  },
+  {
+    "id": "set-04-0463",
+    "setId": "set-04",
+    "translations": {
+      "en": "HATCH",
+      "ru": "ЛЮК",
+      "es": "ESCOTILLA"
+    }
+  },
+  {
+    "id": "set-04-0464",
+    "setId": "set-04",
+    "translations": {
+      "en": "HAUL",
+      "ru": "ДОСТАВКА",
+      "es": "TRANSPORTAR"
+    }
+  },
+  {
+    "id": "set-04-0465",
+    "setId": "set-04",
+    "translations": {
+      "en": "HAUNT",
+      "ru": "ПРИЗРАК",
+      "es": "GUARIDA"
+    }
+  },
+  {
+    "id": "set-04-0466",
+    "setId": "set-04",
+    "translations": {
+      "en": "HEIR",
+      "ru": "НАСЛЕДНИК",
+      "es": "HEREDERO"
+    }
+  },
+  {
+    "id": "set-04-0467",
+    "setId": "set-04",
+    "translations": {
+      "en": "HELICOPTER",
+      "ru": "ВЕРТОЛЕТ",
+      "es": "HELICÓPTERO"
+    }
+  },
+  {
+    "id": "set-04-0468",
+    "setId": "set-04",
+    "translations": {
+      "en": "HELMET",
+      "ru": "ШЛЕМ",
+      "es": "CASCO"
+    }
+  },
+  {
+    "id": "set-04-0469",
+    "setId": "set-04",
+    "translations": {
+      "en": "HERB",
+      "ru": "ТРАВЫ",
+      "es": "HIERBA"
+    }
+  },
+  {
+    "id": "set-04-0470",
+    "setId": "set-04",
+    "translations": {
+      "en": "HERD",
+      "ru": "СТАДО",
+      "es": "REBAÑO"
+    }
+  },
+  {
+    "id": "set-04-0471",
+    "setId": "set-04",
+    "translations": {
+      "en": "HIERARCHY",
+      "ru": "ИЕРАРХИЯ",
+      "es": "JERARQUÍA"
+    }
+  },
+  {
+    "id": "set-04-0472",
+    "setId": "set-04",
+    "translations": {
+      "en": "HOLLOW",
+      "ru": "ПУСТОЙ",
+      "es": "HUECO"
+    }
+  },
+  {
+    "id": "set-04-0473",
+    "setId": "set-04",
+    "translations": {
+      "en": "HOMOSEXUAL",
+      "ru": "ГОМОСЕКСУАЛ",
+      "es": "HOMOSEXUAL"
+    }
+  },
+  {
+    "id": "set-04-0474",
+    "setId": "set-04",
+    "translations": {
+      "en": "HOOD",
+      "ru": "КАПЮШОН",
+      "es": "CAPUCHA"
+    }
+  },
+  {
+    "id": "set-04-0475",
+    "setId": "set-04",
+    "translations": {
+      "en": "HOP",
+      "ru": "ПРЫГАТЬ",
+      "es": "BRINCAR"
+    }
+  },
+  {
+    "id": "set-04-0476",
+    "setId": "set-04",
+    "translations": {
+      "en": "HORIZON",
+      "ru": "ГОРИЗОНТ",
+      "es": "HORIZONTE"
+    }
+  },
+  {
+    "id": "set-04-0477",
+    "setId": "set-04",
+    "translations": {
+      "en": "HORIZONTAL",
+      "ru": "ГОРИЗОНТАЛЬНЫЙ",
+      "es": "HORIZONTAL"
+    }
+  },
+  {
+    "id": "set-04-0478",
+    "setId": "set-04",
+    "translations": {
+      "en": "HORMONE",
+      "ru": "ГОРМОН",
+      "es": "HORMONA"
+    }
+  },
+  {
+    "id": "set-04-0479",
+    "setId": "set-04",
+    "translations": {
+      "en": "HORN",
+      "ru": "РОГ",
+      "es": "BOCINA"
+    }
+  },
+  {
+    "id": "set-04-0480",
+    "setId": "set-04",
+    "translations": {
+      "en": "HOSTAGE",
+      "ru": "ЗАЛОЖНИК",
+      "es": "REHÉN"
+    }
+  },
+  {
+    "id": "set-04-0481",
+    "setId": "set-04",
+    "translations": {
+      "en": "HUG",
+      "ru": "ОБНИМАТЬ",
+      "es": "ABRAZO"
+    }
+  },
+  {
+    "id": "set-04-0482",
+    "setId": "set-04",
+    "translations": {
+      "en": "HUMBLE",
+      "ru": "СКРОМНЫЙ",
+      "es": "HUMILDE"
+    }
+  },
+  {
+    "id": "set-04-0483",
+    "setId": "set-04",
+    "translations": {
+      "en": "HUMILIATE",
+      "ru": "УНИЖАТЬ",
+      "es": "HUMILLAR"
+    }
+  },
+  {
+    "id": "set-04-0484",
+    "setId": "set-04",
+    "translations": {
+      "en": "HURRICANE",
+      "ru": "УРАГАН",
+      "es": "HURACÁN"
+    }
+  },
+  {
+    "id": "set-04-0485",
+    "setId": "set-04",
+    "translations": {
+      "en": "HUT",
+      "ru": "ХИЖИНА",
+      "es": "CABAÑA"
+    }
+  },
+  {
+    "id": "set-04-0486",
+    "setId": "set-04",
+    "translations": {
+      "en": "HYBRID",
+      "ru": "ГИБРИДНЫЙ",
+      "es": "HÍBRIDO"
+    }
+  },
+  {
+    "id": "set-04-0487",
+    "setId": "set-04",
+    "translations": {
+      "en": "HYDROGEN",
+      "ru": "ВОДОРОД",
+      "es": "HIDRÓGENO"
+    }
+  },
+  {
+    "id": "set-04-0488",
+    "setId": "set-04",
+    "translations": {
+      "en": "IDENTICAL",
+      "ru": "ИДЕНТИЧНЫЙ",
+      "es": "IDÉNTICO"
+    }
+  },
+  {
+    "id": "set-04-0489",
+    "setId": "set-04",
+    "translations": {
+      "en": "IDEOLOGICAL",
+      "ru": "ИДЕОЛОГИЧЕСКИЙ",
+      "es": "IDEOLÓGICO"
+    }
+  },
+  {
+    "id": "set-04-0490",
+    "setId": "set-04",
+    "translations": {
+      "en": "IDLE",
+      "ru": "ПРАЗДНЫЙ",
+      "es": "INACTIVO"
+    }
+  },
+  {
+    "id": "set-04-0491",
+    "setId": "set-04",
+    "translations": {
+      "en": "ILLUMINATE",
+      "ru": "ОСВЕТИТЬ",
+      "es": "ILUMINAR"
+    }
+  },
+  {
+    "id": "set-04-0492",
+    "setId": "set-04",
+    "translations": {
+      "en": "ILLUSION",
+      "ru": "ИЛЛЮЗИЯ",
+      "es": "ESPEJISMO"
+    }
+  },
+  {
+    "id": "set-04-0493",
+    "setId": "set-04",
+    "translations": {
+      "en": "IMITATE",
+      "ru": "ИМИТИРОВАТЬ",
+      "es": "IMITAR"
+    }
+  },
+  {
+    "id": "set-04-0494",
+    "setId": "set-04",
+    "translations": {
+      "en": "IMMENSE",
+      "ru": "ОГРОМНЫЙ",
+      "es": "INMENSO"
+    }
+  },
+  {
+    "id": "set-04-0495",
+    "setId": "set-04",
+    "translations": {
+      "en": "IMMIGRATE",
+      "ru": "ИММИГРАЦИЯ",
+      "es": "INMIGRAR"
+    }
+  },
+  {
+    "id": "set-04-0496",
+    "setId": "set-04",
+    "translations": {
+      "en": "IMPAIR",
+      "ru": "НАРУШЕНИЕ",
+      "es": "PERJUDICAR"
+    }
+  },
+  {
+    "id": "set-04-0497",
+    "setId": "set-04",
+    "translations": {
+      "en": "IMPATIENT",
+      "ru": "НЕТЕРПЕЛИВЫЙ",
+      "es": "IMPACIENTE"
+    }
+  },
+  {
+    "id": "set-04-0498",
+    "setId": "set-04",
+    "translations": {
+      "en": "IMPLICIT",
+      "ru": "СКРЫТЫЙ",
+      "es": "IMPLÍCITO"
+    }
+  },
+  {
+    "id": "set-04-0499",
+    "setId": "set-04",
+    "translations": {
+      "en": "IMPULSE",
+      "ru": "ИМПУЛЬС",
+      "es": "IMPULSO"
+    }
+  },
+  {
+    "id": "set-04-0500",
+    "setId": "set-04",
+    "translations": {
+      "en": "INCIDENCE",
+      "ru": "ИНЦИДЕНТ",
+      "es": "INCIDENCIA"
+    }
+  },
+  {
+    "id": "set-04-0501",
+    "setId": "set-04",
+    "translations": {
+      "en": "INCLINE",
+      "ru": "НАКЛОН",
+      "es": "INCLINACIÓN"
+    }
+  },
+  {
+    "id": "set-04-0502",
+    "setId": "set-04",
+    "translations": {
+      "en": "INCLUSION",
+      "ru": "ВКЛЮЧЕНИЕ",
+      "es": "INCLUSIÓN"
+    }
+  },
+  {
+    "id": "set-04-0503",
+    "setId": "set-04",
+    "translations": {
+      "en": "INDIFFERENT",
+      "ru": "БЕЗРАЗЛИЧНЫЙ",
+      "es": "INDIFERENTE"
+    }
+  },
+  {
+    "id": "set-04-0504",
+    "setId": "set-04",
+    "translations": {
+      "en": "INDIGENOUS",
+      "ru": "МЕСТНЫЙ",
+      "es": "INDÍGENA"
+    }
+  },
+  {
+    "id": "set-04-0505",
+    "setId": "set-04",
+    "translations": {
+      "en": "INDIRECT",
+      "ru": "НЕПРЯМОЙ",
+      "es": "INDIRECTO"
+    }
+  },
+  {
+    "id": "set-04-0506",
+    "setId": "set-04",
+    "translations": {
+      "en": "INDUCE",
+      "ru": "ИНДУКЦИЯ",
+      "es": "INDUCIR"
+    }
+  },
+  {
+    "id": "set-04-0507",
+    "setId": "set-04",
+    "translations": {
+      "en": "INDULGE",
+      "ru": "ПРЕДАВАТЬСЯ",
+      "es": "COMPLACER"
+    }
+  },
+  {
+    "id": "set-04-0508",
+    "setId": "set-04",
+    "translations": {
+      "en": "INFER",
+      "ru": "ВЫВОД",
+      "es": "INFERIR"
+    }
+  },
+  {
+    "id": "set-04-0509",
+    "setId": "set-04",
+    "translations": {
+      "en": "INFINITE",
+      "ru": "БЕСКОНЕЧНЫЙ",
+      "es": "INFINITO"
+    }
+  },
+  {
+    "id": "set-04-0510",
+    "setId": "set-04",
+    "translations": {
+      "en": "INFLAME",
+      "ru": "ВОСПАЛЕНИЕ",
+      "es": "INFLAMAR"
+    }
+  },
+  {
+    "id": "set-04-0511",
+    "setId": "set-04",
+    "translations": {
+      "en": "INFORMAL",
+      "ru": "НЕОФИЦИАЛЬНЫЙ",
+      "es": "INFORMAL"
+    }
+  },
+  {
+    "id": "set-04-0512",
+    "setId": "set-04",
+    "translations": {
+      "en": "INFRASTRUCTURE",
+      "ru": "ИНФРАСТРУКТУРА",
+      "es": "INFRAESTRUCTURA"
+    }
+  },
+  {
+    "id": "set-04-0513",
+    "setId": "set-04",
+    "translations": {
+      "en": "INHERENT",
+      "ru": "ВНУТРЕННИЙ",
+      "es": "INHERENTE"
+    }
+  },
+  {
+    "id": "set-04-0514",
+    "setId": "set-04",
+    "translations": {
+      "en": "INHIBIT",
+      "ru": "ИНГИБИТ",
+      "es": "INHIBIR"
+    }
+  },
+  {
+    "id": "set-04-0515",
+    "setId": "set-04",
+    "translations": {
+      "en": "INK",
+      "ru": "ЧЕРНИЛА",
+      "es": "TINTA"
+    }
+  },
+  {
+    "id": "set-04-0516",
+    "setId": "set-04",
+    "translations": {
+      "en": "INN",
+      "ru": "ГОСТИНИЦА",
+      "es": "POSADA"
+    }
+  },
+  {
+    "id": "set-04-0517",
+    "setId": "set-04",
+    "translations": {
+      "en": "INNOVATIVE",
+      "ru": "ИННОВАЦИОННЫЙ",
+      "es": "INNOVADOR"
+    }
+  },
+  {
+    "id": "set-04-0518",
+    "setId": "set-04",
+    "translations": {
+      "en": "INSECT",
+      "ru": "НАСЕКОМОЕ",
+      "es": "INSECTO"
+    }
+  },
+  {
+    "id": "set-04-0519",
+    "setId": "set-04",
+    "translations": {
+      "en": "INSULATE",
+      "ru": "ИЗОЛЯЦИЯ",
+      "es": "AISLAR"
+    }
+  },
+  {
+    "id": "set-04-0520",
+    "setId": "set-04",
+    "translations": {
+      "en": "INSULT",
+      "ru": "ОСКОРБЛЯТЬ",
+      "es": "INSULTO"
+    }
+  },
+  {
+    "id": "set-04-0521",
+    "setId": "set-04",
+    "translations": {
+      "en": "INTACT",
+      "ru": "НЕТРОНУТЫЙ",
+      "es": "INTACTO"
+    }
+  },
+  {
+    "id": "set-04-0522",
+    "setId": "set-04",
+    "translations": {
+      "en": "INTEGRAL",
+      "ru": "ИНТЕГРАЛ",
+      "es": "INTEGRAL"
+    }
+  },
+  {
+    "id": "set-04-0523",
+    "setId": "set-04",
+    "translations": {
+      "en": "INTEGRITY",
+      "ru": "ЧЕСТНОСТЬ",
+      "es": "INTEGRIDAD"
+    }
+  },
+  {
+    "id": "set-04-0524",
+    "setId": "set-04",
+    "translations": {
+      "en": "INTELLIGENT",
+      "ru": "РАЗУМНЫЙ",
+      "es": "INTELIGENTE"
+    }
+  },
+  {
+    "id": "set-04-0525",
+    "setId": "set-04",
+    "translations": {
+      "en": "INTERFACE",
+      "ru": "ИНТЕРФЕЙС",
+      "es": "INTERFAZ"
+    }
+  },
+  {
+    "id": "set-04-0526",
+    "setId": "set-04",
+    "translations": {
+      "en": "INTERIM",
+      "ru": "ВРЕМЕННЫЙ",
+      "es": "PROVISIONAL"
+    }
+  },
+  {
+    "id": "set-04-0527",
+    "setId": "set-04",
+    "translations": {
+      "en": "INTERVAL",
+      "ru": "ИНТЕРВАЛ",
+      "es": "INTERVALO"
+    }
+  },
+  {
+    "id": "set-04-0528",
+    "setId": "set-04",
+    "translations": {
+      "en": "INTIMIDATE",
+      "ru": "ЗАПУГИВАТЬ",
+      "es": "INTIMIDAR"
+    }
+  },
+  {
+    "id": "set-04-0529",
+    "setId": "set-04",
+    "translations": {
+      "en": "INTRIGUE",
+      "ru": "ИНТРИГА",
+      "es": "INTRIGA"
+    }
+  },
+  {
+    "id": "set-04-0530",
+    "setId": "set-04",
+    "translations": {
+      "en": "INVADE",
+      "ru": "ВТОРЖЕНИЕ",
+      "es": "INVADIR"
+    }
+  },
+  {
+    "id": "set-04-0531",
+    "setId": "set-04",
+    "translations": {
+      "en": "INVOKE",
+      "ru": "ПРИЗЫВАТЬ",
+      "es": "INVOCAR"
+    }
+  },
+  {
+    "id": "set-04-0532",
+    "setId": "set-04",
+    "translations": {
+      "en": "IRRITATE",
+      "ru": "РАЗДРАЖАТЬ",
+      "es": "IRRITAR"
+    }
+  },
+  {
+    "id": "set-04-0533",
+    "setId": "set-04",
+    "translations": {
+      "en": "JAR",
+      "ru": "БАНКА",
+      "es": "FRASCO"
+    }
+  },
+  {
+    "id": "set-04-0534",
+    "setId": "set-04",
+    "translations": {
+      "en": "JAZZ",
+      "ru": "ДЖАЗ",
+      "es": "JAZZ"
+    }
+  },
+  {
+    "id": "set-04-0535",
+    "setId": "set-04",
+    "translations": {
+      "en": "JERK",
+      "ru": "ПРИДУРОК",
+      "es": "IDIOTA"
+    }
+  },
+  {
+    "id": "set-04-0536",
+    "setId": "set-04",
+    "translations": {
+      "en": "JEWELLERY",
+      "ru": "ЮВЕЛИРНЫЕ ИЗДЕЛИЯ",
+      "es": "JOYERÍA"
+    }
+  },
+  {
+    "id": "set-04-0537",
+    "setId": "set-04",
+    "translations": {
+      "en": "JUDICIAL",
+      "ru": "СУДЕБНЫЙ",
+      "es": "JUDICIAL"
+    }
+  },
+  {
+    "id": "set-04-0538",
+    "setId": "set-04",
+    "translations": {
+      "en": "JUNGLE",
+      "ru": "ДЖУНГЛИ",
+      "es": "SELVA"
+    }
+  },
+  {
+    "id": "set-04-0539",
+    "setId": "set-04",
+    "translations": {
+      "en": "JURISDICTION",
+      "ru": "ЮРИСДИКЦИЯ",
+      "es": "JURISDICCIÓN"
+    }
+  },
+  {
+    "id": "set-04-0540",
+    "setId": "set-04",
+    "translations": {
+      "en": "JUVENILE",
+      "ru": "НЕСОВЕРШЕННОЛЕТНИЕ",
+      "es": "JUVENIL"
+    }
+  },
+  {
+    "id": "set-04-0541",
+    "setId": "set-04",
+    "translations": {
+      "en": "KEYBOARD",
+      "ru": "КЛАВИАТУРА",
+      "es": "TECLADO"
+    }
+  },
+  {
+    "id": "set-04-0542",
+    "setId": "set-04",
+    "translations": {
+      "en": "KIDNAP",
+      "ru": "ПОХИЩЕНИЕ",
+      "es": "SECUESTRAR"
+    }
+  },
+  {
+    "id": "set-04-0543",
+    "setId": "set-04",
+    "translations": {
+      "en": "KILOGRAM",
+      "ru": "КИЛОГРАММ",
+      "es": "KILOGRAMO"
+    }
+  },
+  {
+    "id": "set-04-0544",
+    "setId": "set-04",
+    "translations": {
+      "en": "KIN",
+      "ru": "РОДСТВЕННИК",
+      "es": "FAMILIARES"
+    }
+  },
+  {
+    "id": "set-04-0545",
+    "setId": "set-04",
+    "translations": {
+      "en": "KIT",
+      "ru": "НАБОР",
+      "es": "EQUIPO"
+    }
+  },
+  {
+    "id": "set-04-0546",
+    "setId": "set-04",
+    "translations": {
+      "en": "KNEEL",
+      "ru": "ПРЕКЛОНИТЬСЯ",
+      "es": "ARRODILLARSE"
+    }
+  },
+  {
+    "id": "set-04-0547",
+    "setId": "set-04",
+    "translations": {
+      "en": "KNOT",
+      "ru": "УЗЕЛ",
+      "es": "NUDO"
+    }
+  },
+  {
+    "id": "set-04-0548",
+    "setId": "set-04",
+    "translations": {
+      "en": "LACE",
+      "ru": "КРУЖЕВО",
+      "es": "CORDÓN"
+    }
+  },
+  {
+    "id": "set-04-0549",
+    "setId": "set-04",
+    "translations": {
+      "en": "LADDER",
+      "ru": "ЛЕСТНИЦА",
+      "es": "ESCALERA"
+    }
+  },
+  {
+    "id": "set-04-0550",
+    "setId": "set-04",
+    "translations": {
+      "en": "LANDLORD",
+      "ru": "АРЕНДОДАТЕЛЬ",
+      "es": "PROPIETARIO"
+    }
+  },
+  {
+    "id": "set-04-0551",
+    "setId": "set-04",
+    "translations": {
+      "en": "LAP",
+      "ru": "КОЛЕНИ",
+      "es": "REGAZO"
+    }
+  },
+  {
+    "id": "set-04-0552",
+    "setId": "set-04",
+    "translations": {
+      "en": "LASER",
+      "ru": "ЛАЗЕР",
+      "es": "LÁSER"
+    }
+  },
+  {
+    "id": "set-04-0553",
+    "setId": "set-04",
+    "translations": {
+      "en": "LAUNDRY",
+      "ru": "ПРАЧЕЧНАЯ",
+      "es": "LAVADERO"
+    }
+  },
+  {
+    "id": "set-04-0554",
+    "setId": "set-04",
+    "translations": {
+      "en": "LEAF",
+      "ru": "ЛИСТ",
+      "es": "HOJA"
+    }
+  },
+  {
+    "id": "set-04-0555",
+    "setId": "set-04",
+    "translations": {
+      "en": "LEGACY",
+      "ru": "НАСЛЕДИЕ",
+      "es": "LEGADO"
+    }
+  },
+  {
+    "id": "set-04-0556",
+    "setId": "set-04",
+    "translations": {
+      "en": "LEGISLATURE",
+      "ru": "ЗАКОНОДАТЕЛЬНОЕ СОБРАНИЕ",
+      "es": "LEGISLATURA"
+    }
+  },
+  {
+    "id": "set-04-0557",
+    "setId": "set-04",
+    "translations": {
+      "en": "LEISURE",
+      "ru": "ДОСУГ",
+      "es": "OCIO"
+    }
+  },
+  {
+    "id": "set-04-0558",
+    "setId": "set-04",
+    "translations": {
+      "en": "LEMON",
+      "ru": "ЛИМОН",
+      "es": "LIMÓN"
+    }
+  },
+  {
+    "id": "set-04-0559",
+    "setId": "set-04",
+    "translations": {
+      "en": "LENS",
+      "ru": "ОБЪЕКТИВ",
+      "es": "LENTE"
+    }
+  },
+  {
+    "id": "set-04-0560",
+    "setId": "set-04",
+    "translations": {
+      "en": "LESBIAN",
+      "ru": "ЛЕСБИЯНКА",
+      "es": "LESBIANA"
+    }
+  },
+  {
+    "id": "set-04-0561",
+    "setId": "set-04",
+    "translations": {
+      "en": "LEVER",
+      "ru": "РЫЧАГ",
+      "es": "PALANCA"
+    }
+  },
+  {
+    "id": "set-04-0562",
+    "setId": "set-04",
+    "translations": {
+      "en": "LICK",
+      "ru": "ЛИЗАТЬ",
+      "es": "LAMER"
+    }
+  },
+  {
+    "id": "set-04-0563",
+    "setId": "set-04",
+    "translations": {
+      "en": "LIEUTENANT",
+      "ru": "ЛЕЙТЕНАНТ",
+      "es": "TENIENTE"
+    }
+  },
+  {
+    "id": "set-04-0564",
+    "setId": "set-04",
+    "translations": {
+      "en": "LIKEWISE",
+      "ru": "ТАК ЖЕ",
+      "es": "ASIMISMO"
+    }
+  },
+  {
+    "id": "set-04-0565",
+    "setId": "set-04",
+    "translations": {
+      "en": "LIMB",
+      "ru": "КОНЕЧНОСТЬ",
+      "es": "MIEMBRO"
+    }
+  },
+  {
+    "id": "set-04-0566",
+    "setId": "set-04",
+    "translations": {
+      "en": "LINEAR",
+      "ru": "ЛИНЕЙНЫЙ",
+      "es": "LINEAL"
+    }
+  },
+  {
+    "id": "set-04-0567",
+    "setId": "set-04",
+    "translations": {
+      "en": "LINGER",
+      "ru": "ЗАДЕРЖИВАТЬСЯ",
+      "es": "PERSISTIR"
+    }
+  },
+  {
+    "id": "set-04-0568",
+    "setId": "set-04",
+    "translations": {
+      "en": "LINGUISTIC",
+      "ru": "ЛИНГВИСТИЧЕСКИЙ",
+      "es": "LINGÜÍSTICO"
+    }
+  },
+  {
+    "id": "set-04-0569",
+    "setId": "set-04",
+    "translations": {
+      "en": "LITERACY",
+      "ru": "ГРАМОТНОСТЬ",
+      "es": "ALFABETISMO"
+    }
+  },
+  {
+    "id": "set-04-0570",
+    "setId": "set-04",
+    "translations": {
+      "en": "LIVELY",
+      "ru": "ЖИВОЙ",
+      "es": "DINÁMICO"
+    }
+  },
+  {
+    "id": "set-04-0571",
+    "setId": "set-04",
+    "translations": {
+      "en": "LIVER",
+      "ru": "ПЕЧЕНЬ",
+      "es": "HÍGADO"
+    }
+  },
+  {
+    "id": "set-04-0572",
+    "setId": "set-04",
+    "translations": {
+      "en": "LONGING",
+      "ru": "ТОСКА",
+      "es": "ANHELO"
+    }
+  },
+  {
+    "id": "set-04-0573",
+    "setId": "set-04",
+    "translations": {
+      "en": "LOOM",
+      "ru": "ТКАНЬ",
+      "es": "TELAR"
+    }
+  },
+  {
+    "id": "set-04-0574",
+    "setId": "set-04",
+    "translations": {
+      "en": "LOOP",
+      "ru": "ПЕТЛЯ",
+      "es": "BUCLE"
+    }
+  },
+  {
+    "id": "set-04-0575",
+    "setId": "set-04",
+    "translations": {
+      "en": "LOUNGE",
+      "ru": "БЕЗДЕЛЬНИЧАТЬ",
+      "es": "SALÓN"
+    }
+  },
+  {
+    "id": "set-04-0576",
+    "setId": "set-04",
+    "translations": {
+      "en": "LUNG",
+      "ru": "ЛЕГКОЕ",
+      "es": "PULMÓN"
+    }
+  },
+  {
+    "id": "set-04-0577",
+    "setId": "set-04",
+    "translations": {
+      "en": "LYRIC",
+      "ru": "ТЕКСТ ПЕСНИ",
+      "es": "LÍRICA"
+    }
+  },
+  {
+    "id": "set-04-0578",
+    "setId": "set-04",
+    "translations": {
+      "en": "MAGNIFICENT",
+      "ru": "ВЕЛИКОЛЕПНЫЙ",
+      "es": "MAGNÍFICO"
+    }
+  },
+  {
+    "id": "set-04-0579",
+    "setId": "set-04",
+    "translations": {
+      "en": "MAGNITUDE",
+      "ru": "ВЕЛИЧИНА",
+      "es": "MAGNITUD"
+    }
+  },
+  {
+    "id": "set-04-0580",
+    "setId": "set-04",
+    "translations": {
+      "en": "MAMMAL",
+      "ru": "МЛЕКОПИТАЮЩЕЕ",
+      "es": "MAMÍFERO"
+    }
+  },
+  {
+    "id": "set-04-0581",
+    "setId": "set-04",
+    "translations": {
+      "en": "MANDATE",
+      "ru": "МАНДАТ",
+      "es": "MANDATO"
+    }
+  },
+  {
+    "id": "set-04-0582",
+    "setId": "set-04",
+    "translations": {
+      "en": "MANUSCRIPT",
+      "ru": "РУКОПИСЬ",
+      "es": "MANUSCRITO"
+    }
+  },
+  {
+    "id": "set-04-0583",
+    "setId": "set-04",
+    "translations": {
+      "en": "MARBLE",
+      "ru": "МРАМОР",
+      "es": "MÁRMOL"
+    }
+  },
+  {
+    "id": "set-04-0584",
+    "setId": "set-04",
+    "translations": {
+      "en": "MARCHED",
+      "ru": "МАРШИРОВАН",
+      "es": "MARCHA"
+    }
+  },
+  {
+    "id": "set-04-0585",
+    "setId": "set-04",
+    "translations": {
+      "en": "MAT",
+      "ru": "МАТ",
+      "es": "ESTERA"
+    }
+  },
+  {
+    "id": "set-04-0586",
+    "setId": "set-04",
+    "translations": {
+      "en": "MATRIX",
+      "ru": "МАТРИЦА",
+      "es": "MATRIZ"
+    }
+  },
+  {
+    "id": "set-04-0587",
+    "setId": "set-04",
+    "translations": {
+      "en": "MAXIMISE",
+      "ru": "МАКСИМИЗАЦИЯ",
+      "es": "MAXIMIZAR"
+    }
+  },
+  {
+    "id": "set-04-0588",
+    "setId": "set-04",
+    "translations": {
+      "en": "MEANTIME",
+      "ru": "ТЕМ ВРЕМЕНЕМ",
+      "es": "MIENTRAS TANTO"
+    }
+  },
+  {
+    "id": "set-04-0589",
+    "setId": "set-04",
+    "translations": {
+      "en": "MEDAL",
+      "ru": "МЕДАЛЬ",
+      "es": "MEDALLA"
+    }
+  },
+  {
+    "id": "set-04-0590",
+    "setId": "set-04",
+    "translations": {
+      "en": "MEDIATE",
+      "ru": "ПОСРЕДНИК",
+      "es": "MEDIAR"
+    }
+  },
+  {
+    "id": "set-04-0591",
+    "setId": "set-04",
+    "translations": {
+      "en": "MEDIEVAL",
+      "ru": "СРЕДНЕВЕКОВЫЙ",
+      "es": "MEDIEVAL"
+    }
+  },
+  {
+    "id": "set-04-0592",
+    "setId": "set-04",
+    "translations": {
+      "en": "MELODY",
+      "ru": "МЕЛОДИЯ",
+      "es": "MELODÍA"
+    }
+  },
+  {
+    "id": "set-04-0593",
+    "setId": "set-04",
+    "translations": {
+      "en": "MERCHANT",
+      "ru": "ТОРГОВЕЦ",
+      "es": "COMERCIANTE"
+    }
+  },
+  {
+    "id": "set-04-0594",
+    "setId": "set-04",
+    "translations": {
+      "en": "MERCY",
+      "ru": "МИЛОСЕРДИЕ",
+      "es": "MERCED"
+    }
+  },
+  {
+    "id": "set-04-0595",
+    "setId": "set-04",
+    "translations": {
+      "en": "MERIT",
+      "ru": "ЗАСЛУГА",
+      "es": "MÉRITO"
+    }
+  },
+  {
+    "id": "set-04-0596",
+    "setId": "set-04",
+    "translations": {
+      "en": "METAPHOR",
+      "ru": "МЕТАФОРА",
+      "es": "METÁFORA"
+    }
+  },
+  {
+    "id": "set-04-0597",
+    "setId": "set-04",
+    "translations": {
+      "en": "METROPOLITAN",
+      "ru": "СТОЛИЧНЫЙ",
+      "es": "METROPOLITANO"
+    }
+  },
+  {
+    "id": "set-04-0598",
+    "setId": "set-04",
+    "translations": {
+      "en": "MID",
+      "ru": "МИД",
+      "es": "MEDIO"
+    }
+  },
+  {
+    "id": "set-04-0599",
+    "setId": "set-04",
+    "translations": {
+      "en": "MIGHTY",
+      "ru": "МОГУЩЕСТВЕННЫЙ",
+      "es": "PODEROSO"
+    }
+  },
+  {
+    "id": "set-04-0600",
+    "setId": "set-04",
+    "translations": {
+      "en": "MILITANT",
+      "ru": "ВОИНСТВЕННЫЙ",
+      "es": "MILITANTE"
+    }
+  },
+  {
+    "id": "set-04-0601",
+    "setId": "set-04",
+    "translations": {
+      "en": "MILLIGRAM",
+      "ru": "МИЛЛИГРАММ",
+      "es": "MILIGRAMO"
+    }
+  },
+  {
+    "id": "set-04-0602",
+    "setId": "set-04",
+    "translations": {
+      "en": "MINERAL",
+      "ru": "МИНЕРАЛ",
+      "es": "MINERAL"
+    }
+  },
+  {
+    "id": "set-04-0603",
+    "setId": "set-04",
+    "translations": {
+      "en": "MINIMAL",
+      "ru": "МИНИМАЛЬНЫЙ",
+      "es": "MÍNIMO"
+    }
+  },
+  {
+    "id": "set-04-0604",
+    "setId": "set-04",
+    "translations": {
+      "en": "MINIMISE",
+      "ru": "МИНИМИЗИРОВАТЬ",
+      "es": "MINIMIZAR"
+    }
+  },
+  {
+    "id": "set-04-0605",
+    "setId": "set-04",
+    "translations": {
+      "en": "MIRACLE",
+      "ru": "ЧУДО",
+      "es": "MILAGRO"
+    }
+  },
+  {
+    "id": "set-04-0606",
+    "setId": "set-04",
+    "translations": {
+      "en": "MISERABLE",
+      "ru": "УБОГИЙ",
+      "es": "MISERABLE"
+    }
+  },
+  {
+    "id": "set-04-0607",
+    "setId": "set-04",
+    "translations": {
+      "en": "MIST",
+      "ru": "ТУМАН",
+      "es": "NEBLINA"
+    }
+  },
+  {
+    "id": "set-04-0608",
+    "setId": "set-04",
+    "translations": {
+      "en": "MOBILISE",
+      "ru": "МОБИЛИЗАЦИЯ",
+      "es": "MOVILIZAR"
+    }
+  },
+  {
+    "id": "set-04-0609",
+    "setId": "set-04",
+    "translations": {
+      "en": "MOCK",
+      "ru": "НАСМЕХАТЬСЯ",
+      "es": "IMITAR"
+    }
+  },
+  {
+    "id": "set-04-0610",
+    "setId": "set-04",
+    "translations": {
+      "en": "MOISTURE",
+      "ru": "ВЛАГА",
+      "es": "HUMEDAD"
+    }
+  },
+  {
+    "id": "set-04-0611",
+    "setId": "set-04",
+    "translations": {
+      "en": "MOMENTUM",
+      "ru": "ИМПУЛЬС",
+      "es": "IMPULSO"
+    }
+  },
+  {
+    "id": "set-04-0612",
+    "setId": "set-04",
+    "translations": {
+      "en": "MONARCH",
+      "ru": "МОНАРХ",
+      "es": "MONARCA"
+    }
+  },
+  {
+    "id": "set-04-0613",
+    "setId": "set-04",
+    "translations": {
+      "en": "MONETARY",
+      "ru": "ДЕНЕЖНЫЙ",
+      "es": "MONETARIO"
+    }
+  },
+  {
+    "id": "set-04-0614",
+    "setId": "set-04",
+    "translations": {
+      "en": "MONOPOLY",
+      "ru": "МОНОПОЛИЯ",
+      "es": "MONOPOLIO"
+    }
+  },
+  {
+    "id": "set-04-0615",
+    "setId": "set-04",
+    "translations": {
+      "en": "MONUMENT",
+      "ru": "ПАМЯТНИК",
+      "es": "MONUMENTO"
+    }
+  },
+  {
+    "id": "set-04-0616",
+    "setId": "set-04",
+    "translations": {
+      "en": "MOULD",
+      "ru": "ФОРМА",
+      "es": "MOHO"
+    }
+  },
+  {
+    "id": "set-04-0617",
+    "setId": "set-04",
+    "translations": {
+      "en": "MOURN",
+      "ru": "СКОРБЬ",
+      "es": "LLORAR"
+    }
+  },
+  {
+    "id": "set-04-0618",
+    "setId": "set-04",
+    "translations": {
+      "en": "MS",
+      "ru": "РС",
+      "es": "EM"
+    }
+  },
+  {
+    "id": "set-04-0619",
+    "setId": "set-04",
+    "translations": {
+      "en": "MULTIPLY",
+      "ru": "УМНОЖИТЬ",
+      "es": "MULTIPLICAR"
+    }
+  },
+  {
+    "id": "set-04-0620",
+    "setId": "set-04",
+    "translations": {
+      "en": "MUNICIPAL",
+      "ru": "МУНИЦИПАЛЬНЫЙ",
+      "es": "MUNICIPAL"
+    }
+  },
+  {
+    "id": "set-04-0621",
+    "setId": "set-04",
+    "translations": {
+      "en": "MURMUR",
+      "ru": "МУРАШКИ",
+      "es": "MURMULLO"
+    }
+  },
+  {
+    "id": "set-04-0622",
+    "setId": "set-04",
+    "translations": {
+      "en": "MUSHROOM",
+      "ru": "ГРИБ",
+      "es": "CHAMPIÑÓN"
+    }
+  },
+  {
+    "id": "set-04-0623",
+    "setId": "set-04",
+    "translations": {
+      "en": "MUTTER",
+      "ru": "МАТТЕР",
+      "es": "MURMURAR"
+    }
+  },
+  {
+    "id": "set-04-0624",
+    "setId": "set-04",
+    "translations": {
+      "en": "NAVIGATE",
+      "ru": "НАВИГАЦИЯ",
+      "es": "NAVEGAR POR"
+    }
+  },
+  {
+    "id": "set-04-0625",
+    "setId": "set-04",
+    "translations": {
+      "en": "NECESSITY",
+      "ru": "НЕОБХОДИМОСТЬ",
+      "es": "NECESIDAD"
+    }
+  },
+  {
+    "id": "set-04-0626",
+    "setId": "set-04",
+    "translations": {
+      "en": "NEEDLE",
+      "ru": "ИГОЛКА",
+      "es": "AGUJA"
+    }
+  },
+  {
+    "id": "set-04-0627",
+    "setId": "set-04",
+    "translations": {
+      "en": "NIGHTMARE",
+      "ru": "КОШМАР",
+      "es": "PESADILLA"
+    }
+  },
+  {
+    "id": "set-04-0628",
+    "setId": "set-04",
+    "translations": {
+      "en": "NOBLE",
+      "ru": "БЛАГОРОДНЫЙ",
+      "es": "NOBLE"
+    }
+  },
+  {
+    "id": "set-04-0629",
+    "setId": "set-04",
+    "translations": {
+      "en": "NONETHELESS",
+      "ru": "ТЕМ НЕ МЕНЕЕ",
+      "es": "SIN EMBARGO"
+    }
+  },
+  {
+    "id": "set-04-0630",
+    "setId": "set-04",
+    "translations": {
+      "en": "NONSENSE",
+      "ru": "ЕРУНДА",
+      "es": "DISPARATES"
+    }
+  },
+  {
+    "id": "set-04-0631",
+    "setId": "set-04",
+    "translations": {
+      "en": "NOON",
+      "ru": "ПОЛДЕНЬ",
+      "es": "MEDIODÍA"
+    }
+  },
+  {
+    "id": "set-04-0632",
+    "setId": "set-04",
+    "translations": {
+      "en": "NORM",
+      "ru": "НОРМ",
+      "es": "NORMA"
+    }
+  },
+  {
+    "id": "set-04-0633",
+    "setId": "set-04",
+    "translations": {
+      "en": "NOTORIOUS",
+      "ru": "ПЕЧАЛЬНО ИЗВЕСТНЫЙ",
+      "es": "NOTORIO"
+    }
+  },
+  {
+    "id": "set-04-0634",
+    "setId": "set-04",
+    "translations": {
+      "en": "NOUGHT",
+      "ru": "НИЧЕГО",
+      "es": "NADA"
+    }
+  },
+  {
+    "id": "set-04-0635",
+    "setId": "set-04",
+    "translations": {
+      "en": "NURSERY",
+      "ru": "ДЕТСКИЙ САД",
+      "es": "VIVERO"
+    }
+  },
+  {
+    "id": "set-04-0636",
+    "setId": "set-04",
+    "translations": {
+      "en": "NUTRITION",
+      "ru": "ПИТАНИЕ",
+      "es": "NUTRICIÓN"
+    }
+  },
+  {
+    "id": "set-04-0637",
+    "setId": "set-04",
+    "translations": {
+      "en": "OBEY",
+      "ru": "ПОДЧИНЯТЬСЯ",
+      "es": "CUMPLIR"
+    }
+  },
+  {
+    "id": "set-04-0638",
+    "setId": "set-04",
+    "translations": {
+      "en": "OBSCURE",
+      "ru": "ЗАТЕМНЯТЬ",
+      "es": "OSCURO"
+    }
+  },
+  {
+    "id": "set-04-0639",
+    "setId": "set-04",
+    "translations": {
+      "en": "OBSESS",
+      "ru": "БЫТЬ ОДЕРЖИМЫМ",
+      "es": "OBSESIONAR"
+    }
+  },
+  {
+    "id": "set-04-0640",
+    "setId": "set-04",
+    "translations": {
+      "en": "OBSTACLE",
+      "ru": "ПРЕПЯТСТВИЕ",
+      "es": "OBSTÁCULO"
+    }
+  },
+  {
+    "id": "set-04-0641",
+    "setId": "set-04",
+    "translations": {
+      "en": "OBSTRUCT",
+      "ru": "ПРЕПЯТСТВОВАТЬ",
+      "es": "OBSTRUIR"
+    }
+  },
+  {
+    "id": "set-04-0642",
+    "setId": "set-04",
+    "translations": {
+      "en": "ODOUR",
+      "ru": "ЗАПАХ",
+      "es": "OLOR"
+    }
+  },
+  {
+    "id": "set-04-0643",
+    "setId": "set-04",
+    "translations": {
+      "en": "OFFSET",
+      "ru": "КОМПЕНСИРОВАТЬ",
+      "es": "COMPENSAR"
+    }
+  },
+  {
+    "id": "set-04-0644",
+    "setId": "set-04",
+    "translations": {
+      "en": "OLIVE",
+      "ru": "ОЛИВКА",
+      "es": "ACEITUNA"
+    }
+  },
+  {
+    "id": "set-04-0645",
+    "setId": "set-04",
+    "translations": {
+      "en": "OMIT",
+      "ru": "ПРОПУСКАТЬ",
+      "es": "OMITIR"
+    }
+  },
+  {
+    "id": "set-04-0646",
+    "setId": "set-04",
+    "translations": {
+      "en": "ONGOING",
+      "ru": "НЕПРЕРЫВНЫЙ",
+      "es": "EN CURSO"
+    }
+  },
+  {
+    "id": "set-04-0647",
+    "setId": "set-04",
+    "translations": {
+      "en": "OPPRESS",
+      "ru": "УГНЕТАТЬ",
+      "es": "OPRIMIR"
+    }
+  },
+  {
+    "id": "set-04-0648",
+    "setId": "set-04",
+    "translations": {
+      "en": "OPT",
+      "ru": "ОПТ",
+      "es": "OPTAR"
+    }
+  },
+  {
+    "id": "set-04-0649",
+    "setId": "set-04",
+    "translations": {
+      "en": "OPTIC",
+      "ru": "ОПТИЧЕСКИЙ",
+      "es": "ÓPTICO"
+    }
+  },
+  {
+    "id": "set-04-0650",
+    "setId": "set-04",
+    "translations": {
+      "en": "OPTIMIST",
+      "ru": "Оптимист",
+      "es": "OPTIMISTA"
+    }
+  },
+  {
+    "id": "set-04-0651",
+    "setId": "set-04",
+    "translations": {
+      "en": "ORBIT",
+      "ru": "ОРБИТА",
+      "es": "ÓRBITA"
+    }
+  },
+  {
+    "id": "set-04-0652",
+    "setId": "set-04",
+    "translations": {
+      "en": "ORCHESTRA",
+      "ru": "ОРКЕСТР",
+      "es": "ORQUESTA"
+    }
+  },
+  {
+    "id": "set-04-0653",
+    "setId": "set-04",
+    "translations": {
+      "en": "ORGANISM",
+      "ru": "ОРГАНИЗМ",
+      "es": "ORGANISMO"
+    }
+  },
+  {
+    "id": "set-04-0654",
+    "setId": "set-04",
+    "translations": {
+      "en": "ORIGINATE",
+      "ru": "ПРОИСХОЖДЕНИЕ",
+      "es": "ORIGINAR"
+    }
+  },
+  {
+    "id": "set-04-0655",
+    "setId": "set-04",
+    "translations": {
+      "en": "ORTHODOX",
+      "ru": "ПРАВОСЛАВНЫЙ",
+      "es": "ORTODOXO"
+    }
+  },
+  {
+    "id": "set-04-0656",
+    "setId": "set-04",
+    "translations": {
+      "en": "OUNCE",
+      "ru": "УНЦИЯ",
+      "es": "ONZA"
+    }
+  },
+  {
+    "id": "set-04-0657",
+    "setId": "set-04",
+    "translations": {
+      "en": "OUTFIT",
+      "ru": "ОДЕЖДА",
+      "es": "ATUENDO"
+    }
+  },
+  {
+    "id": "set-04-0658",
+    "setId": "set-04",
+    "translations": {
+      "en": "OUTLET",
+      "ru": "ВЫХОД",
+      "es": "SALIDA"
+    }
+  },
+  {
+    "id": "set-04-0659",
+    "setId": "set-04",
+    "translations": {
+      "en": "OUTLOOK",
+      "ru": "ПЕРСПЕКТИВЫ",
+      "es": "PERSPECTIVA"
+    }
+  },
+  {
+    "id": "set-04-0660",
+    "setId": "set-04",
+    "translations": {
+      "en": "OVERHEAD",
+      "ru": "НАДЗЕМНАЯ ЧАСТЬ",
+      "es": "ARRIBA"
+    }
+  },
+  {
+    "id": "set-04-0661",
+    "setId": "set-04",
+    "translations": {
+      "en": "OVERLAP",
+      "ru": "ПЕРЕКРЫВАТЬ",
+      "es": "SUPERPOSICIÓN"
+    }
+  },
+  {
+    "id": "set-04-0662",
+    "setId": "set-04",
+    "translations": {
+      "en": "OVERNIGHT",
+      "ru": "НОЧЬЮ",
+      "es": "DURANTE LA NOCHE"
+    }
+  },
+  {
+    "id": "set-04-0663",
+    "setId": "set-04",
+    "translations": {
+      "en": "OVERSEE",
+      "ru": "КОНТРОЛЬ",
+      "es": "SUPERENTENDER"
+    }
+  },
+  {
+    "id": "set-04-0664",
+    "setId": "set-04",
+    "translations": {
+      "en": "OWL",
+      "ru": "СОВА",
+      "es": "BÚHO"
+    }
+  },
+  {
+    "id": "set-04-0665",
+    "setId": "set-04",
+    "translations": {
+      "en": "OXYGEN",
+      "ru": "КИСЛОРОД",
+      "es": "OXÍGENO"
+    }
+  },
+  {
+    "id": "set-04-0666",
+    "setId": "set-04",
+    "translations": {
+      "en": "OZONE",
+      "ru": "ОЗОНА",
+      "es": "OZONO"
+    }
+  },
+  {
+    "id": "set-04-0667",
+    "setId": "set-04",
+    "translations": {
+      "en": "PACKET",
+      "ru": "ПАКЕТ",
+      "es": "PAQUETE"
+    }
+  },
+  {
+    "id": "set-04-0668",
+    "setId": "set-04",
+    "translations": {
+      "en": "PARADE",
+      "ru": "ПАРАД",
+      "es": "DESFILE"
+    }
+  },
+  {
+    "id": "set-04-0669",
+    "setId": "set-04",
+    "translations": {
+      "en": "PARADOX",
+      "ru": "ПАРАДОКС",
+      "es": "PARADOJA"
+    }
+  },
+  {
+    "id": "set-04-0670",
+    "setId": "set-04",
+    "translations": {
+      "en": "PARAMETER",
+      "ru": "ПАРАМЕТР",
+      "es": "PARÁMETRO"
+    }
+  },
+  {
+    "id": "set-04-0671",
+    "setId": "set-04",
+    "translations": {
+      "en": "PARTICLE",
+      "ru": "ЧАСТИЦА",
+      "es": "PARTÍCULA"
+    }
+  },
+  {
+    "id": "set-04-0672",
+    "setId": "set-04",
+    "translations": {
+      "en": "PASSIVE",
+      "ru": "ПАССИВНЫЙ",
+      "es": "PASIVO"
+    }
+  },
+  {
+    "id": "set-04-0673",
+    "setId": "set-04",
+    "translations": {
+      "en": "PATENT",
+      "ru": "ПАТЕНТ",
+      "es": "PATENTAR"
+    }
+  },
+  {
+    "id": "set-04-0674",
+    "setId": "set-04",
+    "translations": {
+      "en": "PATIENCE",
+      "ru": "ТЕРПЕНИЕ",
+      "es": "PACIENCIA"
+    }
+  },
+  {
+    "id": "set-04-0675",
+    "setId": "set-04",
+    "translations": {
+      "en": "PATRIOT",
+      "ru": "ПАТРИОТ",
+      "es": "PATRIOTA"
+    }
+  },
+  {
+    "id": "set-04-0676",
+    "setId": "set-04",
+    "translations": {
+      "en": "PATROL",
+      "ru": "ПАТРУЛЬ",
+      "es": "PATRULLA"
+    }
+  },
+  {
+    "id": "set-04-0677",
+    "setId": "set-04",
+    "translations": {
+      "en": "PATRON",
+      "ru": "МЕЦЕНА",
+      "es": "PATRÓN"
+    }
+  },
+  {
+    "id": "set-04-0678",
+    "setId": "set-04",
+    "translations": {
+      "en": "PEARL",
+      "ru": "ЖЕМЧУЖИНА",
+      "es": "PERLA"
+    }
+  },
+  {
+    "id": "set-04-0679",
+    "setId": "set-04",
+    "translations": {
+      "en": "PECULIAR",
+      "ru": "СВОЕОБРАЗНЫЙ",
+      "es": "PECULIAR"
+    }
+  },
+  {
+    "id": "set-04-0680",
+    "setId": "set-04",
+    "translations": {
+      "en": "PEEL",
+      "ru": "ЧИСТИТЬ",
+      "es": "CÁSCARA"
+    }
+  },
+  {
+    "id": "set-04-0681",
+    "setId": "set-04",
+    "translations": {
+      "en": "PEERED",
+      "ru": "ВЗГЛЯНУТЫЙ",
+      "es": "A LA ALTURA"
+    }
+  },
+  {
+    "id": "set-04-0682",
+    "setId": "set-04",
+    "translations": {
+      "en": "PENCIL",
+      "ru": "КАРАНДАШ",
+      "es": "LÁPIZ"
+    }
+  },
+  {
+    "id": "set-04-0683",
+    "setId": "set-04",
+    "translations": {
+      "en": "PENETRATE",
+      "ru": "ПРОНИКАТЬ",
+      "es": "PENETRAR"
+    }
+  },
+  {
+    "id": "set-04-0684",
+    "setId": "set-04",
+    "translations": {
+      "en": "PERIPHERY",
+      "ru": "ПЕРИФЕРИЯ",
+      "es": "PERIFERIA"
+    }
+  },
+  {
+    "id": "set-04-0685",
+    "setId": "set-04",
+    "translations": {
+      "en": "PETITION",
+      "ru": "ПЕТИЦИЯ",
+      "es": "PETICIÓN"
+    }
+  },
+  {
+    "id": "set-04-0686",
+    "setId": "set-04",
+    "translations": {
+      "en": "PHYSICIAN",
+      "ru": "ВРАЧ",
+      "es": "MÉDICO"
+    }
+  },
+  {
+    "id": "set-04-0687",
+    "setId": "set-04",
+    "translations": {
+      "en": "PHYSICS",
+      "ru": "ФИЗИКА",
+      "es": "FÍSICA"
+    }
+  },
+  {
+    "id": "set-04-0688",
+    "setId": "set-04",
+    "translations": {
+      "en": "PILGRIM",
+      "ru": "ПИЛИГРИМ",
+      "es": "PEREGRINO"
+    }
+  },
+  {
+    "id": "set-04-0689",
+    "setId": "set-04",
+    "translations": {
+      "en": "PILL",
+      "ru": "ТАБЛЕТКА",
+      "es": "PÍLDORA"
+    }
+  },
+  {
+    "id": "set-04-0690",
+    "setId": "set-04",
+    "translations": {
+      "en": "PILLOW",
+      "ru": "ПОДУШКА",
+      "es": "ALMOHADA"
+    }
+  },
+  {
+    "id": "set-04-0691",
+    "setId": "set-04",
+    "translations": {
+      "en": "PINCH",
+      "ru": "УЩИПНУТЬ",
+      "es": "PELLIZCO"
+    }
+  },
+  {
+    "id": "set-04-0692",
+    "setId": "set-04",
+    "translations": {
+      "en": "PIONEER",
+      "ru": "ПИОНЕР",
+      "es": "PIONERO"
+    }
+  },
+  {
+    "id": "set-04-0693",
+    "setId": "set-04",
+    "translations": {
+      "en": "PLAGUE",
+      "ru": "ЧУМА",
+      "es": "PLAGA"
+    }
+  },
+  {
+    "id": "set-04-0694",
+    "setId": "set-04",
+    "translations": {
+      "en": "PLAINTIFF",
+      "ru": "ИСТЦ",
+      "es": "DEMANDANTE"
+    }
+  },
+  {
+    "id": "set-04-0695",
+    "setId": "set-04",
+    "translations": {
+      "en": "PLEA",
+      "ru": "ПРИЗЫВ",
+      "es": "SÚPLICA"
+    }
+  },
+  {
+    "id": "set-04-0696",
+    "setId": "set-04",
+    "translations": {
+      "en": "PLEAD",
+      "ru": "ПРИЗЫВАТЬ",
+      "es": "ALEGAR"
+    }
+  },
+  {
+    "id": "set-04-0697",
+    "setId": "set-04",
+    "translations": {
+      "en": "PLEDGE",
+      "ru": "ПРИНОСИТЬ ПРИСЯГУ",
+      "es": "PROMESA"
+    }
+  },
+  {
+    "id": "set-04-0698",
+    "setId": "set-04",
+    "translations": {
+      "en": "PLUNGE",
+      "ru": "ПОГРУЖЕНИЕ",
+      "es": "INMERSIÓN"
+    }
+  },
+  {
+    "id": "set-04-0699",
+    "setId": "set-04",
+    "translations": {
+      "en": "PLURAL",
+      "ru": "МНОЖЕСТВЕННОЕ ЧИСЛО",
+      "es": "PLURAL"
+    }
+  },
+  {
+    "id": "set-04-0700",
+    "setId": "set-04",
+    "translations": {
+      "en": "POKE",
+      "ru": "ТЫКНУТЬ",
+      "es": "METER"
+    }
+  },
+  {
+    "id": "set-04-0701",
+    "setId": "set-04",
+    "translations": {
+      "en": "POLAR",
+      "ru": "ПОЛЯРНЫЙ",
+      "es": "POLAR"
+    }
+  },
+  {
+    "id": "set-04-0702",
+    "setId": "set-04",
+    "translations": {
+      "en": "POND",
+      "ru": "ПРУД",
+      "es": "ESTANQUE"
+    }
+  },
+  {
+    "id": "set-04-0703",
+    "setId": "set-04",
+    "translations": {
+      "en": "POPE",
+      "ru": "ПАПА",
+      "es": "PAPA"
+    }
+  },
+  {
+    "id": "set-04-0704",
+    "setId": "set-04",
+    "translations": {
+      "en": "PORTFOLIO",
+      "ru": "ПОРТФЕЛЬ",
+      "es": "CARTERA"
+    }
+  },
+  {
+    "id": "set-04-0705",
+    "setId": "set-04",
+    "translations": {
+      "en": "PORTRAY",
+      "ru": "ПОРТРЕТ",
+      "es": "RETRATAR"
+    }
+  },
+  {
+    "id": "set-04-0706",
+    "setId": "set-04",
+    "translations": {
+      "en": "POSTER",
+      "ru": "ПЛАКАТ",
+      "es": "PÓSTER"
+    }
+  },
+  {
+    "id": "set-04-0707",
+    "setId": "set-04",
+    "translations": {
+      "en": "POSTPONE",
+      "ru": "ОТКЛАДЫВАТЬ",
+      "es": "POSPONER"
+    }
+  },
+  {
+    "id": "set-04-0708",
+    "setId": "set-04",
+    "translations": {
+      "en": "PREACH",
+      "ru": "ПРОПОВЕДОВАТЬ",
+      "es": "PREDICAR"
+    }
+  },
+  {
+    "id": "set-04-0709",
+    "setId": "set-04",
+    "translations": {
+      "en": "PRECIOUS",
+      "ru": "ДРАГОЦЕННЫЙ",
+      "es": "PRECIOSO"
+    }
+  },
+  {
+    "id": "set-04-0710",
+    "setId": "set-04",
+    "translations": {
+      "en": "PREDATOR",
+      "ru": "ХИЩНИК",
+      "es": "DEPREDADOR"
+    }
+  },
+  {
+    "id": "set-04-0711",
+    "setId": "set-04",
+    "translations": {
+      "en": "PREDECESSOR",
+      "ru": "ПРЕДОК",
+      "es": "PREDECESOR"
+    }
+  },
+  {
+    "id": "set-04-0712",
+    "setId": "set-04",
+    "translations": {
+      "en": "PREDOMINANT",
+      "ru": "ПРЕДВЕСТНИК",
+      "es": "PREDOMINANTE"
+    }
+  },
+  {
+    "id": "set-04-0713",
+    "setId": "set-04",
+    "translations": {
+      "en": "PREJUDICE",
+      "ru": "ПРЕДРАССУДКИ",
+      "es": "PREJUICIO"
+    }
+  },
+  {
+    "id": "set-04-0714",
+    "setId": "set-04",
+    "translations": {
+      "en": "PRELIMINARY",
+      "ru": "ПРЕДВАРИТЕЛЬНЫЙ",
+      "es": "PRELIMINAR"
+    }
+  },
+  {
+    "id": "set-04-0715",
+    "setId": "set-04",
+    "translations": {
+      "en": "PREMIER",
+      "ru": "ПРЕМЬЕР",
+      "es": "PRIMER MINISTRO"
+    }
+  },
+  {
+    "id": "set-04-0716",
+    "setId": "set-04",
+    "translations": {
+      "en": "PREMIUM",
+      "ru": "ПРЕМИУМ",
+      "es": "DE PRIMERA CALIDAD"
+    }
+  },
+  {
+    "id": "set-04-0717",
+    "setId": "set-04",
+    "translations": {
+      "en": "PREOCCUPY",
+      "ru": "ДЕТОКСИЯ",
+      "es": "PREOCUPAR"
+    }
+  },
+  {
+    "id": "set-04-0718",
+    "setId": "set-04",
+    "translations": {
+      "en": "PRESCRIBE",
+      "ru": "НАЗНАЧИТЬ",
+      "es": "PRESCRIBIR"
+    }
+  },
+  {
+    "id": "set-04-0719",
+    "setId": "set-04",
+    "translations": {
+      "en": "PRESCRIPTION",
+      "ru": "РЕЦЕПТ",
+      "es": "PRESCRIPCIÓN"
+    }
+  },
+  {
+    "id": "set-04-0720",
+    "setId": "set-04",
+    "translations": {
+      "en": "PRESIDENCY",
+      "ru": "ПРЕЗИДЕНТСТВО",
+      "es": "PRESIDENCIA"
+    }
+  },
+  {
+    "id": "set-04-0721",
+    "setId": "set-04",
+    "translations": {
+      "en": "PRESTIGE",
+      "ru": "ПРЕСТИЖ",
+      "es": "PRESTIGIO"
+    }
+  },
+  {
+    "id": "set-04-0722",
+    "setId": "set-04",
+    "translations": {
+      "en": "PREVAIL",
+      "ru": "ПРЕВОСХОДСТВО",
+      "es": "PREVALECER"
+    }
+  },
+  {
+    "id": "set-04-0723",
+    "setId": "set-04",
+    "translations": {
+      "en": "PREVALENT",
+      "ru": "РАСПРОСТРАНЕННЫЙ",
+      "es": "FRECUENTE"
+    }
+  },
+  {
+    "id": "set-04-0724",
+    "setId": "set-04",
+    "translations": {
+      "en": "PREY",
+      "ru": "ДОБЫЧА",
+      "es": "PRESA"
+    }
+  },
+  {
+    "id": "set-04-0725",
+    "setId": "set-04",
+    "translations": {
+      "en": "PRIMITIVE",
+      "ru": "ПРИМИТИВНЫЙ",
+      "es": "PRIMITIVO"
+    }
+  },
+  {
+    "id": "set-04-0726",
+    "setId": "set-04",
+    "translations": {
+      "en": "PRIVATISE",
+      "ru": "ЧАСТНАЯ ЛИЧНОСТЬ",
+      "es": "PRIVATIZAR"
+    }
+  },
+  {
+    "id": "set-04-0727",
+    "setId": "set-04",
+    "translations": {
+      "en": "PROCLAIM",
+      "ru": "ПРОКЛАМНОЕ ЗАЯВЛЕНИЕ",
+      "es": "PROCLAMAR"
+    }
+  },
+  {
+    "id": "set-04-0728",
+    "setId": "set-04",
+    "translations": {
+      "en": "PROLONG",
+      "ru": "ПРОДЛИТЬ",
+      "es": "PROLONGAR"
+    }
+  },
+  {
+    "id": "set-04-0729",
+    "setId": "set-04",
+    "translations": {
+      "en": "PROP",
+      "ru": "РЕКВИЗИТ",
+      "es": "APUNTALAR"
+    }
+  },
+  {
+    "id": "set-04-0730",
+    "setId": "set-04",
+    "translations": {
+      "en": "PROPOSITION",
+      "ru": "ПРЕДЛОЖЕНИЕ",
+      "es": "PROPOSICIÓN"
+    }
+  },
+  {
+    "id": "set-04-0731",
+    "setId": "set-04",
+    "translations": {
+      "en": "PROSTITUTE",
+      "ru": "ПРОСТИТУТКА",
+      "es": "PROSTITUTA"
+    }
+  },
+  {
+    "id": "set-04-0732",
+    "setId": "set-04",
+    "translations": {
+      "en": "PROTOCOL",
+      "ru": "ПРОТОКОЛ",
+      "es": "PROTOCOLO"
+    }
+  },
+  {
+    "id": "set-04-0733",
+    "setId": "set-04",
+    "translations": {
+      "en": "PUBLICITY",
+      "ru": "РЕКЛАМА",
+      "es": "PUBLICIDAD"
+    }
+  },
+  {
+    "id": "set-04-0734",
+    "setId": "set-04",
+    "translations": {
+      "en": "PULSE",
+      "ru": "ПУЛЬС",
+      "es": "LEGUMBRES"
+    }
+  },
+  {
+    "id": "set-04-0735",
+    "setId": "set-04",
+    "translations": {
+      "en": "PURSUIT",
+      "ru": "ПРЕСЛЕДОВАНИЕ",
+      "es": "BUSCAR"
+    }
+  },
+  {
+    "id": "set-04-0736",
+    "setId": "set-04",
+    "translations": {
+      "en": "QUESTIONNAIRE",
+      "ru": "ВОПРОСНИК",
+      "es": "CUESTIONARIO"
+    }
+  },
+  {
+    "id": "set-04-0737",
+    "setId": "set-04",
+    "translations": {
+      "en": "QUOTA",
+      "ru": "КВОТА",
+      "es": "CUOTA"
+    }
+  },
+  {
+    "id": "set-04-0738",
+    "setId": "set-04",
+    "translations": {
+      "en": "RACK",
+      "ru": "СТОЙКА",
+      "es": "ESTANTE"
+    }
+  },
+  {
+    "id": "set-04-0739",
+    "setId": "set-04",
+    "translations": {
+      "en": "RAM",
+      "ru": "БАРАН",
+      "es": "RAM"
+    }
+  },
+  {
+    "id": "set-04-0740",
+    "setId": "set-04",
+    "translations": {
+      "en": "RANGER",
+      "ru": "РЕЙНДЖЕР",
+      "es": "GUARDABOSQUE"
+    }
+  },
+  {
+    "id": "set-04-0741",
+    "setId": "set-04",
+    "translations": {
+      "en": "RAP",
+      "ru": "РЭП",
+      "es": "RAP"
+    }
+  },
+  {
+    "id": "set-04-0742",
+    "setId": "set-04",
+    "translations": {
+      "en": "RATTLE",
+      "ru": "Погремушка",
+      "es": "TRAQUETEO"
+    }
+  },
+  {
+    "id": "set-04-0743",
+    "setId": "set-04",
+    "translations": {
+      "en": "REALM",
+      "ru": "ОБЛАСТЬ",
+      "es": "REINO"
+    }
+  },
+  {
+    "id": "set-04-0744",
+    "setId": "set-04",
+    "translations": {
+      "en": "RECEIPT",
+      "ru": "КВИТАНЦИЯ",
+      "es": "RECIBO"
+    }
+  },
+  {
+    "id": "set-04-0745",
+    "setId": "set-04",
+    "translations": {
+      "en": "RECIPIENT",
+      "ru": "ПОЛУЧАТЕЛЬ",
+      "es": "BENEFICIARIO"
+    }
+  },
+  {
+    "id": "set-04-0746",
+    "setId": "set-04",
+    "translations": {
+      "en": "RECONCILE",
+      "ru": "ПРИМИРЕНИЕ",
+      "es": "CONCILIAR"
+    }
+  },
+  {
+    "id": "set-04-0747",
+    "setId": "set-04",
+    "translations": {
+      "en": "RECREATION",
+      "ru": "ОТДЫХ",
+      "es": "RECREACIÓN"
+    }
+  },
+  {
+    "id": "set-04-0748",
+    "setId": "set-04",
+    "translations": {
+      "en": "RECUR",
+      "ru": "РЕКУРС",
+      "es": "REPETIRSE"
+    }
+  },
+  {
+    "id": "set-04-0749",
+    "setId": "set-04",
+    "translations": {
+      "en": "RECYCLE",
+      "ru": "ПЕРЕРАБОТКА",
+      "es": "RECICLAR"
+    }
+  },
+  {
+    "id": "set-04-0750",
+    "setId": "set-04",
+    "translations": {
+      "en": "REFINE",
+      "ru": "УТОЧНИТЬ",
+      "es": "REFINAR"
+    }
+  },
+  {
+    "id": "set-04-0751",
+    "setId": "set-04",
+    "translations": {
+      "en": "REFRESH",
+      "ru": "ОСВЕЖЕНИЕ",
+      "es": "REFRESCAR"
+    }
+  },
+  {
+    "id": "set-04-0752",
+    "setId": "set-04",
+    "translations": {
+      "en": "REGAIN",
+      "ru": "РЕГАЙН",
+      "es": "RECUPERAR"
+    }
+  },
+  {
+    "id": "set-04-0753",
+    "setId": "set-04",
+    "translations": {
+      "en": "REGRESS",
+      "ru": "РЕГРЕСС",
+      "es": "REGRESO"
+    }
+  },
+  {
+    "id": "set-04-0754",
+    "setId": "set-04",
+    "translations": {
+      "en": "REHABILITATE",
+      "ru": "РЕАБИЛИТАЦИЯ",
+      "es": "REHABILITAR"
+    }
+  },
+  {
+    "id": "set-04-0755",
+    "setId": "set-04",
+    "translations": {
+      "en": "REHEARSE",
+      "ru": "РЕПЕТИРОВКА",
+      "es": "ENSAYAR"
+    }
+  },
+  {
+    "id": "set-04-0756",
+    "setId": "set-04",
+    "translations": {
+      "en": "REIGN",
+      "ru": "ЦАРСТВО",
+      "es": "REINADO"
+    }
+  },
+  {
+    "id": "set-04-0757",
+    "setId": "set-04",
+    "translations": {
+      "en": "RELEVANCE",
+      "ru": "АКТУАЛЬНОСТЬ",
+      "es": "PERTINENCIA"
+    }
+  },
+  {
+    "id": "set-04-0758",
+    "setId": "set-04",
+    "translations": {
+      "en": "REPAY",
+      "ru": "ВОЗВРАТ",
+      "es": "PAGAR"
+    }
+  },
+  {
+    "id": "set-04-0759",
+    "setId": "set-04",
+    "translations": {
+      "en": "REPRESS",
+      "ru": "РЕПРЕСС",
+      "es": "REPRIMIR"
+    }
+  },
+  {
+    "id": "set-04-0760",
+    "setId": "set-04",
+    "translations": {
+      "en": "RESENT",
+      "ru": "ВОЗМУЩАТЬСЯ",
+      "es": "RESENTIRSE DE"
+    }
+  },
+  {
+    "id": "set-04-0761",
+    "setId": "set-04",
+    "translations": {
+      "en": "RESIDUE",
+      "ru": "ОСТАТОК",
+      "es": "RESIDUO"
+    }
+  },
+  {
+    "id": "set-04-0762",
+    "setId": "set-04",
+    "translations": {
+      "en": "RETRIEVE",
+      "ru": "ЗАБРАТЬ",
+      "es": "RECUPERAR"
+    }
+  },
+  {
+    "id": "set-04-0763",
+    "setId": "set-04",
+    "translations": {
+      "en": "RHETORIC",
+      "ru": "РИТОРИКА",
+      "es": "RETÓRICA"
+    }
+  },
+  {
+    "id": "set-04-0764",
+    "setId": "set-04",
+    "translations": {
+      "en": "RIB",
+      "ru": "РИБ",
+      "es": "COSTILLA"
+    }
+  },
+  {
+    "id": "set-04-0765",
+    "setId": "set-04",
+    "translations": {
+      "en": "RIDGE",
+      "ru": "РИДЖ",
+      "es": "CRESTA"
+    }
+  },
+  {
+    "id": "set-04-0766",
+    "setId": "set-04",
+    "translations": {
+      "en": "RIFLE",
+      "ru": "ВИНТОВКА",
+      "es": "RIFLE"
+    }
+  },
+  {
+    "id": "set-04-0767",
+    "setId": "set-04",
+    "translations": {
+      "en": "RIGID",
+      "ru": "ЖЕСТКИЙ",
+      "es": "RÍGIDO"
+    }
+  },
+  {
+    "id": "set-04-0768",
+    "setId": "set-04",
+    "translations": {
+      "en": "RIGOUR",
+      "ru": "СТРОГОСТЬ",
+      "es": "RIGOR"
+    }
+  },
+  {
+    "id": "set-04-0769",
+    "setId": "set-04",
+    "translations": {
+      "en": "RIOT",
+      "ru": "БУНТ",
+      "es": "DISTURBIO"
+    }
+  },
+  {
+    "id": "set-04-0770",
+    "setId": "set-04",
+    "translations": {
+      "en": "ROAST",
+      "ru": "ЖАРИТЬ",
+      "es": "ASAR"
+    }
+  },
+  {
+    "id": "set-04-0771",
+    "setId": "set-04",
+    "translations": {
+      "en": "ROBOT",
+      "ru": "РОБОТ",
+      "es": "ROBOT"
+    }
+  },
+  {
+    "id": "set-04-0772",
+    "setId": "set-04",
+    "translations": {
+      "en": "ROCKED",
+      "ru": "РОКЕТ",
+      "es": "SACUDÍ"
+    }
+  },
+  {
+    "id": "set-04-0773",
+    "setId": "set-04",
+    "translations": {
+      "en": "ROCKET",
+      "ru": "РАКЕТА",
+      "es": "COHETE"
+    }
+  },
+  {
+    "id": "set-04-0774",
+    "setId": "set-04",
+    "translations": {
+      "en": "ROD",
+      "ru": "СТЕРЖЕНЬ",
+      "es": "VARA"
+    }
+  },
+  {
+    "id": "set-04-0775",
+    "setId": "set-04",
+    "translations": {
+      "en": "ROMANCE",
+      "ru": "РОМАНТИКА",
+      "es": "ROMANCE"
+    }
+  },
+  {
+    "id": "set-04-0776",
+    "setId": "set-04",
+    "translations": {
+      "en": "ROSES",
+      "ru": "РОЗЫ",
+      "es": "ROSAS"
+    }
+  },
+  {
+    "id": "set-04-0777",
+    "setId": "set-04",
+    "translations": {
+      "en": "ROTATE",
+      "ru": "ПОВОРОТ",
+      "es": "GIRAR"
+    }
+  },
+  {
+    "id": "set-04-0778",
+    "setId": "set-04",
+    "translations": {
+      "en": "RUBBER",
+      "ru": "РЕЗИНА",
+      "es": "GOMA"
+    }
+  },
+  {
+    "id": "set-04-0779",
+    "setId": "set-04",
+    "translations": {
+      "en": "RUG",
+      "ru": "КОВРИК",
+      "es": "ALFOMBRA"
+    }
+  },
+  {
+    "id": "set-04-0780",
+    "setId": "set-04",
+    "translations": {
+      "en": "SACK",
+      "ru": "МЕШОК",
+      "es": "BOLSA"
+    }
+  },
+  {
+    "id": "set-04-0781",
+    "setId": "set-04",
+    "translations": {
+      "en": "SACRED",
+      "ru": "СВЯЩЕННЫЙ",
+      "es": "SAGRADO"
+    }
+  },
+  {
+    "id": "set-04-0782",
+    "setId": "set-04",
+    "translations": {
+      "en": "SALMON",
+      "ru": "ЛОСОСЬ",
+      "es": "SALMÓN"
+    }
+  },
+  {
+    "id": "set-04-0783",
+    "setId": "set-04",
+    "translations": {
+      "en": "SANE",
+      "ru": "ЗДРАВЫЙ",
+      "es": "CUERDO"
+    }
+  },
+  {
+    "id": "set-04-0784",
+    "setId": "set-04",
+    "translations": {
+      "en": "SATISFACTORY",
+      "ru": "УДОВЛЕТВОРИТЕЛЬНЫЙ",
+      "es": "SATISFACTORIO"
+    }
+  },
+  {
+    "id": "set-04-0785",
+    "setId": "set-04",
+    "translations": {
+      "en": "SAVAGE",
+      "ru": "ДИКИЙ",
+      "es": "SALVAJE"
+    }
+  },
+  {
+    "id": "set-04-0786",
+    "setId": "set-04",
+    "translations": {
+      "en": "SCAR",
+      "ru": "ШРАМ",
+      "es": "CICATRIZ"
+    }
+  },
+  {
+    "id": "set-04-0787",
+    "setId": "set-04",
+    "translations": {
+      "en": "SCARCE",
+      "ru": "ДЕФИЦИТНЫЙ",
+      "es": "ESCASO"
+    }
+  },
+  {
+    "id": "set-04-0788",
+    "setId": "set-04",
+    "translations": {
+      "en": "SCENARIO",
+      "ru": "СЦЕНАРИЙ",
+      "es": "GUIÓN"
+    }
+  },
+  {
+    "id": "set-04-0789",
+    "setId": "set-04",
+    "translations": {
+      "en": "SCENT",
+      "ru": "ЗАПАХ",
+      "es": "AROMA"
+    }
+  },
+  {
+    "id": "set-04-0790",
+    "setId": "set-04",
+    "translations": {
+      "en": "SCEPTIC",
+      "ru": "СКЕПТИК",
+      "es": "ESCÉPTICO"
+    }
+  },
+  {
+    "id": "set-04-0791",
+    "setId": "set-04",
+    "translations": {
+      "en": "SCHOLARSHIP",
+      "ru": "СТИПЕНДИЯ",
+      "es": "BECA"
+    }
+  },
+  {
+    "id": "set-04-0792",
+    "setId": "set-04",
+    "translations": {
+      "en": "SCOUT",
+      "ru": "РАЗВЕДЧИК",
+      "es": "EXPLORAR"
+    }
+  },
+  {
+    "id": "set-04-0793",
+    "setId": "set-04",
+    "translations": {
+      "en": "SCRAMBLE",
+      "ru": "СКРАМБЛ",
+      "es": "LUCHA"
+    }
+  },
+  {
+    "id": "set-04-0794",
+    "setId": "set-04",
+    "translations": {
+      "en": "SCRAP",
+      "ru": "МУСОРА",
+      "es": "CHATARRA"
+    }
+  },
+  {
+    "id": "set-04-0795",
+    "setId": "set-04",
+    "translations": {
+      "en": "SCRAPE",
+      "ru": "СКРЕБОК",
+      "es": "RASPAR"
+    }
+  },
+  {
+    "id": "set-04-0796",
+    "setId": "set-04",
+    "translations": {
+      "en": "SCRIPT",
+      "ru": "СЦЕНАРИЙ",
+      "es": "GUION"
+    }
+  },
+  {
+    "id": "set-04-0797",
+    "setId": "set-04",
+    "translations": {
+      "en": "SCRUTINY",
+      "ru": "ВНИМАНИЕ",
+      "es": "ESCRUTINIO"
+    }
+  },
+  {
+    "id": "set-04-0798",
+    "setId": "set-04",
+    "translations": {
+      "en": "SECULAR",
+      "ru": "СВЕТСКИЙ",
+      "es": "SECULAR"
+    }
+  },
+  {
+    "id": "set-04-0799",
+    "setId": "set-04",
+    "translations": {
+      "en": "SELDOM",
+      "ru": "РЕДКО",
+      "es": "RARA VEZ"
+    }
+  },
+  {
+    "id": "set-04-0800",
+    "setId": "set-04",
+    "translations": {
+      "en": "SEMINAR",
+      "ru": "СЕМИНАР",
+      "es": "SEMINARIO"
+    }
+  },
+  {
+    "id": "set-04-0801",
+    "setId": "set-04",
+    "translations": {
+      "en": "SENATOR",
+      "ru": "СЕНАТОР",
+      "es": "SENADOR"
+    }
+  },
+  {
+    "id": "set-04-0802",
+    "setId": "set-04",
+    "translations": {
+      "en": "SENSATION",
+      "ru": "СЕНСАЦИЯ",
+      "es": "SENSACIÓN"
+    }
+  },
+  {
+    "id": "set-04-0803",
+    "setId": "set-04",
+    "translations": {
+      "en": "SENTENCING",
+      "ru": "ВЫНЕСЕНИЕ ПРИГОВОРА",
+      "es": "SENTENCIA"
+    }
+  },
+  {
+    "id": "set-04-0804",
+    "setId": "set-04",
+    "translations": {
+      "en": "SENTIMENT",
+      "ru": "ЧУВСТВО",
+      "es": "SENTIMIENTO"
+    }
+  },
+  {
+    "id": "set-04-0805",
+    "setId": "set-04",
+    "translations": {
+      "en": "SERGEANT",
+      "ru": "СЕРЖАНТ",
+      "es": "SARGENTO"
+    }
+  },
+  {
+    "id": "set-04-0806",
+    "setId": "set-04",
+    "translations": {
+      "en": "SHAFT",
+      "ru": "ВАЛ",
+      "es": "EJE"
+    }
+  },
+  {
+    "id": "set-04-0807",
+    "setId": "set-04",
+    "translations": {
+      "en": "SHALLOW",
+      "ru": "МЕЛКИЙ",
+      "es": "POCO PROFUNDO"
+    }
+  },
+  {
+    "id": "set-04-0808",
+    "setId": "set-04",
+    "translations": {
+      "en": "SHATTER",
+      "ru": "РАЗРУШЕНИЕ",
+      "es": "ROMPER"
+    }
+  },
+  {
+    "id": "set-04-0809",
+    "setId": "set-04",
+    "translations": {
+      "en": "SHEER",
+      "ru": "ЯВНЫЙ",
+      "es": "ESCARPADO"
+    }
+  },
+  {
+    "id": "set-04-0810",
+    "setId": "set-04",
+    "translations": {
+      "en": "SHERIFF",
+      "ru": "ШЕРИФ",
+      "es": "ALGUACIL"
+    }
+  },
+  {
+    "id": "set-04-0811",
+    "setId": "set-04",
+    "translations": {
+      "en": "SHRINK",
+      "ru": "СОКРАЩАТЬ",
+      "es": "ENCOGER"
+    }
+  },
+  {
+    "id": "set-04-0812",
+    "setId": "set-04",
+    "translations": {
+      "en": "SIGNATURE",
+      "ru": "ПОДПИСЬ",
+      "es": "FIRMA"
+    }
+  },
+  {
+    "id": "set-04-0813",
+    "setId": "set-04",
+    "translations": {
+      "en": "SIMULATE",
+      "ru": "СИМУЛЯТОР",
+      "es": "SIMULAR"
+    }
+  },
+  {
+    "id": "set-04-0814",
+    "setId": "set-04",
+    "translations": {
+      "en": "SINCERE",
+      "ru": "ИСКРЕННИЙ",
+      "es": "SINCERO"
+    }
+  },
+  {
+    "id": "set-04-0815",
+    "setId": "set-04",
+    "translations": {
+      "en": "SIP",
+      "ru": "ГЛОТОК",
+      "es": "SORBO"
+    }
+  },
+  {
+    "id": "set-04-0816",
+    "setId": "set-04",
+    "translations": {
+      "en": "SKETCH",
+      "ru": "ЭСКИЗ",
+      "es": "BOSQUEJO"
+    }
+  },
+  {
+    "id": "set-04-0817",
+    "setId": "set-04",
+    "translations": {
+      "en": "SKIP",
+      "ru": "ПРОПУСКАТЬ",
+      "es": "SALTAR"
+    }
+  },
+  {
+    "id": "set-04-0818",
+    "setId": "set-04",
+    "translations": {
+      "en": "SKULL",
+      "ru": "ЧЕРЕП",
+      "es": "CRÁNEO"
+    }
+  },
+  {
+    "id": "set-04-0819",
+    "setId": "set-04",
+    "translations": {
+      "en": "SLAM",
+      "ru": "СЛЭМ",
+      "es": "GOLPE"
+    }
+  },
+  {
+    "id": "set-04-0820",
+    "setId": "set-04",
+    "translations": {
+      "en": "SLAP",
+      "ru": "ШЛЕПОК",
+      "es": "BOFETADA"
+    }
+  },
+  {
+    "id": "set-04-0821",
+    "setId": "set-04",
+    "translations": {
+      "en": "SLEEVE",
+      "ru": "РУКАВ",
+      "es": "MANGA"
+    }
+  },
+  {
+    "id": "set-04-0822",
+    "setId": "set-04",
+    "translations": {
+      "en": "SLIM",
+      "ru": "СТРОЙНЫЙ",
+      "es": "DELGADO"
+    }
+  },
+  {
+    "id": "set-04-0823",
+    "setId": "set-04",
+    "translations": {
+      "en": "SLOT",
+      "ru": "СЛОТ",
+      "es": "RANURA"
+    }
+  },
+  {
+    "id": "set-04-0824",
+    "setId": "set-04",
+    "translations": {
+      "en": "SLUMP",
+      "ru": "Спад",
+      "es": "CAÍDA"
+    }
+  },
+  {
+    "id": "set-04-0825",
+    "setId": "set-04",
+    "translations": {
+      "en": "SNATCH",
+      "ru": "СНЭТЧ",
+      "es": "ARREBATAR"
+    }
+  },
+  {
+    "id": "set-04-0826",
+    "setId": "set-04",
+    "translations": {
+      "en": "SOAK",
+      "ru": "ЗАМАЧИВАНИЕ",
+      "es": "REMOJAR"
+    }
+  },
+  {
+    "id": "set-04-0827",
+    "setId": "set-04",
+    "translations": {
+      "en": "SOAP",
+      "ru": "МЫЛО",
+      "es": "JABÓN"
+    }
+  },
+  {
+    "id": "set-04-0828",
+    "setId": "set-04",
+    "translations": {
+      "en": "SOAR",
+      "ru": "ВЗЛЕТ",
+      "es": "REMONTARSE"
+    }
+  },
+  {
+    "id": "set-04-0829",
+    "setId": "set-04",
+    "translations": {
+      "en": "SOCCER",
+      "ru": "ФУТБОЛЬНЫЙ",
+      "es": "FÚTBOL"
+    }
+  },
+  {
+    "id": "set-04-0830",
+    "setId": "set-04",
+    "translations": {
+      "en": "SOCIALIST",
+      "ru": "СОЦИАЛИСТИЧЕСКИЙ",
+      "es": "SOCIALISTA"
+    }
+  },
+  {
+    "id": "set-04-0831",
+    "setId": "set-04",
+    "translations": {
+      "en": "SOCIOLOGY",
+      "ru": "СОЦИОЛОГИЯ",
+      "es": "SOCIOLOGÍA"
+    }
+  },
+  {
+    "id": "set-04-0832",
+    "setId": "set-04",
+    "translations": {
+      "en": "SODIUM",
+      "ru": "НАТРИЙ",
+      "es": "SODIO"
+    }
+  },
+  {
+    "id": "set-04-0833",
+    "setId": "set-04",
+    "translations": {
+      "en": "SOLAR",
+      "ru": "СОЛНЕЧНАЯ",
+      "es": "SOLAR"
+    }
+  },
+  {
+    "id": "set-04-0834",
+    "setId": "set-04",
+    "translations": {
+      "en": "SOLO",
+      "ru": "СОЛО",
+      "es": "SOLO"
+    }
+  },
+  {
+    "id": "set-04-0835",
+    "setId": "set-04",
+    "translations": {
+      "en": "SPAN",
+      "ru": "ОХВАТЫВАТЬ",
+      "es": "DURAR"
+    }
+  },
+  {
+    "id": "set-04-0836",
+    "setId": "set-04",
+    "translations": {
+      "en": "SPARK",
+      "ru": "ИСКРА",
+      "es": "CHISPA"
+    }
+  },
+  {
+    "id": "set-04-0837",
+    "setId": "set-04",
+    "translations": {
+      "en": "SPARKLE",
+      "ru": "СВЕРКАНИЕ",
+      "es": "BRILLAR"
+    }
+  },
+  {
+    "id": "set-04-0838",
+    "setId": "set-04",
+    "translations": {
+      "en": "SPATIAL",
+      "ru": "ПРОСТРАНСТВЕННЫЙ",
+      "es": "ESPACIAL"
+    }
+  },
+  {
+    "id": "set-04-0839",
+    "setId": "set-04",
+    "translations": {
+      "en": "SPECIMEN",
+      "ru": "ОБРАЗЕЦ",
+      "es": "MUESTRA"
+    }
+  },
+  {
+    "id": "set-04-0840",
+    "setId": "set-04",
+    "translations": {
+      "en": "SPECTACLE",
+      "ru": "ЗРЕЛИЩЕ",
+      "es": "ESPECTÁCULO"
+    }
+  },
+  {
+    "id": "set-04-0841",
+    "setId": "set-04",
+    "translations": {
+      "en": "SPECTACULAR",
+      "ru": "ЗРЕЛИЩНЫЙ",
+      "es": "ESPECTACULAR"
+    }
+  },
+  {
+    "id": "set-04-0842",
+    "setId": "set-04",
+    "translations": {
+      "en": "SPECTRUM",
+      "ru": "СПЕКТР",
+      "es": "ESPECTRO"
+    }
+  },
+  {
+    "id": "set-04-0843",
+    "setId": "set-04",
+    "translations": {
+      "en": "SPHERE",
+      "ru": "СФЕРА",
+      "es": "ESFERA"
+    }
+  },
+  {
+    "id": "set-04-0844",
+    "setId": "set-04",
+    "translations": {
+      "en": "SPICE",
+      "ru": "СПАЙС",
+      "es": "CONDIMENTAR"
+    }
+  },
+  {
+    "id": "set-04-0845",
+    "setId": "set-04",
+    "translations": {
+      "en": "SPIKE",
+      "ru": "ШИП",
+      "es": "ESPIGA"
+    }
+  },
+  {
+    "id": "set-04-0846",
+    "setId": "set-04",
+    "translations": {
+      "en": "SPINE",
+      "ru": "ПОЗВОНОЧНИК",
+      "es": "COLUMNA VERTEBRAL"
+    }
+  },
+  {
+    "id": "set-04-0847",
+    "setId": "set-04",
+    "translations": {
+      "en": "SPIT",
+      "ru": "ПЛЕВАТЬ",
+      "es": "ESCUPIR"
+    }
+  },
+  {
+    "id": "set-04-0848",
+    "setId": "set-04",
+    "translations": {
+      "en": "SPLASH",
+      "ru": "ВСПЛЕСК",
+      "es": "CHAPOTEO"
+    }
+  },
+  {
+    "id": "set-04-0849",
+    "setId": "set-04",
+    "translations": {
+      "en": "SPONTANEOUS",
+      "ru": "СПОНТАННЫЙ",
+      "es": "ESPONTÁNEO"
+    }
+  },
+  {
+    "id": "set-04-0850",
+    "setId": "set-04",
+    "translations": {
+      "en": "SPOON",
+      "ru": "ЛОЖКА",
+      "es": "CUCHARA"
+    }
+  },
+  {
+    "id": "set-04-0851",
+    "setId": "set-04",
+    "translations": {
+      "en": "SPOUSE",
+      "ru": "СУПРУГ",
+      "es": "CÓNYUGE"
+    }
+  },
+  {
+    "id": "set-04-0852",
+    "setId": "set-04",
+    "translations": {
+      "en": "SPUR",
+      "ru": "СПУР",
+      "es": "ESTIMULAR"
+    }
+  },
+  {
+    "id": "set-04-0853",
+    "setId": "set-04",
+    "translations": {
+      "en": "SPY",
+      "ru": "ШПИОН",
+      "es": "ESPIAR"
+    }
+  },
+  {
+    "id": "set-04-0854",
+    "setId": "set-04",
+    "translations": {
+      "en": "SQUAD",
+      "ru": "ОТРЯД",
+      "es": "EQUIPO"
+    }
+  },
+  {
+    "id": "set-04-0855",
+    "setId": "set-04",
+    "translations": {
+      "en": "STAB",
+      "ru": "СТАБ",
+      "es": "PUÑALADA"
+    }
+  },
+  {
+    "id": "set-04-0856",
+    "setId": "set-04",
+    "translations": {
+      "en": "STACK",
+      "ru": "КУЧА",
+      "es": "PILA"
+    }
+  },
+  {
+    "id": "set-04-0857",
+    "setId": "set-04",
+    "translations": {
+      "en": "STADIUM",
+      "ru": "СТАДИОН",
+      "es": "ESTADIO"
+    }
+  },
+  {
+    "id": "set-04-0858",
+    "setId": "set-04",
+    "translations": {
+      "en": "STAGGER",
+      "ru": "СТЭГГЕР",
+      "es": "ESCALONAR"
+    }
+  },
+  {
+    "id": "set-04-0859",
+    "setId": "set-04",
+    "translations": {
+      "en": "STALL",
+      "ru": "ЛАРЕК",
+      "es": "PARAR"
+    }
+  },
+  {
+    "id": "set-04-0860",
+    "setId": "set-04",
+    "translations": {
+      "en": "STANCE",
+      "ru": "ПОЗА",
+      "es": "POSTURA"
+    }
+  },
+  {
+    "id": "set-04-0861",
+    "setId": "set-04",
+    "translations": {
+      "en": "STARTLE",
+      "ru": "ИСПУГАТЬСЯ",
+      "es": "ASUSTAR"
+    }
+  },
+  {
+    "id": "set-04-0862",
+    "setId": "set-04",
+    "translations": {
+      "en": "STATUE",
+      "ru": "СТАТУЯ",
+      "es": "ESTATUA"
+    }
+  },
+  {
+    "id": "set-04-0863",
+    "setId": "set-04",
+    "translations": {
+      "en": "STEEP",
+      "ru": "ОТВЕСНЫЙ",
+      "es": "EMPINADO"
+    }
+  },
+  {
+    "id": "set-04-0864",
+    "setId": "set-04",
+    "translations": {
+      "en": "STEER",
+      "ru": "РУЛЕВОЕ УПРАВЛЕНИЕ",
+      "es": "BUEY"
+    }
+  },
+  {
+    "id": "set-04-0865",
+    "setId": "set-04",
+    "translations": {
+      "en": "STEREOTYPE",
+      "ru": "СТЕРЕОТИП",
+      "es": "ESTEREOTIPO"
+    }
+  },
+  {
+    "id": "set-04-0866",
+    "setId": "set-04",
+    "translations": {
+      "en": "STERN",
+      "ru": "КОРМОВЫЙ",
+      "es": "POPA"
+    }
+  },
+  {
+    "id": "set-04-0867",
+    "setId": "set-04",
+    "translations": {
+      "en": "STIMULUS",
+      "ru": "СТИМУЛ",
+      "es": "ESTÍMULO"
+    }
+  },
+  {
+    "id": "set-04-0868",
+    "setId": "set-04",
+    "translations": {
+      "en": "STING",
+      "ru": "СТИНГ",
+      "es": "PICADURA"
+    }
+  },
+  {
+    "id": "set-04-0869",
+    "setId": "set-04",
+    "translations": {
+      "en": "STITCH",
+      "ru": "ШОВ",
+      "es": "PUNTADA"
+    }
+  },
+  {
+    "id": "set-04-0870",
+    "setId": "set-04",
+    "translations": {
+      "en": "STRAIGHTFORWAR",
+      "ru": "ПРЯМОСТОРОННЕЕ",
+      "es": "DIRECTO"
+    }
+  },
+  {
+    "id": "set-04-0871",
+    "setId": "set-04",
+    "translations": {
+      "en": "D",
+      "ru": "Д",
+      "es": "D"
+    }
+  },
+  {
+    "id": "set-04-0872",
+    "setId": "set-04",
+    "translations": {
+      "en": "STRAND",
+      "ru": "СТРАНД",
+      "es": "HEBRA"
+    }
+  },
+  {
+    "id": "set-04-0873",
+    "setId": "set-04",
+    "translations": {
+      "en": "STRAP",
+      "ru": "РЕМЕНЬ",
+      "es": "CORREA"
+    }
+  },
+  {
+    "id": "set-04-0874",
+    "setId": "set-04",
+    "translations": {
+      "en": "STRAW",
+      "ru": "СОЛОМА",
+      "es": "PAJA"
+    }
+  },
+  {
+    "id": "set-04-0875",
+    "setId": "set-04",
+    "translations": {
+      "en": "STREAK",
+      "ru": "СЕРИЯ",
+      "es": "RACHA"
+    }
+  },
+  {
+    "id": "set-04-0876",
+    "setId": "set-04",
+    "translations": {
+      "en": "STRIDE",
+      "ru": "ШАГ",
+      "es": "PASO"
+    }
+  },
+  {
+    "id": "set-04-0877",
+    "setId": "set-04",
+    "translations": {
+      "en": "STRIPE",
+      "ru": "ПОЛОСА",
+      "es": "RAYA"
+    }
+  },
+  {
+    "id": "set-04-0878",
+    "setId": "set-04",
+    "translations": {
+      "en": "STROLL",
+      "ru": "ПРОГУЛКА",
+      "es": "PASEO"
+    }
+  },
+  {
+    "id": "set-04-0879",
+    "setId": "set-04",
+    "translations": {
+      "en": "STUFFED",
+      "ru": "НАЧИНЕННЫЙ",
+      "es": "RELLENO"
+    }
+  },
+  {
+    "id": "set-04-0880",
+    "setId": "set-04",
+    "translations": {
+      "en": "STUMBLE",
+      "ru": "СПОТЫКАТЬСЯ",
+      "es": "TROPEZÓN"
+    }
+  },
+  {
+    "id": "set-04-0881",
+    "setId": "set-04",
+    "translations": {
+      "en": "SUBJECTED",
+      "ru": "ПОДВЕРГНУТЫЙ",
+      "es": "SUJETO"
+    }
+  },
+  {
+    "id": "set-04-0882",
+    "setId": "set-04",
+    "translations": {
+      "en": "SUBJECTIVE",
+      "ru": "СУБЪЕКТИВНЫЙ",
+      "es": "SUBJETIVO"
+    }
+  },
+  {
+    "id": "set-04-0883",
+    "setId": "set-04",
+    "translations": {
+      "en": "SUBORDINATE",
+      "ru": "ПОДЧИНЕННЫЙ",
+      "es": "SUBORDINAR"
+    }
+  },
+  {
+    "id": "set-04-0884",
+    "setId": "set-04",
+    "translations": {
+      "en": "SUBSCRIBE",
+      "ru": "ПОДПИСАТЬСЯ",
+      "es": "SUSCRIBIR"
+    }
+  },
+  {
+    "id": "set-04-0885",
+    "setId": "set-04",
+    "translations": {
+      "en": "SUBSIDIARY",
+      "ru": "ДОЧЕРНЯЯ КОМПАНИЯ",
+      "es": "FILIAL"
+    }
+  },
+  {
+    "id": "set-04-0886",
+    "setId": "set-04",
+    "translations": {
+      "en": "SUED",
+      "ru": "ПОДАН В СУД",
+      "es": "DEMANDADO"
+    }
+  },
+  {
+    "id": "set-04-0887",
+    "setId": "set-04",
+    "translations": {
+      "en": "SUITE",
+      "ru": "ЛЮКС",
+      "es": "SUITE"
+    }
+  },
+  {
+    "id": "set-04-0888",
+    "setId": "set-04",
+    "translations": {
+      "en": "SUMMON",
+      "ru": "ПРИЗВАТЬ",
+      "es": "CONVOCAR"
+    }
+  },
+  {
+    "id": "set-04-0889",
+    "setId": "set-04",
+    "translations": {
+      "en": "SUPERB",
+      "ru": "ПРЕВОСХОДНО",
+      "es": "MAGNÍFICO"
+    }
+  },
+  {
+    "id": "set-04-0890",
+    "setId": "set-04",
+    "translations": {
+      "en": "SUPPER",
+      "ru": "УЖИН",
+      "es": "CENA"
+    }
+  },
+  {
+    "id": "set-04-0891",
+    "setId": "set-04",
+    "translations": {
+      "en": "SUPPRESS",
+      "ru": "ПОДАВЛЕНИЕ",
+      "es": "REPRIMIR"
+    }
+  },
+  {
+    "id": "set-04-0892",
+    "setId": "set-04",
+    "translations": {
+      "en": "SURGE",
+      "ru": "ВСПЛЕСК",
+      "es": "AUMENTO"
+    }
+  },
+  {
+    "id": "set-04-0893",
+    "setId": "set-04",
+    "translations": {
+      "en": "SURGEON",
+      "ru": "ХИРУРГ",
+      "es": "CIRUJANO"
+    }
+  },
+  {
+    "id": "set-04-0894",
+    "setId": "set-04",
+    "translations": {
+      "en": "SURPLUS",
+      "ru": "ИЗЛИШОК",
+      "es": "SUPERÁVIT"
+    }
+  },
+  {
+    "id": "set-04-0895",
+    "setId": "set-04",
+    "translations": {
+      "en": "SURRENDER",
+      "ru": "СДАВАТЬСЯ",
+      "es": "RENDIRSE"
+    }
+  },
+  {
+    "id": "set-04-0896",
+    "setId": "set-04",
+    "translations": {
+      "en": "SWIFT",
+      "ru": "БЫСТРЫЙ",
+      "es": "RÁPIDO"
+    }
+  },
+  {
+    "id": "set-04-0897",
+    "setId": "set-04",
+    "translations": {
+      "en": "SYNDROME",
+      "ru": "СИНДРОМ",
+      "es": "SÍNDROME"
+    }
+  },
+  {
+    "id": "set-04-0898",
+    "setId": "set-04",
+    "translations": {
+      "en": "SYNTHESIS",
+      "ru": "СИНТЕЗ",
+      "es": "SÍNTESIS"
+    }
+  },
+  {
+    "id": "set-04-0899",
+    "setId": "set-04",
+    "translations": {
+      "en": "TABLESPOON",
+      "ru": "СТОЛОВАЯ ЛОЖКА",
+      "es": "CUCHARADA"
+    }
+  },
+  {
+    "id": "set-04-0900",
+    "setId": "set-04",
+    "translations": {
+      "en": "TAG",
+      "ru": "ЯРЛЫК",
+      "es": "ETIQUETA"
+    }
+  },
+  {
+    "id": "set-04-0901",
+    "setId": "set-04",
+    "translations": {
+      "en": "TANGLE",
+      "ru": "ТРЯСКА",
+      "es": "ENREDO"
+    }
+  },
+  {
+    "id": "set-04-0902",
+    "setId": "set-04",
+    "translations": {
+      "en": "TELECOM",
+      "ru": "ТЕЛЕКОМ",
+      "es": "TELECOMUNICACIONES"
+    }
+  },
+  {
+    "id": "set-04-0903",
+    "setId": "set-04",
+    "translations": {
+      "en": "TELESCOPE",
+      "ru": "ТЕЛЕСКОП",
+      "es": "TELESCOPIO"
+    }
+  },
+  {
+    "id": "set-04-0904",
+    "setId": "set-04",
+    "translations": {
+      "en": "TEMPLE",
+      "ru": "ХРАМ",
+      "es": "TEMPLO"
+    }
+  },
+  {
+    "id": "set-04-0905",
+    "setId": "set-04",
+    "translations": {
+      "en": "TENANT",
+      "ru": "ЖИЛЕЦ",
+      "es": "ARRENDATARIO"
+    }
+  },
+  {
+    "id": "set-04-0906",
+    "setId": "set-04",
+    "translations": {
+      "en": "TERMINAL",
+      "ru": "ТЕРМИНАЛ",
+      "es": "TERMINAL"
+    }
+  },
+  {
+    "id": "set-04-0907",
+    "setId": "set-04",
+    "translations": {
+      "en": "TERMINATE",
+      "ru": "ПРЕКРАТИТЬ",
+      "es": "TERMINAR"
+    }
+  },
+  {
+    "id": "set-04-0908",
+    "setId": "set-04",
+    "translations": {
+      "en": "TERRACE",
+      "ru": "ТЕРРАСА",
+      "es": "TERRAZA"
+    }
+  },
+  {
+    "id": "set-04-0909",
+    "setId": "set-04",
+    "translations": {
+      "en": "TERRIFY",
+      "ru": "УЖАС",
+      "es": "ATERRORIZAR"
+    }
+  },
+  {
+    "id": "set-04-0910",
+    "setId": "set-04",
+    "translations": {
+      "en": "TESTAMENT",
+      "ru": "ЗАВЕЩАНИЕ",
+      "es": "TESTAMENTO"
+    }
+  },
+  {
+    "id": "set-04-0911",
+    "setId": "set-04",
+    "translations": {
+      "en": "TESTIMONY",
+      "ru": "СВИДЕТЕЛЬСТВО",
+      "es": "TESTIMONIO"
+    }
+  },
+  {
+    "id": "set-04-0912",
+    "setId": "set-04",
+    "translations": {
+      "en": "TEXTILE",
+      "ru": "ТЕКСТИЛЬ",
+      "es": "TEXTIL"
+    }
+  },
+  {
+    "id": "set-04-0913",
+    "setId": "set-04",
+    "translations": {
+      "en": "TEXTURE",
+      "ru": "ТЕКСТУРА",
+      "es": "TEXTURA"
+    }
+  },
+  {
+    "id": "set-04-0914",
+    "setId": "set-04",
+    "translations": {
+      "en": "THEFT",
+      "ru": "КРАЖА",
+      "es": "ROBO"
+    }
+  },
+  {
+    "id": "set-04-0915",
+    "setId": "set-04",
+    "translations": {
+      "en": "THEOLOGY",
+      "ru": "ТЕОЛОГИЯ",
+      "es": "TEOLOGÍA"
+    }
+  },
+  {
+    "id": "set-04-0916",
+    "setId": "set-04",
+    "translations": {
+      "en": "THESIS",
+      "ru": "ДИССЕРТАЦИЯ",
+      "es": "TESIS"
+    }
+  },
+  {
+    "id": "set-04-0917",
+    "setId": "set-04",
+    "translations": {
+      "en": "THIGH",
+      "ru": "БЕДРО",
+      "es": "HERMÉTICO"
+    }
+  },
+  {
+    "id": "set-04-0918",
+    "setId": "set-04",
+    "translations": {
+      "en": "THOU",
+      "ru": "ТЫ",
+      "es": "TÚ"
+    }
+  },
+  {
+    "id": "set-04-0919",
+    "setId": "set-04",
+    "translations": {
+      "en": "THREAD",
+      "ru": "НИТЬ",
+      "es": "HILO"
+    }
+  },
+  {
+    "id": "set-04-0920",
+    "setId": "set-04",
+    "translations": {
+      "en": "THRESHOLD",
+      "ru": "ПОРОГ",
+      "es": "LÍMITE"
+    }
+  },
+  {
+    "id": "set-04-0921",
+    "setId": "set-04",
+    "translations": {
+      "en": "THRIVE",
+      "ru": "ПРОЦВЕТАТЬ",
+      "es": "PROSPERAR"
+    }
+  },
+  {
+    "id": "set-04-0922",
+    "setId": "set-04",
+    "translations": {
+      "en": "THRUST",
+      "ru": "ТОЛКАТЬ",
+      "es": "EMPUJE"
+    }
+  },
+  {
+    "id": "set-04-0923",
+    "setId": "set-04",
+    "translations": {
+      "en": "THUMB",
+      "ru": "БОЛЬШОЙ ПАЛЕЦ",
+      "es": "PULGAR"
+    }
+  },
+  {
+    "id": "set-04-0924",
+    "setId": "set-04",
+    "translations": {
+      "en": "THUNDER",
+      "ru": "ГРОМ",
+      "es": "TRUENO"
+    }
+  },
+  {
+    "id": "set-04-0925",
+    "setId": "set-04",
+    "translations": {
+      "en": "TICK",
+      "ru": "ГАЛОЧКА",
+      "es": "GARRAPATA"
+    }
+  },
+  {
+    "id": "set-04-0926",
+    "setId": "set-04",
+    "translations": {
+      "en": "TIGER",
+      "ru": "ТИГР",
+      "es": "TIGRE"
+    }
+  },
+  {
+    "id": "set-04-0927",
+    "setId": "set-04",
+    "translations": {
+      "en": "TILE",
+      "ru": "ПЛИТКА",
+      "es": "TEJA"
+    }
+  },
+  {
+    "id": "set-04-0928",
+    "setId": "set-04",
+    "translations": {
+      "en": "TILT",
+      "ru": "НАКЛОН",
+      "es": "INCLINACIÓN"
+    }
+  },
+  {
+    "id": "set-04-0929",
+    "setId": "set-04",
+    "translations": {
+      "en": "TIMBER",
+      "ru": "ДРЕВЕСИНА",
+      "es": "MADERA"
+    }
+  },
+  {
+    "id": "set-04-0930",
+    "setId": "set-04",
+    "translations": {
+      "en": "TOBACCO",
+      "ru": "ТАБАК",
+      "es": "TABACO"
+    }
+  },
+  {
+    "id": "set-04-0931",
+    "setId": "set-04",
+    "translations": {
+      "en": "TOLERATE",
+      "ru": "ТЕРПИМЫЙ",
+      "es": "TOLERAR"
+    }
+  },
+  {
+    "id": "set-04-0932",
+    "setId": "set-04",
+    "translations": {
+      "en": "TORTURE",
+      "ru": "ПЫТКА",
+      "es": "TORTURA"
+    }
+  },
+  {
+    "id": "set-04-0933",
+    "setId": "set-04",
+    "translations": {
+      "en": "TOXIC",
+      "ru": "ТОКСИЧНЫЙ",
+      "es": "TÓXICO"
+    }
+  },
+  {
+    "id": "set-04-0934",
+    "setId": "set-04",
+    "translations": {
+      "en": "TRAGIC",
+      "ru": "ТРАГИЧНЫЙ",
+      "es": "TRÁGICO"
+    }
+  },
+  {
+    "id": "set-04-0935",
+    "setId": "set-04",
+    "translations": {
+      "en": "TRAIT",
+      "ru": "ЧЕРТА",
+      "es": "RASGO"
+    }
+  },
+  {
+    "id": "set-04-0936",
+    "setId": "set-04",
+    "translations": {
+      "en": "TRANSCRIPT",
+      "ru": "СТЕНОГРАММА",
+      "es": "TRANSCRIPCIÓN"
+    }
+  },
+  {
+    "id": "set-04-0937",
+    "setId": "set-04",
+    "translations": {
+      "en": "TRANSPLANT",
+      "ru": "ТРАНСПЛАНТАЦИЯ",
+      "es": "TRASPLANTE"
+    }
+  },
+  {
+    "id": "set-04-0938",
+    "setId": "set-04",
+    "translations": {
+      "en": "TRAUMA",
+      "ru": "ТРАВМА",
+      "es": "TRAUMA"
+    }
+  },
+  {
+    "id": "set-04-0939",
+    "setId": "set-04",
+    "translations": {
+      "en": "TREMBLE",
+      "ru": "ДРОЖАТЬ",
+      "es": "TEMBLAR"
+    }
+  },
+  {
+    "id": "set-04-0940",
+    "setId": "set-04",
+    "translations": {
+      "en": "TRIANGLE",
+      "ru": "ТРЕУГОЛЬНИК",
+      "es": "TRIÁNGULO"
+    }
+  },
+  {
+    "id": "set-04-0941",
+    "setId": "set-04",
+    "translations": {
+      "en": "TRIBUNAL",
+      "ru": "ТРИБУНАЛ",
+      "es": "TRIBUNAL"
+    }
+  },
+  {
+    "id": "set-04-0942",
+    "setId": "set-04",
+    "translations": {
+      "en": "TRIBUTE",
+      "ru": "ДАНЬ ПАМЯТИ",
+      "es": "HOMENAJE"
+    }
+  },
+  {
+    "id": "set-04-0943",
+    "setId": "set-04",
+    "translations": {
+      "en": "TRIM",
+      "ru": "ПОДРЕЗАТЬ",
+      "es": "RECORTAR"
+    }
+  },
+  {
+    "id": "set-04-0944",
+    "setId": "set-04",
+    "translations": {
+      "en": "TROPHY",
+      "ru": "ТРОФЕЙ",
+      "es": "TROFEO"
+    }
+  },
+  {
+    "id": "set-04-0945",
+    "setId": "set-04",
+    "translations": {
+      "en": "TROPICS",
+      "ru": "ТРОПИКИ",
+      "es": "ZONA TROPICAL"
+    }
+  },
+  {
+    "id": "set-04-0946",
+    "setId": "set-04",
+    "translations": {
+      "en": "TROUSERS",
+      "ru": "БРЮКИ",
+      "es": "PANTALONES"
+    }
+  },
+  {
+    "id": "set-04-0947",
+    "setId": "set-04",
+    "translations": {
+      "en": "TRUSTEE",
+      "ru": "Попечитель",
+      "es": "FIDEICOMISARIO"
+    }
+  },
+  {
+    "id": "set-04-0948",
+    "setId": "set-04",
+    "translations": {
+      "en": "TUCK",
+      "ru": "ТАК",
+      "es": "PLIEGUE"
+    }
+  },
+  {
+    "id": "set-04-0949",
+    "setId": "set-04",
+    "translations": {
+      "en": "TUG",
+      "ru": "БУКСИР",
+      "es": "TIRÓN"
+    }
+  },
+  {
+    "id": "set-04-0950",
+    "setId": "set-04",
+    "translations": {
+      "en": "TUMBLE",
+      "ru": "КАЧАТЬСЯ",
+      "es": "CAÍDA"
+    }
+  },
+  {
+    "id": "set-04-0951",
+    "setId": "set-04",
+    "translations": {
+      "en": "TUMOUR",
+      "ru": "ОПУХОЛЬ",
+      "es": "TUMOR"
+    }
+  },
+  {
+    "id": "set-04-0952",
+    "setId": "set-04",
+    "translations": {
+      "en": "TURNOVER",
+      "ru": "ОБОРОТ",
+      "es": "VOLUMEN DE NEGOCIOS"
+    }
+  },
+  {
+    "id": "set-04-0953",
+    "setId": "set-04",
+    "translations": {
+      "en": "TUTOR",
+      "ru": "РЕПЕТИТОР",
+      "es": "TUTOR"
+    }
+  },
+  {
+    "id": "set-04-0954",
+    "setId": "set-04",
+    "translations": {
+      "en": "UNDERMINE",
+      "ru": "ПОДМЫТЬ",
+      "es": "SOCAVAR"
+    }
+  },
+  {
+    "id": "set-04-0955",
+    "setId": "set-04",
+    "translations": {
+      "en": "UNIFY",
+      "ru": "УНИФЙ",
+      "es": "UNIFICAR"
+    }
+  },
+  {
+    "id": "set-04-0956",
+    "setId": "set-04",
+    "translations": {
+      "en": "UPGRADE",
+      "ru": "ОБНОВЛЕНИЕ",
+      "es": "MEJORA"
+    }
+  },
+  {
+    "id": "set-04-0957",
+    "setId": "set-04",
+    "translations": {
+      "en": "UPWARDS",
+      "ru": "ВВЕРХ",
+      "es": "HACIA ARRIBA"
+    }
+  },
+  {
+    "id": "set-04-0958",
+    "setId": "set-04",
+    "translations": {
+      "en": "UTILISE",
+      "ru": "ИСПОЛЬЗОВАТЬ",
+      "es": "UTILIZAR"
+    }
+  },
+  {
+    "id": "set-04-0959",
+    "setId": "set-04",
+    "translations": {
+      "en": "UTTER",
+      "ru": "ПОЛНЫЙ",
+      "es": "PRONUNCIAR"
+    }
+  },
+  {
+    "id": "set-04-0960",
+    "setId": "set-04",
+    "translations": {
+      "en": "VALIDATE",
+      "ru": "ПРОВЕРКА",
+      "es": "VALIDAR"
+    }
+  },
+  {
+    "id": "set-04-0961",
+    "setId": "set-04",
+    "translations": {
+      "en": "VANISH",
+      "ru": "ИСЧЕЗНУТЬ",
+      "es": "DESAPARECER"
+    }
+  },
+  {
+    "id": "set-04-0962",
+    "setId": "set-04",
+    "translations": {
+      "en": "VEIL",
+      "ru": "ВУАЛЬ",
+      "es": "VELO"
+    }
+  },
+  {
+    "id": "set-04-0963",
+    "setId": "set-04",
+    "translations": {
+      "en": "VEIN",
+      "ru": "ВЕНА",
+      "es": "VENA"
+    }
+  },
+  {
+    "id": "set-04-0964",
+    "setId": "set-04",
+    "translations": {
+      "en": "VENDOR",
+      "ru": "ПРОДАВЕЦ",
+      "es": "PROVEEDOR"
+    }
+  },
+  {
+    "id": "set-04-0965",
+    "setId": "set-04",
+    "translations": {
+      "en": "VENUE",
+      "ru": "МЕСТО ПРОВЕДЕНИЯ",
+      "es": "EVENTO"
+    }
+  },
+  {
+    "id": "set-04-0966",
+    "setId": "set-04",
+    "translations": {
+      "en": "VERBAL",
+      "ru": "ВЕРБАЛЬНЫЙ",
+      "es": "VERBAL"
+    }
+  },
+  {
+    "id": "set-04-0967",
+    "setId": "set-04",
+    "translations": {
+      "en": "VERDICT",
+      "ru": "ВЕРДИКТ",
+      "es": "VEREDICTO"
+    }
+  },
+  {
+    "id": "set-04-0968",
+    "setId": "set-04",
+    "translations": {
+      "en": "VERIFY",
+      "ru": "ПРОВЕРЯТЬ",
+      "es": "VERIFICAR"
+    }
+  },
+  {
+    "id": "set-04-0969",
+    "setId": "set-04",
+    "translations": {
+      "en": "VERSE",
+      "ru": "СТИХ",
+      "es": "VERSÍCULO"
+    }
+  },
+  {
+    "id": "set-04-0970",
+    "setId": "set-04",
+    "translations": {
+      "en": "VERTICAL",
+      "ru": "ВЕРТИКАЛЬНЫЙ",
+      "es": "VERTICAL"
+    }
+  },
+  {
+    "id": "set-04-0971",
+    "setId": "set-04",
+    "translations": {
+      "en": "VETERINARIAN",
+      "ru": "ВЕТЕРИНАР",
+      "es": "VETERINARIO"
+    }
+  },
+  {
+    "id": "set-04-0972",
+    "setId": "set-04",
+    "translations": {
+      "en": "VIABLE",
+      "ru": "ЖИЗНЕСПОСОБНЫЙ",
+      "es": "VIABLE"
+    }
+  },
+  {
+    "id": "set-04-0973",
+    "setId": "set-04",
+    "translations": {
+      "en": "VIBRATE",
+      "ru": "ВИБРАЖАТЬ",
+      "es": "VIBRAR"
+    }
+  },
+  {
+    "id": "set-04-0974",
+    "setId": "set-04",
+    "translations": {
+      "en": "VIGOROUS",
+      "ru": "Энергичный",
+      "es": "VIGOROSO"
+    }
+  },
+  {
+    "id": "set-04-0975",
+    "setId": "set-04",
+    "translations": {
+      "en": "VILLA",
+      "ru": "ВИЛЛА",
+      "es": "VILLA"
+    }
+  },
+  {
+    "id": "set-04-0976",
+    "setId": "set-04",
+    "translations": {
+      "en": "VIRGIN",
+      "ru": "ДЕВСТВЕННИК",
+      "es": "VIRGEN"
+    }
+  },
+  {
+    "id": "set-04-0977",
+    "setId": "set-04",
+    "translations": {
+      "en": "VITAMIN",
+      "ru": "ВИТАМИН",
+      "es": "VITAMINA"
+    }
+  },
+  {
+    "id": "set-04-0978",
+    "setId": "set-04",
+    "translations": {
+      "en": "VIVID",
+      "ru": "ЯРКИЙ",
+      "es": "VÍVIDO"
+    }
+  },
+  {
+    "id": "set-04-0979",
+    "setId": "set-04",
+    "translations": {
+      "en": "VOCAL",
+      "ru": "ВОКАЛ",
+      "es": "VOCAL"
+    }
+  },
+  {
+    "id": "set-04-0980",
+    "setId": "set-04",
+    "translations": {
+      "en": "VOCATION",
+      "ru": "ПРИЗВАНИЕ",
+      "es": "VOCACIÓN"
+    }
+  },
+  {
+    "id": "set-04-0981",
+    "setId": "set-04",
+    "translations": {
+      "en": "VOLCANO",
+      "ru": "ВУЛКАН",
+      "es": "VOLCÁN"
+    }
+  },
+  {
+    "id": "set-04-0982",
+    "setId": "set-04",
+    "translations": {
+      "en": "WAGON",
+      "ru": "ВАГОН",
+      "es": "VAGÓN"
+    }
+  },
+  {
+    "id": "set-04-0983",
+    "setId": "set-04",
+    "translations": {
+      "en": "WAIST",
+      "ru": "ТАЛИЯ",
+      "es": "CINTURA"
+    }
+  },
+  {
+    "id": "set-04-0984",
+    "setId": "set-04",
+    "translations": {
+      "en": "WAITER",
+      "ru": "ОФИЦИАНТ",
+      "es": "MESERO"
+    }
+  },
+  {
+    "id": "set-04-0985",
+    "setId": "set-04",
+    "translations": {
+      "en": "WAN",
+      "ru": "ВАН",
+      "es": "PÁLIDO"
+    }
+  },
+  {
+    "id": "set-04-0986",
+    "setId": "set-04",
+    "translations": {
+      "en": "WARD",
+      "ru": "СТОРОЖИТЬ",
+      "es": "PABELLÓN"
+    }
+  },
+  {
+    "id": "set-04-0987",
+    "setId": "set-04",
+    "translations": {
+      "en": "WAREHOUSE",
+      "ru": "СКЛАД",
+      "es": "DEPÓSITO"
+    }
+  },
+  {
+    "id": "set-04-0988",
+    "setId": "set-04",
+    "translations": {
+      "en": "WARRANT",
+      "ru": "ОРДЕР",
+      "es": "ORDEN"
+    }
+  },
+  {
+    "id": "set-04-0989",
+    "setId": "set-04",
+    "translations": {
+      "en": "WARRIOR",
+      "ru": "ВОИН",
+      "es": "GUERRERO"
+    }
+  },
+  {
+    "id": "set-04-0990",
+    "setId": "set-04",
+    "translations": {
+      "en": "WAX",
+      "ru": "ВОСК",
+      "es": "CERA"
+    }
+  },
+  {
+    "id": "set-04-0991",
+    "setId": "set-04",
+    "translations": {
+      "en": "WEARY",
+      "ru": "УСТАЛЫЙ",
+      "es": "CANSADO"
+    }
+  },
+  {
+    "id": "set-04-0992",
+    "setId": "set-04",
+    "translations": {
+      "en": "WEBS",
+      "ru": "ВЕБЫ",
+      "es": "TELAS"
+    }
+  },
+  {
+    "id": "set-04-0993",
+    "setId": "set-04",
+    "translations": {
+      "en": "WEEP",
+      "ru": "ПЛАКАТЬ",
+      "es": "LLORAR"
+    }
+  },
+  {
+    "id": "set-04-0994",
+    "setId": "set-04",
+    "translations": {
+      "en": "WELLS",
+      "ru": "УЭЛЛС",
+      "es": "POZOS"
+    }
+  },
+  {
+    "id": "set-04-0995",
+    "setId": "set-04",
+    "translations": {
+      "en": "WHALE",
+      "ru": "КИТ",
+      "es": "BALLENA"
+    }
+  },
+  {
+    "id": "set-04-0996",
+    "setId": "set-04",
+    "translations": {
+      "en": "WHISKEY",
+      "ru": "ВИСКИ",
+      "es": "WHISKY"
+    }
+  },
+  {
+    "id": "set-04-0997",
+    "setId": "set-04",
+    "translations": {
+      "en": "WIDOW",
+      "ru": "ВДОВА",
+      "es": "VIUDA"
+    }
+  },
+  {
+    "id": "set-04-0998",
+    "setId": "set-04",
+    "translations": {
+      "en": "WIT",
+      "ru": "ВИТ",
+      "es": "INGENIO"
+    }
+  },
+  {
+    "id": "set-04-0999",
+    "setId": "set-04",
+    "translations": {
+      "en": "WORSHIP",
+      "ru": "ПОКЛОНЕНИЕ",
+      "es": "CULTO"
+    }
+  },
+  {
+    "id": "set-04-1000",
+    "setId": "set-04",
+    "translations": {
+      "en": "WRECK",
+      "ru": "КРУШЕНИЕ",
+      "es": "NAUFRAGIO"
+    }
+  },
+  {
+    "id": "set-04-1001",
+    "setId": "set-04",
+    "translations": {
+      "en": "WRIST",
+      "ru": "ЗАПЯСТЬЕ",
+      "es": "MUÑECA"
+    }
+  }
+]

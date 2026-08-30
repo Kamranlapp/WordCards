@@ -1,0 +1,6 @@
+Words/
+assets/
+tmp/
+coverage/
+.DS_Store
+**/.DS_Store
